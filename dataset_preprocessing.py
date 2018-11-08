@@ -1,9 +1,12 @@
 import sys
-from nltk.stem import PorterStemmer
+from nltk.stem import WordNetLemmatizer
 from nltk import word_tokenize
 from nltk.corpus import stopwords
 stop = set(stopwords.words('english'))
-stemming = PorterStemmer()
+lemmatizer = WordNetLemmatizer()
+
+
+print(lemmatizer.lemmatize(""))
 
 fr = open("file.txt", "r")
 sys.stdout = open('data_preprocess.txt', 'w')
@@ -27,12 +30,10 @@ while True:
         inner_comment = ""
         for j in word_tokenize(comments_split[i]):
             if j not in stop and j not in list:
-                if count == 216:
-                    print(j)
-                lem = stemming.stem(j)
-                inner_comment = inner_comment + lem + " "
+                word_after_lem = lemmatizer.lemmatize(j)
+                inner_comment = inner_comment + word_after_lem + " "
         final_comment = final_comment + inner_comment + "."
 
-    print(count)
+    print(count,end=' ')
     print(final_comment)
     count = count+1
