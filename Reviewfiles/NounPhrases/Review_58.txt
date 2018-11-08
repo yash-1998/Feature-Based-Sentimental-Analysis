@@ -1,0 +1,6 @@
+
+['breakfast']
+['room']
+['service']
+['kitchen']
+['room', 'kitchen']

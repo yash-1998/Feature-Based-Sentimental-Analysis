@@ -1,0 +1,13 @@
+
+['bar']
+['room']
+['chairs']
+['beach', 'chairs']
+['tour']
+['resort', 'tour']
+['resort']
+['VIP']
+['others']
+['tour', 'others']
+['resort', 'tour', 'others']
+['beach']

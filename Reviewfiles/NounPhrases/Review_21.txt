@@ -1,0 +1,11 @@
+
+['service']
+['restaurant']
+['food']
+['Royal']
+['resort']
+['Europeans']
+['side']
+['Royal', 'side']
+['husband']
+['staff']

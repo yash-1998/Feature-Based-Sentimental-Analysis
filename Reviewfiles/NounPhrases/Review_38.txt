@@ -1,0 +1,7 @@
+
+['Inn']
+['Holiday', 'Inn']
+['Holiday']
+['room']
+['location']
+['area']

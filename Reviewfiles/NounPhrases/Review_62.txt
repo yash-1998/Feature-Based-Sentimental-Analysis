@@ -1,0 +1,9 @@
+
+['room']
+['bus']
+['buffet']
+['place']
+['plenty']
+['desk']
+['problem']
+['beach']

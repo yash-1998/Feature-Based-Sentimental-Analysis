@@ -1,0 +1,543 @@
+1
+{u'OTHER': u'p', u'SERVICE': u'p'}
+swiss experience in nyc great stay in nyc thanks to blue moon hotel with its very friendly staff.
+**********************************
+{u'ROOMS': u'p'}
+fine rooms, very quiet.
+**********************************
+{u'LOCATION': u'p'}
+excellent location in downtown.
+**********************************
+{u'OTHER': u'p'}
+highly recommandable
+**********************************
+
+2
+{u'OTHER': u'x'}
+Good Hotel, Minor Complaint
+**********************************
+{u'BUILDING': u'p'}
+Hotel was nice, yes, maybe it needs updating, but it was fine nonetheless.
+**********************************
+{u'LOCATION': u'ip'}
+It is indeed close to everything, Shopping Malls and Pike's Place Market.
+**********************************
+{u'SERVICE': u'p'}
+Hotel staff was friendly and helpful.
+**********************************
+{u'OTHER': u'n'}
+The only complaint I have is the charge for parking- $35.00 for 2 hours is extremely excessive- especially since I was a hotel guest.
+**********************************
+{u'VALUE': u'n'}
+I stayed one night, but the fee for parking, Internet and a bar charge were more than I paid for the room.
+**********************************
+
+3
+{u'NOTRELATED': u'ip'}
+I always try to book Kimpton Hotels
+**********************************
+{u'NOTRELATED': u'p'}
+I've enjoyed staying at Kimpton hotels over the years because of their boutique feel and welcoming atmosphere.
+**********************************
+{u'NOTRELATED': u'p'}
+I also appreciate the wine hours and the coffee in the lobby in the morning.
+**********************************
+{u'NOTRELATED': u'p'}
+I often eat in the attached restaurants which the chain makes an effort to create a destination restaurant.
+**********************************
+{u'OTHER': u'p'}
+The Hotel Vintage Park did not disappoint.
+**********************************
+{u'CHECKIN': u'p', u'LOCATION': u'p'}
+The location is good and the front desk staff are very helpful.
+**********************************
+{u'ROOMS': u'p'}
+The room was comfortable and I appreciate the ability to get different pillows easily.
+**********************************
+{u'ROOMS': u'p', u'BUSINESS': u'p'}
+Having a bathrobe in the room is wonderful, especially for women traveling for business and trying to keep baggage light.
+**********************************
+{u'CLEANLINESS': u'p'}
+Housekeeping did a good job and the room was clean and fully stocked with amenities.
+**********************************
+{u'FOOD': u'p'}
+The Il Tulio Restaurant was also good for dinner.
+**********************************
+
+4
+{u'OTHER': u'p'}
+Absolutely beautiful!!
+**********************************
+{}
+Stayed at the resort from Jan.
+**********************************
+{}
+29-Feb.5, 2006.
+**********************************
+{}
+We went to the resort for our honeymoon, and reading some of the reviews, it made us sceptical of where we were going.
+**********************************
+{u'OTHER': u'p'}
+I dont know what people were complaining about, because we had absolutely NO problems with ANYTHING there!
+**********************************
+{u'FOOD': u'p'}
+We went to the steak house (La Cava) and it was great!
+**********************************
+{u'FOOD': u'p'}
+The presentation was awesome and you get large portion meals there.
+**********************************
+{}
+Only I would recommend eating INSIDE the restaurant, instead of eating outside...I got bitten by some flies/bugs out there (about 30 bites on my legs, which were VERY itchy).
+**********************************
+{}
+We also tried the Mexican and Italian restaurants.
+**********************************
+{u'FOOD': u'x'}
+My husband and I both didnt much care for the Italian food, however many others seemed to enjoy it.
+**********************************
+{u'FOOD': u'p'}
+Our favorite was the Mexican restaurant, in fact we ended up going there twice during our stay!!
+**********************************
+{u'FOOD': u'p'}
+The buffet was quite well...we really enjoyed the omlettes in the mornings!!
+**********************************
+{u'FOOD': u'p', u'VALUE': u'p'}
+There was a LARGE variety of foods to choose from at the buffet and they all had good flavor.I would HIGHLY recommend getting the VIP package....its worth the few extra bucks!
+**********************************
+{u'OTHER': u'ip'}
+With this you recieve a VERY relaxing massasge, premium brand drinks, and lots of other little extras.
+**********************************
+{}
+However, you have to mention to the bartenders that you are VIP and tell them that you want 'Brugal' rum (the better rum), and the more expensive vodka...otherwise they might mistake you for NOT being VIP and not receiving the better alcohol.
+**********************************
+{u'SERVICE': u'p'}
+Our room service from our maids was great, but it also helps if you tip them.
+**********************************
+{}
+We had brought them alot of gifts from home (ex. shampoos, soaps, books, paper, pens, clothes...)
+**********************************
+{u'ROOMS': u'p'}
+We have no complaints about our room AT ALL!!!
+**********************************
+{u'ROOMS': u'p'}
+It was amazing, LARGE bathroom, and a sunk-in living room....it had everything we needed.
+**********************************
+{u'OTHER': u'ip'}
+We spent half of our stay sun-tanning on the beach, and NEVER had trouble finding a hut or chairs to sit on...dont know what other guests were complaing that they couldnt find a place to sit by the beach.
+**********************************
+{}
+The other half of the time we tanned by the pool (the one with the swim up bar).
+**********************************
+{u'OTHER': u'in'}
+There we had to wake up a bit earlier to find chairs to sit on.
+**********************************
+{}
+The sun seemed hotter by the pool, but then again you dont have the ocean breeze blowing and cooling you down....which was nice, because we both got bad wind/sun burns sitting by the beach one afternoon.
+**********************************
+{}
+The main bars that we went to were the swim-up bar during the day and the lobby bar during the evening.
+**********************************
+{u'BUILDING': u'p'}
+The lobby bar is quite beautiful and relaxing.
+**********************************
+{u'NOTRELATED': u'in'}
+We had booked a tour with Turinter (Air Canada affiliated) for the Sanoa Island tour, however that morning the bus that was suppose to pick us up, along with 8 others from our resort, accidentaly missed our resort and left without us all.
+**********************************
+{}
+It was no problem at all dealing with them about this issue.
+**********************************
+{u'NOTRELATED': u'ip'}
+They were more than willing to either re-book us, or return our money back IN FULL.
+**********************************
+{u'NOTRELATED': u'in'}
+We decided not to re-book seeing it was one of our last days there, and heard from others that went on the tour that it actually wasnt worth the $80 american/person.
+**********************************
+{u'NOTRELATED': u'in'}
+They didnt have entertainment on the boat ride at all and never saw ANY fish on their whole tour.
+**********************************
+{u'OTHER': u'p'}
+Overall, my husband and I would definately recommend the resort though.
+**********************************
+{u'BUILDING': u'p', u'SERVICE': u'p'}
+It was absolutely gorgeous and the staff there was amazing.
+**********************************
+{u'OTHER': u'ip'}
+We did ALOT of walking along the beach everyday there, and thought that our resort had the best part of the beach BY FAR!! It was clean and had the most huts and chairs!We would definately go back, and to those of you who are going you'll have a blast!!
+**********************************
+
+5
+{u'OTHER': u'p'}
+Extremely friendly place
+**********************************
+{u'BUILDING': u'p'}
+We stayed in the two-bedroom villa at Ixora and found the place to be comfortable, perfectly maintained and relaxing.
+**********************************
+{u'SERVICE': u'p'}
+The staff were as friendly as you'd find anywhere, and the German owner was always accommodating and friendly - giving us an itinerary and booking a driver for a day trip, as well as offering us a lift into town whenever we wanted.
+**********************************
+{u'LOCATION': u'ip'}
+Some people on tripadvisor have stated how the villas are 'out in the sticks', which seems a little churlish as transport is dirt cheap and you're really not far from anything.
+**********************************
+{u'OTHER': u'x'}
+If clubbing in Legian is your thing then, fair enough, this may not be what you're after - but if you're after a relaxing holiday where you can take in the island at your own pace, you could do much worse than stay here.
+**********************************
+
+6
+{u'OTHER': u'p'}
+Had a fun time!!
+**********************************
+{}
+Hola my husband and i spent the wk mar 9th to the 16th at this hotel.
+**********************************
+{u'BUILDING': u'p', u'FOOD': u'p', u'OTHER': u'p', u'ROOMS': u'ip', u'SERVICE': u'ip'}
+We were treated great from the time we walked in the lobby,we had to wait for a room but it was well worth it! We got an upgrade because it was my husbands b-day while we were there and they knew this ..We had a fun- vacation laughing alot at the entertainment group ,they are an asset to the hotel,Black Banana and Leo kept the pool area and beach hopping and they were all good!! We thought the food was good and the weather couldn't have been better.
+**********************************
+{u'CLEANLINESS': u'p', u'SERVICE': u'p'}
+The evening shows(adult) were fun too...The pool and beach are wonderful,clean and only complaint was the saving of the shade huts,we had to do it too because the sun is intense.
+**********************************
+{}
+.Don't know what the complaints from other reviews were all about they must be really picky!!!
+**********************************
+{}
+Would go back but like new adventures everytime. oh get a massage it was heavenly!
+**********************************
+{}
+Tip the maids etc they work really hard!
+**********************************
+{}
+Gracias for a great wk.....
+**********************************
+
+7
+{u'OTHER': u'p', u'VALUE': u'p'}
+Nice stay for a very good price
+**********************************
+{}
+Since my first stay at the boutiques hotels was very nice i decided that i will check all of them.
+**********************************
+{}
+Last time i stayed at Metropolis, I picked the Maxwell this time.
+**********************************
+{u'ROOMS': u'x'}
+The furniture and the decor at my room were old, (in contrast with the other that has new furniture), the mattress also was old, but still comfortable, i never had a bad sleep night.
+**********************************
+{}
+The hotel were still under renovations for the new look, if it looks now as they promised, it should be looking very modern.
+**********************************
+{}
+As soon as i registered I were informed that i was up-graded to another room.
+**********************************
+{u'ROOMS': u'p'}
+I didn't ask why but i had a bigger room than the one i booked, very spacious with two sofas and a table.
+**********************************
+{u'NOTRELATED': u'ip'}
+I felt like i was at home.
+**********************************
+{u'CLEANLINESS': u'p', u'SERVICE': u'p'}
+The bathroom was very clean and in general everyone at the hotel were always friendly.
+**********************************
+{u'NOTRELATED': u'p'}
+I always felt welcome.
+**********************************
+{u'LOCATION': u'p'}
+The hotel is very good located, everything is light walk distance, you can also take the BART to the airport, which is very convenient.
+**********************************
+{}
+I believe that you can considerer yourself fortunate if you find a decent and affordable hotel in the heart of San Francisco.
+**********************************
+{}
+i forgot to take pictures, but i don't have complains.
+**********************************
+{}
+Don't expect five stars, but expect a clean and comfortable room.
+**********************************
+
+8
+{u'OTHER': u'p'}
+Solid hotel This place is pretty swish, probably what you would expect.
+**********************************
+{u'LOCATION': u'p'}
+Got a good w/e rate as place is in business district, so area is a bit dead but really well located to get to other areas easily and fast.
+**********************************
+{u'CLEANLINESS': u'p', u'ROOMS': u'p', u'SERVICE': u'p'}
+Good service, very nicely styled and clean room which was a good size.
+**********************************
+{u'SERVICE': u'ip'}
+Like most hotels of this calibre, the extras eg internet were an absolute rip off though.
+**********************************
+
+9
+{u'OTHER': u'p'}
+Loved it!!
+**********************************
+{}
+My boyfriend and
+**********************************
+{}
+I stayed at this hotel from Nov 25 to Dec 2.
+**********************************
+{u'OTHER': u'p'}
+I was a bit concerned staying at this property because I had heard a few bad things about this resort, but honestly this hotel is the best hotel I've ever stayed in Punta Cana.
+**********************************
+{u'CLEANLINESS': u'p', u'CHECKIN': u'p'}
+Check in was quick, the grounds are huge, and very clean.
+**********************************
+{u'ROOMS': u'p'}
+The rooms are huge.
+**********************************
+{u'FOOD': u'p'}
+You have 6 restaurants to choose from to go eat, you don't need reservations, but keep in mind that at the a la carte restaurants guys can't wear shorts( dress code in full effect) the food was amazing and I'm a picky eater!
+**********************************
+{u'FOOD': u'p'}
+Drinks let's see; they pretty much make anything you ask them too.
+**********************************
+{u'OTHER': u'p'}
+The beach is huge and very clean, there are plenty of chairs so you don't have to wake up early morning so you can get a chair.
+**********************************
+{u'SERVICE': u'p'}
+Staff are very friendly.
+**********************************
+{u'SERVICE': u'p'}
+The shows at night are very nice especially Chicago and the Lion King!
+**********************************
+{}
+Please put some bug repelant at night there are some mosquitos at night!
+**********************************
+{u'OTHER': u'p', u'SERVICE': u'p'}
+There's not really much to stay about this property except that I had an amazing time and that this hotel and the service provided here is amazing, will i recommend this hotel to my friends and will I stay here again; most definately.
+**********************************
+
+10
+{u'OTHER': u'p'}
+Great modern hotel away from the action in Barcelona
+**********************************
+{u'LOCATION': u'n', u'BUSINESS': u'p'}
+Great hotel for business conventions (part of the reason for my trip), but far from the life of the city.
+**********************************
+{u'BUILDING': u'p', u'FOOD': u'p', u'ROOMS': u'p', u'SERVICE': u'p'}
+In a nutshell, the hotel amenities are fine, staff are friendly and very helpful, the restaurant is good and the rooms are comfortable.
+**********************************
+{u'BUILDING': u'p'}
+A spa/restaurant/pool on the 13th floor is very nice, although I got a bit tired of Hollywood theme songs played at somewhat annoying volumes.
+**********************************
+{u'ROOMS': u'p'}
+All rooms have a view of either the ocean or the city.
+**********************************
+{u'LOCATION': u'n'}
+The only complaint I have is the location.
+**********************************
+{u'LOCATION': u'in'}
+The Diagonal Mar area around the hotel is one of Barcelona's interventions (urban renewal project).
+**********************************
+{u'LOCATION': u'in'}
+Nearby is a shopping mall that is indistinuishable from malls anywhere around the world.
+**********************************
+{}
+I would recommend the tappas bar on the far east end of the terrassa, or explore the sidewalk cafes north of the mall.
+**********************************
+{}
+Access to the city is through bus 41 (about 35 mins to Pl. Catalunya), the yellow metro line (15 mins to Jaume station near Barri Gotic), or a tram that takes you to the Olympic Village via Pl. Glories (about 15 mins).
+**********************************
+{u'NOTRELATED': u'p'}
+Taxi access is very good, located just outside the hotel.
+**********************************
+
+11
+{u'LOCATION': u'p'}
+Excellent Traveling Location
+**********************************
+{}
+We booked our trip to Japan through a Japanese travel agency and this hotel was part of the package deal.
+**********************************
+{u'LOCATION': u'p'}
+It is a good location in that it is near the Shinjuku station, which is one of the major subway and JR line stops.
+**********************************
+{u'NOTRELATED': u'p'}
+There is also a free shuttle to and from the station, which helped (though the walk isn't bad).
+**********************************
+{u'BUILDING': u'p'}
+The hotel seems a litle nicer than your standard Hilton hotels in the US.
+**********************************
+{}
+We stayed here twice - a few days when we arrived and then a few days before we headed home.
+**********************************
+{u'SERVICE': u'p'}
+Service was great and we used the concierge service numerous times to find good restaurants around the area.
+**********************************
+{u'FOOD': u'p'}
+It's a hit and miss with staff speaking English, although for the most part they understood us.We only ate breakfast at the hotel, which was a Japanese and Western style buffet that was excellent.
+**********************************
+{u'FOOD': u'in'}
+However, we skipped eating restaurants on the second floor as they were a bit pricey.
+**********************************
+{u'OTHER': u'in'}
+If Tokyo is the only city you're visiting I'd probably recommend a different hotel as Shinjuku is a business district and pretty quiet at night unless you hang out at the station (the shuttle service ends around 9:30PM).
+**********************************
+{u'OTHER': u'p'}
+If Tokyo is one of many cities on your agenda, I thought this was a great choice.
+**********************************
+{}
+Only downside is the JR to Kyoto/Osaka leaves from Tokyo station, so you have to change stations if you venture west.
+**********************************
+{}
+I strongly recomend getting the JR pass if you do so.
+**********************************
+
+12
+{u'OTHER': u'p'}
+Best Hotel in
+**********************************
+{}
+NY - PERIOD.
+**********************************
+{u'OTHER': u'ip'}
+WOW!
+**********************************
+{u'VALUE': u'p', u'SERVICE': u'p', u'LOCATION': u'p'}
+Perfect location, very friendly staff, and very good rate for St Patrick's Day weekend.
+**********************************
+{}
+(about $220 everything included).
+**********************************
+{u'ROOMS': u'p'}
+The room was bigger than my first apartment - I challenge you to find a room bigger than this for under $1,000.
+**********************************
+{u'BUILDING': u'p'}
+New, sleek, modern COMFORTABLE furniture.
+**********************************
+{u'ROOMS': u'ip'}
+An actual working fireplace in the room, but I don't know if they let guests use it.
+**********************************
+{u'ROOMS': u'ip'}
+Charming chair and reading lamp was just beautiful.
+**********************************
+{u'ROOMS': u'ip'}
+The windows overlooked a playground and courtyard, and it was almost silent during our stay.
+**********************************
+{u'ROOMS': u'ip'}
+We were right next to the elevator, and didn't hear a thing.
+**********************************
+{u'ROOMS': u'ip'}
+Big flat panel TV, plus DVD/VCR unit.
+**********************************
+{u'BUILDING': u'ip', u'ROOMS': u'ip'}
+The sitting area had a really comfy couch that I slept on w/o any problems (but I am only 5 feet /152cm tall), fridge in room so you can have your own food in there.
+**********************************
+{u'ROOMS': u'p'}
+The bathroom was HUGE - probably 8x11ft/ 2.4m x 16.7m?)
+**********************************
+{u'ROOMS': u'ip'}
+and also had a window that you could open .
+**********************************
+{u'OTHER': u'in'}
+It was nice to get real fresh air in, not some noisy, useless fan.The only drawback was that the complimentary breakfast ended at like 9am.
+**********************************
+{u'NOTRELATED': u'in'}
+It should go to 11 at least, but most US hotels end at 9.
+**********************************
+{u'NOTRELATED': u'n'}
+Boooh.
+**********************************
+{u'OTHER': u'ip'}
+Anyway, I cannot say enough good things about this hotel.
+**********************************
+{u'OTHER': u'ip'}
+It was far better than the Waldorf and Sheraton in every way.
+**********************************
+
+13
+{u'ROOMS': u'in'}
+Needs Updating Arrived after late flight and walked into my room and my heart sank.
+**********************************
+{u'ROOMS': u'n'}
+It was terrible!
+**********************************
+{u'ROOMS': u'n'}
+Poky and small.
+**********************************
+{u'CLEANLINESS': u'n', u'ROOMS': u'n'}
+Bathroom was tiny with a dirty sink.
+**********************************
+{u'ROOMS': u'n'}
+I had asked for a non smoking room and room smelt faintly of smoke.
+**********************************
+{u'ROOMS': u'x'}
+Bed was nice although the smell of tabacco wafted up your nose as you were trying to sleep.
+**********************************
+{u'ROOMS': u'n'}
+There was no room to put down my 3 suitcases.
+**********************************
+{}
+We had to walk around them.
+**********************************
+{u'ROOMS': u'in'}
+The balcony/lanai frightened me...
+**********************************
+{u'ROOMS': u'n'}
+it was old and I wondered how much rust was being covered by the paint!
+**********************************
+{u'ROOMS': u'in'}
+I might fall over if I lent on the bars!
+**********************************
+{}
+I had a 2 room upgrade!
+**********************************
+{}
+I wouldn't have liked to have stayed in my original room...
+**********************************
+{u'OTHER': u'in'}
+it would have been far worse experience than what I had.
+**********************************
+{u'OTHER': u'in'}
+I'd give it about a 3 or 4 out of 10!!
+**********************************
+{u'OTHER': u'in'}
+Looks nothing like the picture in brochures!!!
+**********************************
+{u'VALUE': u'n'}
+For value for money, the Royal Hawaiian, Moama Surf or Sheraton might be approx $100 per night dearer, but you are getting about $400 more in value.
+**********************************
+{}
+Worth the extra money!!
+**********************************
+
+14
+{u'OTHER': u'p'}
+I Had a Great Experience!
+**********************************
+{}
+I was a little worried when I read some recent reviews of this hotel.
+**********************************
+{u'OTHER': u'p'}
+I'm glad I chose to stay at the Singel!
+**********************************
+{u'CLEANLINESS': u'p', u'ROOMS': u'p'}
+The desk clerk joked that I had the smallest room in all of Amsterdam and he was probably right but it suited my needs perfectly: a very clean, quiet room with all the amenities (shower, TV w/cable).
+**********************************
+{u'ROOMS': u'p'}
+I requested a non-smoking room and the room was bright, modern, airy and smoke-free!
+**********************************
+{u'LOCATION': u'p'}
+The location is fabulous - near Centraal Station but on a quiet canal virtually in the city center but close to the western side of town with great shops and restaurants.
+**********************************
+{u'FOOD': u'p'}
+Breakfast at Singel included an array of meats, cheeses, fruit, toasts, yogurt, granola, juice.
+**********************************
+{u'FOOD': u'p'}
+Each table gets a carafe of coffee/tea.
+**********************************
+{u'SERVICE': u'p'}
+Friendly service - yes you leave your room key but this is common in Europe! Would I stay here again? Yes!!
+**********************************
+
+15
+{u'OTHER': u'p'}
+A top choice in Barcelona
+**********************************
+{}
+I spent two nights at the Casa Fuster from 26-28 November.
+**********************************
+{u'VALUE': u'p'}
+I had spent two nights at the Hotel 1898 on Las Ramblas before checking in to the CF, and although a night in a Standard room at the CF was 110 Euro a night more expensive than a Superior room at the 1898, the CF truly is in a different class than the 1898 and is worth the extra money.I should say however that a local travel agent quoted me a rate of Euro 240/night inclusive of breakfast at the CF for the weekend of November 17th, but I ended up having to change my travel dates due to work.
+**********************************
+{}
