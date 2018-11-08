@@ -29,10 +29,9 @@ while True:
             if j not in stop and j not in list:
                 if count == 216:
                     print(j)
-                lem = stemming.stem(j)
-                inner_comment = inner_comment + lem + " "
+                inner_comment = inner_comment + j + " "
         final_comment = final_comment + inner_comment + "."
 
-    print(count)
+    print(count,end=' ')
     print(final_comment)
     count = count+1
