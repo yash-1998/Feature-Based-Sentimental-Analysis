@@ -1,4 +1,3 @@
-
 ['Yamanote']
 ['train', 'Yamanote']
 ['line', 'train', 'Yamanote']

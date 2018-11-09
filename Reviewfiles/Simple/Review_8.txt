@@ -1,0 +1,1 @@
+[['hotel', 'place'], ['w/e', 'rate', 'place', 'business', 'district', 'area', 'bit', 'areas'], ['service', 'room', 'size'], ['hotels', 'calibre', 'extras', 'internet', 'rip']]

@@ -16,7 +16,7 @@ __author__ = 'Eric Naeseth <eric@naeseth.com>'
 __copyright__ = 'Copyright © 2009 Eric Naeseth'
 __license__ = 'MIT License'
 
-def find_frequent_itemsets(transactions, minimum_support, include_support=False):
+def find_frequent_itemsets(transactions, minimum_support, include_support=True):
     """
     Find frequent itemsets in the given transactions using FP-growth. This
     function returns a generator instead of an eagerly-populated list of items.

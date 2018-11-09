@@ -1,0 +1,1 @@
+[['place', 'Barcelona'], ['Ive', 'Barcelona', 'times', 'city', 'center', 'time', 'Hotel'], ['mistake'], ['Altought', 'Hotel', 'staff'], ['house', 'staff'], ['Breakfeast'], ['haw', 'star', 'hotel'], ['point', 'one', 'city', 'Hotel', 'taxi', 'directions'], ['place']]

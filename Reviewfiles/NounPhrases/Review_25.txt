@@ -1,4 +1,3 @@
-
 ['Vitale']
 ['Hotel', 'Vitale']
 ['hotel']

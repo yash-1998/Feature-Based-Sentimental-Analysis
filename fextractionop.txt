@@ -1,148 +1,148 @@
 POS tagging...
 Extracting features...
 /home/yash/Desktop/miniproject/Reviewfiles/Review_31.txt
-defaultdict(<function <lambda> at 0x7ff2b1777500>, {})
+defaultdict(<function <lambda> at 0x7fa2bedda500>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_63.txt
-defaultdict(<function <lambda> at 0x7ff2b1777500>, {})
+defaultdict(<function <lambda> at 0x7fa2bedda500>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_35.txt
-defaultdict(<function <lambda> at 0x7ff2b1777500>, {})
+defaultdict(<function <lambda> at 0x7fa2bedda500>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_1.txt
-defaultdict(<function <lambda> at 0x7ff2b1777500>, {})
+defaultdict(<function <lambda> at 0x7fa2bedda500>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_11.txt
-defaultdict(<function <lambda> at 0x7ff2b1777500>, {})
+defaultdict(<function <lambda> at 0x7fa2bedda500>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_18.txt
-defaultdict(<function <lambda> at 0x7ff2b1777500>, {})
+defaultdict(<function <lambda> at 0x7fa2bedda500>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_6.txt
-defaultdict(<function <lambda> at 0x7ff2b1777500>, {})
+defaultdict(<function <lambda> at 0x7fa2bedda500>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_66.txt
-defaultdict(<function <lambda> at 0x7ff2b1777500>, {})
+defaultdict(<function <lambda> at 0x7fa2bedda500>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_22.txt
-defaultdict(<function <lambda> at 0x7ff2b1777500>, {})
+defaultdict(<function <lambda> at 0x7fa2bedda500>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_24.txt
-defaultdict(<function <lambda> at 0x7ff2b1777500>, {})
+defaultdict(<function <lambda> at 0x7fa2bedda500>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_67.txt
-defaultdict(<function <lambda> at 0x7ff2b1777500>, {})
+defaultdict(<function <lambda> at 0x7fa2bedda500>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_43.txt
-defaultdict(<function <lambda> at 0x7ff2b1777500>, {})
+defaultdict(<function <lambda> at 0x7fa2bedda500>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_21.txt
-defaultdict(<function <lambda> at 0x7ff2b1777500>, {})
+defaultdict(<function <lambda> at 0x7fa2bedda500>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_39.txt
-defaultdict(<function <lambda> at 0x7ff2b1777500>, {})
+defaultdict(<function <lambda> at 0x7fa2bedda500>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_29.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddae60>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_44.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_36.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_62.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_53.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_27.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_19.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_42.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddae60>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_46.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddae60>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_50.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddae60>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_73.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddae60>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_55.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddae60>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_23.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddae60>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_59.txt
-defaultdict(<function <lambda> at 0x7ff2b01252a8>, {})
+defaultdict(<function <lambda> at 0x7fa2bd7882a8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_69.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddae60>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_38.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddae60>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_68.txt
-defaultdict(<function <lambda> at 0x7ff2b0125410>, {})
+defaultdict(<function <lambda> at 0x7fa2bd788410>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_33.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddae60>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_30.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddae60>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_17.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddae60>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_3.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddae60>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_64.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddae60>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_13.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddae60>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_12.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddae60>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_65.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddae60>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_34.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddae60>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_9.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddae60>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_26.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddae60>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_72.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_41.txt
-defaultdict(<function <lambda> at 0x7ff2b1777f50>, {})
+defaultdict(<function <lambda> at 0x7fa2beddaf50>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_61.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_56.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_7.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_57.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_45.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_40.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_52.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_58.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_2.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_60.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_37.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_25.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_28.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_14.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_5.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_16.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_4.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_15.txt
-defaultdict(<function <lambda> at 0x7ff2b1777de8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddade8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_8.txt
-defaultdict(<function <lambda> at 0x7ff2b1777ed8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddaed8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_51.txt
-defaultdict(<function <lambda> at 0x7ff2b1777ed8>, {})
+defaultdict(<function <lambda> at 0x7fa2beddaed8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_32.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddaed8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_20.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddaed8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_71.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddaed8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_48.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddaed8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_70.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddaed8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_10.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddaed8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_54.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddaed8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_47.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddaed8>, {})
 /home/yash/Desktop/miniproject/Reviewfiles/Review_49.txt
-defaultdict(<function <lambda> at 0x7ff2b1777e60>, {})
+defaultdict(<function <lambda> at 0x7fa2beddaed8>, {})

@@ -8,7 +8,7 @@ import os
 from fp_growth import find_frequent_itemsets
 
 pattern = re.compile("[A-Za-z0-9]+")
-sys.stdout = open('fextractionop.txt', 'w')
+sys.stdout = open('fextractionop.txt','w')
 
 filelist=glob.glob("/home/yash/Desktop/miniproject/Reviewfiles/*.txt")
 print "POS tagging..."
@@ -20,9 +20,6 @@ for filename in filelist:
 	sentenceNounList=[]
 	head, tail = os.path.split(filename)
 	base=os.path.splitext(tail)[0]
-	# print(head)  /home/yash/Desktop/miniproject/Reviewfiles
-	# print(tail)	Review_31.txt
-	# print(base)	Review_31
 	posFile=open(head+"/POS tagged/"+base+".txt",'w')
 	for line in open(filename,'r').readlines():
 		tokens = word_tokenize(line)
@@ -40,15 +37,18 @@ for filename in filelist:
 		sentenceNounList.append(nouns)
 	posFile.close()	
 
-	with open(head+"/CSV/"+base+".csv", "w") as f:
-		writer = csv.writer(f)
-		writer.writerows(sentenceNounList)
-	f.close()
+
+	simple=open(head+"/Simple/"+base+".txt",'w')
+	simple.write(str(sentenceNounList))
+	# with open(head+"/CSV/"+base+".csv", "w") as f:
+	# 	writer = csv.writer(f)
+	# 	writer.writerows(sentenceNounList)
+	# f.close()
 
 	#Save the Frequent Noun Phrases in NounPhrases Folder for each Review File/Database
 	npFile=open(head+"/NounPhrases/"+base+".txt",'w')
 	
 	#Find the frequent Noun Phrases in each Review File/Database
 	for itemset in find_frequent_itemsets(sentenceNounList,3):
-		npFile.write('\n'+str(itemset))	
+		npFile.write(str(itemset)+'\n')	
 	npFile.close()

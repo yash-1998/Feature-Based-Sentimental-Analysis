@@ -1,0 +1,1 @@
+[['Hotel'], ['room', 'back', 'hotel', 'light', 'outside'], ['beds'], ['beds', 'hotel', 'rating'], ['Concierge', 'presence', 'reception', 'staff'], ['bill', 'incorrect', 'charges', 'bills'], ['hotel'], ['location']]

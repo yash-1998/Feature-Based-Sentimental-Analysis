@@ -1,0 +1,1 @@
+[[], ['someone', 'carpets', 'shabby', 'shabby', 'scent'], ['sheet', 'beds', 'room', 'someone', 'elses', 'change', 'bits', 'bedspread', 'sheets'], ['staff', 'breakfast'], ['room', 'day'], ['hotel', 'spacing', 'bathroom', 'feature']]
