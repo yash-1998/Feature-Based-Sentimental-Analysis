@@ -1,12 +1,8 @@
 import sys
-from nltk.stem import WordNetLemmatizer
 from nltk import word_tokenize
 from nltk.corpus import stopwords
 stop = set(stopwords.words('english'))
-lemmatizer = WordNetLemmatizer()
 
-
-print(lemmatizer.lemmatize(""))
 
 fr = open("file.txt", "r")
 sys.stdout = open('data_preprocess.txt', 'w')

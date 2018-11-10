@@ -4,8 +4,11 @@
 
 import nltk
 from nltk.util import ngrams
+from nltk.stem import WordNetLemmatizer
+lemmatizer = WordNetLemmatizer()
 
 dict = {}
+final_dict = {}
 fr = open("data_preprocess.txt", "r")
 
 gram_1_final = []
@@ -74,14 +77,22 @@ for i in range(len(gram_3_final)):
 for i in range(len(gram_4_final)):
     word = gram_4_final[i][0] + " " + gram_4_final[i][1] + " " + gram_4_final[i][2] + " " + gram_4_final[i][3]
     temp = nltk.tag.pos_tag([word])
-    if temp[0][1][0]=='N' :
+    if temp[0][1][0] == 'N':
         if word in dict:
             dict[word] = dict[word] + 1
         else:
             dict[word] = 0
 
 
-sorted_dict = sorted(dict.items(), key=lambda kv: kv[1], reverse=True)
+for key, value in dict.items():
+    word = lemmatizer.lemmatize(key)
+    if word in final_dict:
+        final_dict[word] = final_dict[word] + value
+    else:
+        final_dict[word] = value
+
+
+sorted_dict = sorted(final_dict.items(), key=lambda kv: kv[1], reverse=True)
 print(sorted_dict)
 
 
