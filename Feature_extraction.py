@@ -1,4 +1,6 @@
 # File takes almost 3 mins.
+# We have used NLTK standard pos_tag
+# and not stanford tagger
 
 import nltk
 from nltk.util import ngrams

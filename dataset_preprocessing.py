@@ -30,8 +30,7 @@ while True:
         inner_comment = ""
         for j in word_tokenize(comments_split[i]):
             if j not in stop and j not in list:
-                word_after_lem = lemmatizer.lemmatize(j)
-                inner_comment = inner_comment + word_after_lem + " "
+                inner_comment = inner_comment + j + " "
         final_comment = final_comment + inner_comment + "."
 
     print(count,end=' ')
