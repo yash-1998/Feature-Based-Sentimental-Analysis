@@ -19,21 +19,20 @@ def convert(x):
 count = 1
 for i in range(len(df1['segments'])):
     df1.at[i, 'segments'] = convert(df1['segments'][i])
-    print(count,end=' ')
+    print(count)
     print(df1['segments'][i])
     count = count + 1
 
 
 for i in range(len(df2['segments'])):
     df2.at[i, 'segments'] = convert(df2['segments'][i])
-    print(count,end=' ')
+    print(count)
     print(df2['segments'][i])
     count = count + 1
 
 for i in range(len(df3['segments'])):
     df3.at[i, 'segments'] = convert(df3['segments'][i])
-    print(count,end=' ')
+    print(count)
     print(df3['segments'][i])
     count = count + 1
-
 

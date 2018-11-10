@@ -1,0 +1,1080 @@
+1
+{u'OTHER': u'p', u'SERVICE': u'p'}
+[(u'swiss', 'JJ'), (u'experience', 'NN'), (u'in', 'IN'), (u'nyc', 'JJ'), (u'great', 'JJ'), (u'stay', 'NN'), (u'in', 'IN'), (u'nyc', 'JJ'), (u'thanks', 'NNS'), (u'to', 'TO'), (u'blue', 'VB'), (u'moon', 'JJ'), (u'hotel', 'NN'), (u'with', 'IN'), (u'its', 'PRP$'), (u'very', 'RB'), (u'friendly', 'JJ'), (u'staff', 'NN'), (u'.', '.')]
+swiss :: 
+nyc :: 
+great :: 
+nyc :: 
+moon :: 
+friendly :: 
+**********************************
+{u'ROOMS': u'p'}
+[(u'fine', 'NN'), (u'rooms', 'NNS'), (u',', ','), (u'very', 'RB'), (u'quiet', 'JJ'), (u'.', '.')]
+quiet :: 
+**********************************
+{u'LOCATION': u'p'}
+[(u'excellent', 'JJ'), (u'location', 'NN'), (u'in', 'IN'), (u'downtown', 'NN'), (u'.', '.')]
+excellent :: 
+**********************************
+{u'OTHER': u'p'}
+[(u'highly', 'RB'), (u'recommandable', 'JJ')]
+recommandable :: 
+**********************************
+
+2
+{u'OTHER': u'x'}
+[(u'Good', 'JJ'), (u'Hotel', 'NNP'), (u',', ','), (u'Minor', 'NNP'), (u'Complaint', 'NNP')]
+Good :: 
+**********************************
+{u'BUILDING': u'p'}
+[(u'Hotel', 'NN'), (u'was', 'VBD'), (u'nice', 'JJ'), (u',', ','), (u'yes', 'UH'), (u',', ','), (u'maybe', 'RB'), (u'it', 'PRP'), (u'needs', 'VBZ'), (u'updating', 'JJ'), (u',', ','), (u'but', 'CC'), (u'it', 'PRP'), (u'was', 'VBD'), (u'fine', 'JJ'), (u'nonetheless', 'RB'), (u'.', '.')]
+nice :: 
+updating :: 
+fine :: 
+**********************************
+{u'LOCATION': u'ip'}
+[(u'It', 'PRP'), (u'is', 'VBZ'), (u'indeed', 'RB'), (u'close', 'JJ'), (u'to', 'TO'), (u'everything', 'NN'), (u',', ','), (u'Shopping', 'NNP'), (u'Malls', 'NNP'), (u'and', 'CC'), (u'Pike', 'NNP'), (u"'s", 'POS'), (u'Place', 'NN'), (u'Market', 'NNP'), (u'.', '.')]
+close :: 
+**********************************
+{u'SERVICE': u'p'}
+[(u'Hotel', 'NNP'), (u'staff', 'NN'), (u'was', 'VBD'), (u'friendly', 'JJ'), (u'and', 'CC'), (u'helpful', 'JJ'), (u'.', '.')]
+friendly :: 
+helpful :: 
+**********************************
+{u'OTHER': u'n'}
+[(u'The', 'DT'), (u'only', 'JJ'), (u'complaint', 'NN'), (u'I', 'PRP'), (u'have', 'VBP'), (u'is', 'VBZ'), (u'the', 'DT'), (u'charge', 'NN'), (u'for', 'IN'), (u'parking-', 'JJ'), (u'$', '$'), (u'35.00', 'CD'), (u'for', 'IN'), (u'2', 'CD'), (u'hours', 'NNS'), (u'is', 'VBZ'), (u'extremely', 'RB'), (u'excessive-', 'JJ'), (u'especially', 'RB'), (u'since', 'IN'), (u'I', 'PRP'), (u'was', 'VBD'), (u'a', 'DT'), (u'hotel', 'NN'), (u'guest', 'NN'), (u'.', '.')]
+only :: 
+parking- :: 
+excessive- :: 
+**********************************
+{u'VALUE': u'n'}
+[(u'I', 'PRP'), (u'stayed', 'VBD'), (u'one', 'CD'), (u'night', 'NN'), (u',', ','), (u'but', 'CC'), (u'the', 'DT'), (u'fee', 'NN'), (u'for', 'IN'), (u'parking', 'NN'), (u',', ','), (u'Internet', 'NNP'), (u'and', 'CC'), (u'a', 'DT'), (u'bar', 'NN'), (u'charge', 'NN'), (u'were', 'VBD'), (u'more', 'JJR'), (u'than', 'IN'), (u'I', 'PRP'), (u'paid', 'VBD'), (u'for', 'IN'), (u'the', 'DT'), (u'room', 'NN'), (u'.', '.')]
+more :: 
+**********************************
+
+3
+{u'NOTRELATED': u'ip'}
+[(u'I', 'PRP'), (u'always', 'RB'), (u'try', 'VBP'), (u'to', 'TO'), (u'book', 'NN'), (u'Kimpton', 'NNP'), (u'Hotels', 'NNP')]
+**********************************
+{u'NOTRELATED': u'p'}
+[(u'I', 'PRP'), (u"'ve", 'VBP'), (u'enjoyed', 'VBN'), (u'staying', 'VBG'), (u'at', 'IN'), (u'Kimpton', 'NNP'), (u'hotels', 'NNS'), (u'over', 'IN'), (u'the', 'DT'), (u'years', 'NNS'), (u'because', 'IN'), (u'of', 'IN'), (u'their', 'PRP$'), (u'boutique', 'NN'), (u'feel', 'NN'), (u'and', 'CC'), (u'welcoming', 'VBG'), (u'atmosphere', 'RB'), (u'.', '.')]
+**********************************
+{u'NOTRELATED': u'p'}
+[(u'I', 'PRP'), (u'also', 'RB'), (u'appreciate', 'VBP'), (u'the', 'DT'), (u'wine', 'NN'), (u'hours', 'NNS'), (u'and', 'CC'), (u'the', 'DT'), (u'coffee', 'NN'), (u'in', 'IN'), (u'the', 'DT'), (u'lobby', 'NN'), (u'in', 'IN'), (u'the', 'DT'), (u'morning', 'NN'), (u'.', '.')]
+**********************************
+{u'NOTRELATED': u'p'}
+[(u'I', 'PRP'), (u'often', 'RB'), (u'eat', 'VBP'), (u'in', 'IN'), (u'the', 'DT'), (u'attached', 'JJ'), (u'restaurants', 'NNS'), (u'which', 'WDT'), (u'the', 'DT'), (u'chain', 'NN'), (u'makes', 'VBZ'), (u'an', 'DT'), (u'effort', 'NN'), (u'to', 'TO'), (u'create', 'VB'), (u'a', 'DT'), (u'destination', 'NN'), (u'restaurant', 'NN'), (u'.', '.')]
+attached :: 
+**********************************
+{u'OTHER': u'p'}
+[(u'The', 'DT'), (u'Hotel', 'NNP'), (u'Vintage', 'NNP'), (u'Park', 'NNP'), (u'did', 'VBD'), (u'not', 'RB'), (u'disappoint', 'NN'), (u'.', '.')]
+**********************************
+{u'CHECKIN': u'p', u'LOCATION': u'p'}
+[(u'The', 'DT'), (u'location', 'NN'), (u'is', 'VBZ'), (u'good', 'JJ'), (u'and', 'CC'), (u'the', 'DT'), (u'front', 'NN'), (u'desk', 'NN'), (u'staff', 'NN'), (u'are', 'VBP'), (u'very', 'RB'), (u'helpful', 'JJ'), (u'.', '.')]
+good :: 
+helpful :: 
+**********************************
+{u'ROOMS': u'p'}
+[(u'The', 'DT'), (u'room', 'NN'), (u'was', 'VBD'), (u'comfortable', 'JJ'), (u'and', 'CC'), (u'I', 'PRP'), (u'appreciate', 'VBP'), (u'the', 'DT'), (u'ability', 'NN'), (u'to', 'TO'), (u'get', 'VB'), (u'different', 'JJ'), (u'pillows', 'NNS'), (u'easily', 'RB'), (u'.', '.')]
+comfortable :: 
+different :: 
+**********************************
+{u'ROOMS': u'p', u'BUSINESS': u'p'}
+[(u'Having', 'VBG'), (u'a', 'DT'), (u'bathrobe', 'NN'), (u'in', 'IN'), (u'the', 'DT'), (u'room', 'NN'), (u'is', 'VBZ'), (u'wonderful', 'JJ'), (u',', ','), (u'especially', 'RB'), (u'for', 'IN'), (u'women', 'NNS'), (u'traveling', 'VBG'), (u'for', 'IN'), (u'business', 'NN'), (u'and', 'CC'), (u'trying', 'VBG'), (u'to', 'TO'), (u'keep', 'VB'), (u'baggage', 'NN'), (u'light', 'NN'), (u'.', '.')]
+wonderful :: 
+**********************************
+{u'CLEANLINESS': u'p'}
+[(u'Housekeeping', 'VBG'), (u'did', 'VBD'), (u'a', 'DT'), (u'good', 'JJ'), (u'job', 'NN'), (u'and', 'CC'), (u'the', 'DT'), (u'room', 'NN'), (u'was', 'VBD'), (u'clean', 'JJ'), (u'and', 'CC'), (u'fully', 'RB'), (u'stocked', 'VBN'), (u'with', 'IN'), (u'amenities', 'NNS'), (u'.', '.')]
+good :: 
+clean :: 
+**********************************
+{u'FOOD': u'p'}
+[(u'The', 'DT'), (u'Il', 'NNP'), (u'Tulio', 'NNP'), (u'Restaurant', 'NNP'), (u'was', 'VBD'), (u'also', 'RB'), (u'good', 'JJ'), (u'for', 'IN'), (u'dinner', 'NN'), (u'.', '.')]
+good :: 
+**********************************
+
+4
+{u'OTHER': u'p'}
+[(u'Absolutely', 'RB'), (u'beautiful', 'JJ'), (u'!', '.')]
+beautiful :: 
+[(u'!', '.')]
+**********************************
+{}
+[(u'Stayed', 'VBN'), (u'at', 'IN'), (u'the', 'DT'), (u'resort', 'NN'), (u'from', 'IN'), (u'Jan', 'NNP'), (u'.', '.')]
+**********************************
+{}
+[(u'29-Feb.5', 'CD'), (u',', ','), (u'2006', 'CD'), (u'.', '.')]
+**********************************
+{}
+[(u'We', 'PRP'), (u'went', 'VBD'), (u'to', 'TO'), (u'the', 'DT'), (u'resort', 'NN'), (u'for', 'IN'), (u'our', 'PRP$'), (u'honeymoon', 'NN'), (u',', ','), (u'and', 'CC'), (u'reading', 'VBG'), (u'some', 'DT'), (u'of', 'IN'), (u'the', 'DT'), (u'reviews', 'NNS'), (u',', ','), (u'it', 'PRP'), (u'made', 'VBD'), (u'us', 'PRP'), (u'sceptical', 'JJ'), (u'of', 'IN'), (u'where', 'WRB'), (u'we', 'PRP'), (u'were', 'VBD'), (u'going', 'VBG'), (u'.', '.')]
+sceptical :: 
+**********************************
+{u'OTHER': u'p'}
+[(u'I', 'PRP'), (u'dont', 'VBP'), (u'know', 'VB'), (u'what', 'WP'), (u'people', 'NNS'), (u'were', 'VBD'), (u'complaining', 'VBG'), (u'about', 'RB'), (u',', ','), (u'because', 'IN'), (u'we', 'PRP'), (u'had', 'VBD'), (u'absolutely', 'RB'), (u'NO', 'NNP'), (u'problems', 'NNS'), (u'with', 'IN'), (u'ANYTHING', 'NNP'), (u'there', 'RB'), (u'!', '.')]
+**********************************
+{u'FOOD': u'p'}
+[(u'We', 'PRP'), (u'went', 'VBD'), (u'to', 'TO'), (u'the', 'DT'), (u'steak', 'NN'), (u'house', 'NN'), (u'(', '('), (u'La', 'NNP'), (u'Cava', 'NNP'), (u')', ')'), (u'and', 'CC'), (u'it', 'PRP'), (u'was', 'VBD'), (u'great', 'JJ'), (u'!', '.')]
+great :: 
+**********************************
+{u'FOOD': u'p'}
+[(u'The', 'DT'), (u'presentation', 'NN'), (u'was', 'VBD'), (u'awesome', 'JJ'), (u'and', 'CC'), (u'you', 'PRP'), (u'get', 'VBP'), (u'large', 'JJ'), (u'portion', 'NN'), (u'meals', 'NNS'), (u'there', 'RB'), (u'.', '.')]
+awesome :: 
+large :: 
+**********************************
+{}
+[(u'Only', 'RB'), (u'I', 'PRP'), (u'would', 'MD'), (u'recommend', 'VB'), (u'eating', 'VBG'), (u'INSIDE', 'IN'), (u'the', 'DT'), (u'restaurant', 'NN'), (u',', ','), (u'instead', 'RB'), (u'of', 'IN'), (u'eating', 'VBG'), (u'outside', 'IN'), (u'...', ':'), (u'I', 'PRP'), (u'got', 'VBD'), (u'bitten', 'VBN'), (u'by', 'IN'), (u'some', 'DT'), (u'flies/bugs', 'NNS'), (u'out', 'IN'), (u'there', 'RB'), (u'(', '('), (u'about', 'IN'), (u'30', 'CD'), (u'bites', 'NNS'), (u'on', 'IN'), (u'my', 'PRP$'), (u'legs', 'NNS'), (u',', ','), (u'which', 'WDT'), (u'were', 'VBD'), (u'VERY', 'NNP'), (u'itchy', 'NN'), (u')', ')'), (u'.', '.')]
+**********************************
+{}
+[(u'We', 'PRP'), (u'also', 'RB'), (u'tried', 'VBD'), (u'the', 'DT'), (u'Mexican', 'NNP'), (u'and', 'CC'), (u'Italian', 'JJ'), (u'restaurants', 'NNS'), (u'.', '.')]
+Italian :: 
+**********************************
+{u'FOOD': u'x'}
+[(u'My', 'PRP$'), (u'husband', 'NN'), (u'and', 'CC'), (u'I', 'PRP'), (u'both', 'DT'), (u'didnt', 'VBP'), (u'much', 'JJ'), (u'care', 'NN'), (u'for', 'IN'), (u'the', 'DT'), (u'Italian', 'JJ'), (u'food', 'NN'), (u',', ','), (u'however', 'RB'), (u'many', 'JJ'), (u'others', 'NNS'), (u'seemed', 'VBD'), (u'to', 'TO'), (u'enjoy', 'VB'), (u'it', 'PRP'), (u'.', '.')]
+much :: 
+Italian :: 
+many :: 
+**********************************
+{u'FOOD': u'p'}
+[(u'Our', 'PRP$'), (u'favorite', 'NN'), (u'was', 'VBD'), (u'the', 'DT'), (u'Mexican', 'NNP'), (u'restaurant', 'NN'), (u',', ','), (u'in', 'IN'), (u'fact', 'NN'), (u'we', 'PRP'), (u'ended', 'VBD'), (u'up', 'RP'), (u'going', 'VBG'), (u'there', 'RB'), (u'twice', 'RB'), (u'during', 'IN'), (u'our', 'PRP$'), (u'stay', 'NN'), (u'!', '.')]
+[(u'!', '.')]
+**********************************
+{u'FOOD': u'p'}
+[(u'The', 'DT'), (u'buffet', 'NN'), (u'was', 'VBD'), (u'quite', 'RB'), (u'well', 'RB'), (u'...', ':'), (u'we', 'PRP'), (u'really', 'RB'), (u'enjoyed', 'VBD'), (u'the', 'DT'), (u'omlettes', 'NNS'), (u'in', 'IN'), (u'the', 'DT'), (u'mornings', 'NNS'), (u'!', '.')]
+[(u'!', '.')]
+**********************************
+{u'FOOD': u'p', u'VALUE': u'p'}
+[(u'There', 'EX'), (u'was', 'VBD'), (u'a', 'DT'), (u'LARGE', 'JJ'), (u'variety', 'NN'), (u'of', 'IN'), (u'foods', 'NNS'), (u'to', 'TO'), (u'choose', 'VB'), (u'from', 'IN'), (u'at', 'IN'), (u'the', 'DT'), (u'buffet', 'NN'), (u'and', 'CC'), (u'they', 'PRP'), (u'all', 'DT'), (u'had', 'VBD'), (u'good', 'JJ'), (u'flavor.I', 'NNS'), (u'would', 'MD'), (u'HIGHLY', 'VB'), (u'recommend', 'VB'), (u'getting', 'VBG'), (u'the', 'DT'), (u'VIP', 'NNP'), (u'package', 'NN'), (u'...', ':'), (u'.its', 'VBZ'), (u'worth', 'IN'), (u'the', 'DT'), (u'few', 'JJ'), (u'extra', 'JJ'), (u'bucks', 'NNS'), (u'!', '.')]
+LARGE :: 
+good :: 
+few :: 
+extra :: 
+**********************************
+{u'OTHER': u'ip'}
+[(u'With', 'IN'), (u'this', 'DT'), (u'you', 'PRP'), (u'recieve', 'VBP'), (u'a', 'DT'), (u'VERY', 'NNP'), (u'relaxing', 'NN'), (u'massasge', 'NN'), (u',', ','), (u'premium', 'JJ'), (u'brand', 'NN'), (u'drinks', 'NNS'), (u',', ','), (u'and', 'CC'), (u'lots', 'NNS'), (u'of', 'IN'), (u'other', 'JJ'), (u'little', 'JJ'), (u'extras', 'NNS'), (u'.', '.')]
+premium :: 
+other :: 
+little :: 
+**********************************
+{}
+[(u'However', 'RB'), (u',', ','), (u'you', 'PRP'), (u'have', 'VBP'), (u'to', 'TO'), (u'mention', 'VB'), (u'to', 'TO'), (u'the', 'DT'), (u'bartenders', 'NNS'), (u'that', 'IN'), (u'you', 'PRP'), (u'are', 'VBP'), (u'VIP', 'NNP'), (u'and', 'CC'), (u'tell', 'VB'), (u'them', 'PRP'), (u'that', 'IN'), (u'you', 'PRP'), (u'want', 'VBP'), (u"'Brugal", "''"), (u"'", "''"), (u'rum', 'NN'), (u'(', '('), (u'the', 'DT'), (u'better', 'JJR'), (u'rum', 'NN'), (u')', ')'), (u',', ','), (u'and', 'CC'), (u'the', 'DT'), (u'more', 'RBR'), (u'expensive', 'JJ'), (u'vodka', 'NN'), (u'...', ':'), (u'otherwise', 'RB'), (u'they', 'PRP'), (u'might', 'MD'), (u'mistake', 'VB'), (u'you', 'PRP'), (u'for', 'IN'), (u'NOT', 'NNP'), (u'being', 'VBG'), (u'VIP', 'NNP'), (u'and', 'CC'), (u'not', 'RB'), (u'receiving', 'VBG'), (u'the', 'DT'), (u'better', 'JJR'), (u'alcohol', 'NN'), (u'.', '.')]
+better :: 
+expensive :: 
+better :: 
+**********************************
+{u'SERVICE': u'p'}
+[(u'Our', 'PRP$'), (u'room', 'NN'), (u'service', 'NN'), (u'from', 'IN'), (u'our', 'PRP$'), (u'maids', 'NNS'), (u'was', 'VBD'), (u'great', 'JJ'), (u',', ','), (u'but', 'CC'), (u'it', 'PRP'), (u'also', 'RB'), (u'helps', 'VBZ'), (u'if', 'IN'), (u'you', 'PRP'), (u'tip', 'VBP'), (u'them', 'PRP'), (u'.', '.')]
+great :: 
+**********************************
+{}
+[(u'We', 'PRP'), (u'had', 'VBD'), (u'brought', 'VBN'), (u'them', 'PRP'), (u'alot', 'NN'), (u'of', 'IN'), (u'gifts', 'NNS'), (u'from', 'IN'), (u'home', 'NN'), (u'(', '('), (u'ex', 'FW'), (u'.', '.')]
+[(u'shampoos', 'NN'), (u',', ','), (u'soaps', 'NNS'), (u',', ','), (u'books', 'NNS'), (u',', ','), (u'paper', 'NN'), (u',', ','), (u'pens', 'NNS'), (u',', ','), (u'clothes', 'NNS'), (u'...', ':'), (u')', ')')]
+**********************************
+{u'ROOMS': u'p'}
+[(u'We', 'PRP'), (u'have', 'VBP'), (u'no', 'DT'), (u'complaints', 'NNS'), (u'about', 'IN'), (u'our', 'PRP$'), (u'room', 'NN'), (u'AT', 'NNP'), (u'ALL', 'NNP'), (u'!', '.'), (u'!', '.')]
+[(u'!', '.')]
+**********************************
+{u'ROOMS': u'p'}
+[(u'It', 'PRP'), (u'was', 'VBD'), (u'amazing', 'VBG'), (u',', ','), (u'LARGE', 'NNP'), (u'bathroom', 'NN'), (u',', ','), (u'and', 'CC'), (u'a', 'DT'), (u'sunk-in', 'JJ'), (u'living', 'NN'), (u'room', 'NN'), (u'...', ':'), (u'.it', 'NN'), (u'had', 'VBD'), (u'everything', 'NN'), (u'we', 'PRP'), (u'needed', 'VBD'), (u'.', '.')]
+sunk-in :: 
+**********************************
+{u'OTHER': u'ip'}
+[(u'We', 'PRP'), (u'spent', 'VBD'), (u'half', 'NN'), (u'of', 'IN'), (u'our', 'PRP$'), (u'stay', 'JJ'), (u'sun-tanning', 'JJ'), (u'on', 'IN'), (u'the', 'DT'), (u'beach', 'NN'), (u',', ','), (u'and', 'CC'), (u'NEVER', 'NNP'), (u'had', 'VBD'), (u'trouble', 'NN'), (u'finding', 'VBG'), (u'a', 'DT'), (u'hut', 'NN'), (u'or', 'CC'), (u'chairs', 'NNS'), (u'to', 'TO'), (u'sit', 'VB'), (u'on', 'IN'), (u'...', ':'), (u'dont', 'NN'), (u'know', 'VBP'), (u'what', 'WP'), (u'other', 'JJ'), (u'guests', 'NNS'), (u'were', 'VBD'), (u'complaing', 'VBG'), (u'that', 'IN'), (u'they', 'PRP'), (u'couldnt', 'VBP'), (u'find', 'VBP'), (u'a', 'DT'), (u'place', 'NN'), (u'to', 'TO'), (u'sit', 'VB'), (u'by', 'IN'), (u'the', 'DT'), (u'beach', 'NN'), (u'.', '.')]
+stay :: 
+sun-tanning :: 
+other :: 
+**********************************
+{}
+[(u'The', 'DT'), (u'other', 'JJ'), (u'half', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'time', 'NN'), (u'we', 'PRP'), (u'tanned', 'VBN'), (u'by', 'IN'), (u'the', 'DT'), (u'pool', 'NN'), (u'(', '('), (u'the', 'DT'), (u'one', 'NN'), (u'with', 'IN'), (u'the', 'DT'), (u'swim', 'NN'), (u'up', 'RP'), (u'bar', 'NN'), (u')', ')'), (u'.', '.')]
+other :: 
+**********************************
+{u'OTHER': u'in'}
+[(u'There', 'EX'), (u'we', 'PRP'), (u'had', 'VBD'), (u'to', 'TO'), (u'wake', 'VB'), (u'up', 'RP'), (u'a', 'DT'), (u'bit', 'NN'), (u'earlier', 'RBR'), (u'to', 'TO'), (u'find', 'VB'), (u'chairs', 'NNS'), (u'to', 'TO'), (u'sit', 'VB'), (u'on', 'IN'), (u'.', '.')]
+**********************************
+{}
+[(u'The', 'DT'), (u'sun', 'NN'), (u'seemed', 'VBD'), (u'hotter', 'NN'), (u'by', 'IN'), (u'the', 'DT'), (u'pool', 'NN'), (u',', ','), (u'but', 'CC'), (u'then', 'RB'), (u'again', 'RB'), (u'you', 'PRP'), (u'dont', 'VBP'), (u'have', 'VBP'), (u'the', 'DT'), (u'ocean', 'NN'), (u'breeze', 'NN'), (u'blowing', 'NN'), (u'and', 'CC'), (u'cooling', 'NN'), (u'you', 'PRP'), (u'down', 'RP'), (u'...', ':'), (u'.which', 'NN'), (u'was', 'VBD'), (u'nice', 'RB'), (u',', ','), (u'because', 'IN'), (u'we', 'PRP'), (u'both', 'DT'), (u'got', 'VBD'), (u'bad', 'JJ'), (u'wind/sun', 'NN'), (u'burns', 'NNS'), (u'sitting', 'VBG'), (u'by', 'IN'), (u'the', 'DT'), (u'beach', 'NN'), (u'one', 'CD'), (u'afternoon', 'NN'), (u'.', '.')]
+bad :: 
+**********************************
+{}
+[(u'The', 'DT'), (u'main', 'JJ'), (u'bars', 'NNS'), (u'that', 'IN'), (u'we', 'PRP'), (u'went', 'VBD'), (u'to', 'TO'), (u'were', 'VBD'), (u'the', 'DT'), (u'swim-up', 'JJ'), (u'bar', 'NN'), (u'during', 'IN'), (u'the', 'DT'), (u'day', 'NN'), (u'and', 'CC'), (u'the', 'DT'), (u'lobby', 'NN'), (u'bar', 'NN'), (u'during', 'IN'), (u'the', 'DT'), (u'evening', 'NN'), (u'.', '.')]
+main :: 
+swim-up :: 
+**********************************
+{u'BUILDING': u'p'}
+[(u'The', 'DT'), (u'lobby', 'NN'), (u'bar', 'NN'), (u'is', 'VBZ'), (u'quite', 'RB'), (u'beautiful', 'JJ'), (u'and', 'CC'), (u'relaxing', 'NN'), (u'.', '.')]
+beautiful :: 
+**********************************
+{u'NOTRELATED': u'in'}
+[(u'We', 'PRP'), (u'had', 'VBD'), (u'booked', 'VBN'), (u'a', 'DT'), (u'tour', 'NN'), (u'with', 'IN'), (u'Turinter', 'NNP'), (u'(', '('), (u'Air', 'NNP'), (u'Canada', 'NNP'), (u'affiliated', 'VBD'), (u')', ')'), (u'for', 'IN'), (u'the', 'DT'), (u'Sanoa', 'NNP'), (u'Island', 'NNP'), (u'tour', 'NN'), (u',', ','), (u'however', 'RB'), (u'that', 'IN'), (u'morning', 'NN'), (u'the', 'DT'), (u'bus', 'NN'), (u'that', 'WDT'), (u'was', 'VBD'), (u'suppose', 'JJ'), (u'to', 'TO'), (u'pick', 'VB'), (u'us', 'PRP'), (u'up', 'RP'), (u',', ','), (u'along', 'IN'), (u'with', 'IN'), (u'8', 'CD'), (u'others', 'NNS'), (u'from', 'IN'), (u'our', 'PRP$'), (u'resort', 'NN'), (u',', ','), (u'accidentaly', 'NN'), (u'missed', 'VBD'), (u'our', 'PRP$'), (u'resort', 'NN'), (u'and', 'CC'), (u'left', 'VBD'), (u'without', 'IN'), (u'us', 'PRP'), (u'all', 'DT'), (u'.', '.')]
+suppose :: 
+**********************************
+{}
+[(u'It', 'PRP'), (u'was', 'VBD'), (u'no', 'DT'), (u'problem', 'NN'), (u'at', 'IN'), (u'all', 'DT'), (u'dealing', 'VBG'), (u'with', 'IN'), (u'them', 'PRP'), (u'about', 'IN'), (u'this', 'DT'), (u'issue', 'NN'), (u'.', '.')]
+**********************************
+{u'NOTRELATED': u'ip'}
+[(u'They', 'PRP'), (u'were', 'VBD'), (u'more', 'JJR'), (u'than', 'IN'), (u'willing', 'JJ'), (u'to', 'TO'), (u'either', 'DT'), (u're-book', 'JJ'), (u'us', 'PRP'), (u',', ','), (u'or', 'CC'), (u'return', 'VB'), (u'our', 'PRP$'), (u'money', 'NN'), (u'back', 'RB'), (u'IN', 'NNP'), (u'FULL', 'NNP'), (u'.', '.')]
+more :: 
+willing :: 
+re-book :: 
+**********************************
+{u'NOTRELATED': u'in'}
+[(u'We', 'PRP'), (u'decided', 'VBD'), (u'not', 'RB'), (u'to', 'TO'), (u're-book', 'VB'), (u'seeing', 'VBG'), (u'it', 'PRP'), (u'was', 'VBD'), (u'one', 'CD'), (u'of', 'IN'), (u'our', 'PRP$'), (u'last', 'JJ'), (u'days', 'NNS'), (u'there', 'RB'), (u',', ','), (u'and', 'CC'), (u'heard', 'RB'), (u'from', 'IN'), (u'others', 'NNS'), (u'that', 'WDT'), (u'went', 'VBD'), (u'on', 'IN'), (u'the', 'DT'), (u'tour', 'NN'), (u'that', 'IN'), (u'it', 'PRP'), (u'actually', 'RB'), (u'wasnt', 'VBZ'), (u'worth', 'IN'), (u'the', 'DT'), (u'$', '$'), (u'80', 'CD'), (u'american/person', 'NN'), (u'.', '.')]
+last :: 
+**********************************
+{u'NOTRELATED': u'in'}
+[(u'They', 'PRP'), (u'didnt', 'VBP'), (u'have', 'VBP'), (u'entertainment', 'NN'), (u'on', 'IN'), (u'the', 'DT'), (u'boat', 'NN'), (u'ride', 'NN'), (u'at', 'IN'), (u'all', 'DT'), (u'and', 'CC'), (u'never', 'RB'), (u'saw', 'VBD'), (u'ANY', 'NNP'), (u'fish', 'VB'), (u'on', 'IN'), (u'their', 'PRP$'), (u'whole', 'JJ'), (u'tour', 'NN'), (u'.', '.')]
+whole :: 
+**********************************
+{u'OTHER': u'p'}
+[(u'Overall', 'JJ'), (u',', ','), (u'my', 'PRP$'), (u'husband', 'NN'), (u'and', 'CC'), (u'I', 'PRP'), (u'would', 'MD'), (u'definately', 'RB'), (u'recommend', 'VB'), (u'the', 'DT'), (u'resort', 'NN'), (u'though', 'IN'), (u'.', '.')]
+Overall :: 
+**********************************
+{u'BUILDING': u'p', u'SERVICE': u'p'}
+[(u'It', 'PRP'), (u'was', 'VBD'), (u'absolutely', 'RB'), (u'gorgeous', 'JJ'), (u'and', 'CC'), (u'the', 'DT'), (u'staff', 'NN'), (u'there', 'EX'), (u'was', 'VBD'), (u'amazing', 'VBG'), (u'.', '.')]
+gorgeous :: 
+**********************************
+{u'OTHER': u'ip'}
+[(u'We', 'PRP'), (u'did', 'VBD'), (u'ALOT', 'NNP'), (u'of', 'IN'), (u'walking', 'VBG'), (u'along', 'IN'), (u'the', 'DT'), (u'beach', 'NN'), (u'everyday', 'NN'), (u'there', 'RB'), (u',', ','), (u'and', 'CC'), (u'thought', 'VBD'), (u'that', 'IN'), (u'our', 'PRP$'), (u'resort', 'NN'), (u'had', 'VBD'), (u'the', 'DT'), (u'best', 'JJS'), (u'part', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'beach', 'NN'), (u'BY', 'NNP'), (u'FAR', 'NNP'), (u'!', '.'), (u'!', '.')]
+best :: 
+[(u'It', 'PRP'), (u'was', 'VBD'), (u'clean', 'JJ'), (u'and', 'CC'), (u'had', 'VBD'), (u'the', 'DT'), (u'most', 'RBS'), (u'huts', 'NNS'), (u'and', 'CC'), (u'chairs', 'NNS'), (u'!', '.'), (u'We', 'PRP'), (u'would', 'MD'), (u'definately', 'RB'), (u'go', 'VB'), (u'back', 'RB'), (u',', ','), (u'and', 'CC'), (u'to', 'TO'), (u'those', 'DT'), (u'of', 'IN'), (u'you', 'PRP'), (u'who', 'WP'), (u'are', 'VBP'), (u'going', 'VBG'), (u'you', 'PRP'), (u"'ll", 'MD'), (u'have', 'VB'), (u'a', 'DT'), (u'blast', 'NN'), (u'!', '.')]
+clean :: 
+[(u'!', '.')]
+**********************************
+
+5
+{u'OTHER': u'p'}
+[(u'Extremely', 'RB'), (u'friendly', 'JJ'), (u'place', 'NN')]
+friendly :: 
+**********************************
+{u'BUILDING': u'p'}
+[(u'We', 'PRP'), (u'stayed', 'VBD'), (u'in', 'IN'), (u'the', 'DT'), (u'two-bedroom', 'JJ'), (u'villa', 'NN'), (u'at', 'IN'), (u'Ixora', 'NNP'), (u'and', 'CC'), (u'found', 'VBD'), (u'the', 'DT'), (u'place', 'NN'), (u'to', 'TO'), (u'be', 'VB'), (u'comfortable', 'JJ'), (u',', ','), (u'perfectly', 'RB'), (u'maintained', 'VBN'), (u'and', 'CC'), (u'relaxing', 'VBG'), (u'.', '.')]
+two-bedroom :: 
+comfortable :: 
+**********************************
+{u'SERVICE': u'p'}
+[(u'The', 'DT'), (u'staff', 'NN'), (u'were', 'VBD'), (u'as', 'RB'), (u'friendly', 'JJ'), (u'as', 'IN'), (u'you', 'PRP'), (u"'d", 'MD'), (u'find', 'VB'), (u'anywhere', 'RB'), (u',', ','), (u'and', 'CC'), (u'the', 'DT'), (u'German', 'JJ'), (u'owner', 'NN'), (u'was', 'VBD'), (u'always', 'RB'), (u'accommodating', 'VBG'), (u'and', 'CC'), (u'friendly', 'JJ'), (u'-', ':'), (u'giving', 'VBG'), (u'us', 'PRP'), (u'an', 'DT'), (u'itinerary', 'JJ'), (u'and', 'CC'), (u'booking', 'VBG'), (u'a', 'DT'), (u'driver', 'NN'), (u'for', 'IN'), (u'a', 'DT'), (u'day', 'NN'), (u'trip', 'NN'), (u',', ','), (u'as', 'RB'), (u'well', 'RB'), (u'as', 'IN'), (u'offering', 'VBG'), (u'us', 'PRP'), (u'a', 'DT'), (u'lift', 'NN'), (u'into', 'IN'), (u'town', 'NN'), (u'whenever', 'WRB'), (u'we', 'PRP'), (u'wanted', 'VBD'), (u'.', '.')]
+friendly :: 
+German :: 
+friendly :: 
+itinerary :: 
+**********************************
+{u'LOCATION': u'ip'}
+[(u'Some', 'DT'), (u'people', 'NNS'), (u'on', 'IN'), (u'tripadvisor', 'NN'), (u'have', 'VBP'), (u'stated', 'VBN'), (u'how', 'WRB'), (u'the', 'DT'), (u'villas', 'NNS'), (u'are', 'VBP'), (u"'out", 'VBN'), (u'in', 'IN'), (u'the', 'DT'), (u'sticks', 'NNS'), (u"'", 'POS'), (u',', ','), (u'which', 'WDT'), (u'seems', 'VBZ'), (u'a', 'DT'), (u'little', 'JJ'), (u'churlish', 'NN'), (u'as', 'IN'), (u'transport', 'NN'), (u'is', 'VBZ'), (u'dirt', 'JJ'), (u'cheap', 'JJ'), (u'and', 'CC'), (u'you', 'PRP'), (u"'re", 'VBP'), (u'really', 'RB'), (u'not', 'RB'), (u'far', 'RB'), (u'from', 'IN'), (u'anything', 'NN'), (u'.', '.')]
+little :: 
+dirt :: 
+cheap :: 
+**********************************
+{u'OTHER': u'x'}
+[(u'If', 'IN'), (u'clubbing', 'VBG'), (u'in', 'IN'), (u'Legian', 'NNP'), (u'is', 'VBZ'), (u'your', 'PRP$'), (u'thing', 'NN'), (u'then', 'RB'), (u',', ','), (u'fair', 'JJ'), (u'enough', 'RB'), (u',', ','), (u'this', 'DT'), (u'may', 'MD'), (u'not', 'RB'), (u'be', 'VB'), (u'what', 'WP'), (u'you', 'PRP'), (u"'re", 'VBP'), (u'after', 'IN'), (u'-', ':'), (u'but', 'CC'), (u'if', 'IN'), (u'you', 'PRP'), (u"'re", 'VBP'), (u'after', 'IN'), (u'a', 'DT'), (u'relaxing', 'NN'), (u'holiday', 'NN'), (u'where', 'WRB'), (u'you', 'PRP'), (u'can', 'MD'), (u'take', 'VB'), (u'in', 'IN'), (u'the', 'DT'), (u'island', 'NN'), (u'at', 'IN'), (u'your', 'PRP$'), (u'own', 'JJ'), (u'pace', 'NN'), (u',', ','), (u'you', 'PRP'), (u'could', 'MD'), (u'do', 'VB'), (u'much', 'RB'), (u'worse', 'JJR'), (u'than', 'IN'), (u'stay', 'NN'), (u'here', 'RB'), (u'.', '.')]
+fair :: 
+own :: 
+worse :: 
+**********************************
+
+6
+{u'OTHER': u'p'}
+[(u'Had', 'VBD'), (u'a', 'DT'), (u'fun', 'JJ'), (u'time', 'NN'), (u'!', '.')]
+fun :: 
+[(u'!', '.')]
+**********************************
+{}
+[(u'Hola', 'NNP'), (u'my', 'PRP$'), (u'husband', 'NN'), (u'and', 'CC'), (u'i', 'JJ'), (u'spent', 'VBD'), (u'the', 'DT'), (u'wk', 'NN'), (u'mar', 'NN'), (u'9th', 'CD'), (u'to', 'TO'), (u'the', 'DT'), (u'16th', 'CD'), (u'at', 'IN'), (u'this', 'DT'), (u'hotel', 'NN'), (u'.', '.')]
+**********************************
+{u'BUILDING': u'p', u'FOOD': u'p', u'OTHER': u'p', u'ROOMS': u'ip', u'SERVICE': u'ip'}
+[(u'We', 'PRP'), (u'were', 'VBD'), (u'treated', 'VBN'), (u'great', 'JJ'), (u'from', 'IN'), (u'the', 'DT'), (u'time', 'NN'), (u'we', 'PRP'), (u'walked', 'VBD'), (u'in', 'IN'), (u'the', 'DT'), (u'lobby', 'NN'), (u',', ','), (u'we', 'PRP'), (u'had', 'VBD'), (u'to', 'TO'), (u'wait', 'VB'), (u'for', 'IN'), (u'a', 'DT'), (u'room', 'NN'), (u'but', 'CC'), (u'it', 'PRP'), (u'was', 'VBD'), (u'well', 'RB'), (u'worth', 'JJ'), (u'it', 'PRP'), (u'!', '.')]
+great :: 
+worth :: 
+[(u'We', 'PRP'), (u'got', 'VBD'), (u'an', 'DT'), (u'upgrade', 'NN'), (u'because', 'IN'), (u'it', 'PRP'), (u'was', 'VBD'), (u'my', 'PRP$'), (u'husbands', 'NNS'), (u'b-day', 'JJ'), (u'while', 'IN'), (u'we', 'PRP'), (u'were', 'VBD'), (u'there', 'RB'), (u'and', 'CC'), (u'they', 'PRP'), (u'knew', 'VBD'), (u'this', 'DT'), (u'..We', 'NN'), (u'had', 'VBD'), (u'a', 'DT'), (u'fun-', 'JJ'), (u'vacation', 'NN'), (u'laughing', 'VBG'), (u'alot', 'NN'), (u'at', 'IN'), (u'the', 'DT'), (u'entertainment', 'NN'), (u'group', 'NN'), (u',', ','), (u'they', 'PRP'), (u'are', 'VBP'), (u'an', 'DT'), (u'asset', 'NN'), (u'to', 'TO'), (u'the', 'DT'), (u'hotel', 'NN'), (u',', ','), (u'Black', 'NNP'), (u'Banana', 'NNP'), (u'and', 'CC'), (u'Leo', 'NNP'), (u'kept', 'VBD'), (u'the', 'DT'), (u'pool', 'NN'), (u'area', 'NN'), (u'and', 'CC'), (u'beach', 'NN'), (u'hopping', 'NN'), (u'and', 'CC'), (u'they', 'PRP'), (u'were', 'VBD'), (u'all', 'DT'), (u'good', 'JJ'), (u'!', '.'), (u'!', '.')]
+b-day :: 
+fun- :: 
+good :: 
+[(u'We', 'PRP'), (u'thought', 'VBD'), (u'the', 'DT'), (u'food', 'NN'), (u'was', 'VBD'), (u'good', 'JJ'), (u'and', 'CC'), (u'the', 'DT'), (u'weather', 'NN'), (u'could', 'MD'), (u"n't", 'RB'), (u'have', 'VB'), (u'been', 'VBN'), (u'better', 'RBR'), (u'.', '.')]
+good :: 
+**********************************
+{u'CLEANLINESS': u'p', u'SERVICE': u'p'}
+[(u'The', 'DT'), (u'evening', 'NN'), (u'shows', 'NNS'), (u'(', '('), (u'adult', 'NN'), (u')', ')'), (u'were', 'VBD'), (u'fun', 'VBN'), (u'too', 'RB'), (u'...', ':'), (u'The', 'DT'), (u'pool', 'NN'), (u'and', 'CC'), (u'beach', 'NN'), (u'are', 'VBP'), (u'wonderful', 'JJ'), (u',', ','), (u'clean', 'JJ'), (u'and', 'CC'), (u'only', 'RB'), (u'complaint', 'NN'), (u'was', 'VBD'), (u'the', 'DT'), (u'saving', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'shade', 'NN'), (u'huts', 'NNS'), (u',', ','), (u'we', 'PRP'), (u'had', 'VBD'), (u'to', 'TO'), (u'do', 'VB'), (u'it', 'PRP'), (u'too', 'RB'), (u'because', 'IN'), (u'the', 'DT'), (u'sun', 'NN'), (u'is', 'VBZ'), (u'intense', 'JJ'), (u'.', '.')]
+wonderful :: 
+clean :: 
+intense :: 
+**********************************
+{}
+[(u'.Do', 'VBP'), (u"n't", 'RB'), (u'know', 'VB'), (u'what', 'WP'), (u'the', 'DT'), (u'complaints', 'NNS'), (u'from', 'IN'), (u'other', 'JJ'), (u'reviews', 'NNS'), (u'were', 'VBD'), (u'all', 'DT'), (u'about', 'IN'), (u'they', 'PRP'), (u'must', 'MD'), (u'be', 'VB'), (u'really', 'RB'), (u'picky', 'JJ'), (u'!', '.'), (u'!', '.')]
+other :: 
+picky :: 
+[(u'!', '.')]
+**********************************
+{}
+[(u'Would', 'MD'), (u'go', 'VB'), (u'back', 'RB'), (u'but', 'CC'), (u'like', 'IN'), (u'new', 'JJ'), (u'adventures', 'NNS'), (u'everytime', 'VBP'), (u'.', '.')]
+new :: 
+[(u'oh', 'UH'), (u'get', 'VB'), (u'a', 'DT'), (u'massage', 'NN'), (u'it', 'PRP'), (u'was', 'VBD'), (u'heavenly', 'RB'), (u'!', '.')]
+**********************************
+{}
+[(u'Tip', 'NNP'), (u'the', 'DT'), (u'maids', 'NNS'), (u'etc', 'VBP'), (u'they', 'PRP'), (u'work', 'VBP'), (u'really', 'RB'), (u'hard', 'JJ'), (u'!', '.')]
+hard :: 
+**********************************
+{}
+[(u'Gracias', 'NNP'), (u'for', 'IN'), (u'a', 'DT'), (u'great', 'JJ'), (u'wk', 'NN'), (u'...', ':'), (u'..', 'NN')]
+great :: 
+**********************************
+
+7
+{u'OTHER': u'p', u'VALUE': u'p'}
+[(u'Nice', 'NNP'), (u'stay', 'NN'), (u'for', 'IN'), (u'a', 'DT'), (u'very', 'RB'), (u'good', 'JJ'), (u'price', 'NN')]
+good :: 
+**********************************
+{}
+[(u'Since', 'IN'), (u'my', 'PRP$'), (u'first', 'JJ'), (u'stay', 'NN'), (u'at', 'IN'), (u'the', 'DT'), (u'boutiques', 'NNS'), (u'hotels', 'NNS'), (u'was', 'VBD'), (u'very', 'RB'), (u'nice', 'JJ'), (u'i', 'NN'), (u'decided', 'VBD'), (u'that', 'IN'), (u'i', 'NN'), (u'will', 'MD'), (u'check', 'VB'), (u'all', 'DT'), (u'of', 'IN'), (u'them', 'PRP'), (u'.', '.')]
+first :: 
+nice :: 
+**********************************
+{}
+[(u'Last', 'JJ'), (u'time', 'NN'), (u'i', 'JJ'), (u'stayed', 'VBD'), (u'at', 'IN'), (u'Metropolis', 'NNP'), (u',', ','), (u'I', 'PRP'), (u'picked', 'VBD'), (u'the', 'DT'), (u'Maxwell', 'NNP'), (u'this', 'DT'), (u'time', 'NN'), (u'.', '.')]
+Last :: 
+**********************************
+{u'ROOMS': u'x'}
+[(u'The', 'DT'), (u'furniture', 'NN'), (u'and', 'CC'), (u'the', 'DT'), (u'decor', 'NN'), (u'at', 'IN'), (u'my', 'PRP$'), (u'room', 'NN'), (u'were', 'VBD'), (u'old', 'JJ'), (u',', ','), (u'(', '('), (u'in', 'IN'), (u'contrast', 'NN'), (u'with', 'IN'), (u'the', 'DT'), (u'other', 'JJ'), (u'that', 'WDT'), (u'has', 'VBZ'), (u'new', 'JJ'), (u'furniture', 'NN'), (u')', ')'), (u',', ','), (u'the', 'DT'), (u'mattress', 'NN'), (u'also', 'RB'), (u'was', 'VBD'), (u'old', 'JJ'), (u',', ','), (u'but', 'CC'), (u'still', 'RB'), (u'comfortable', 'JJ'), (u',', ','), (u'i', 'JJ'), (u'never', 'RB'), (u'had', 'VBD'), (u'a', 'DT'), (u'bad', 'JJ'), (u'sleep', 'NN'), (u'night', 'NN'), (u'.', '.')]
+old :: 
+other :: 
+new :: 
+old :: 
+comfortable :: 
+bad :: 
+**********************************
+{}
+[(u'The', 'DT'), (u'hotel', 'NN'), (u'were', 'VBD'), (u'still', 'RB'), (u'under', 'IN'), (u'renovations', 'NNS'), (u'for', 'IN'), (u'the', 'DT'), (u'new', 'JJ'), (u'look', 'NN'), (u',', ','), (u'if', 'IN'), (u'it', 'PRP'), (u'looks', 'VBZ'), (u'now', 'RB'), (u'as', 'IN'), (u'they', 'PRP'), (u'promised', 'VBD'), (u',', ','), (u'it', 'PRP'), (u'should', 'MD'), (u'be', 'VB'), (u'looking', 'VBG'), (u'very', 'RB'), (u'modern', 'JJ'), (u'.', '.')]
+new :: 
+modern :: 
+**********************************
+{}
+[(u'As', 'RB'), (u'soon', 'RB'), (u'as', 'IN'), (u'i', 'NN'), (u'registered', 'VBD'), (u'I', 'PRP'), (u'were', 'VBD'), (u'informed', 'VBN'), (u'that', 'IN'), (u'i', 'NN'), (u'was', 'VBD'), (u'up-graded', 'JJ'), (u'to', 'TO'), (u'another', 'DT'), (u'room', 'NN'), (u'.', '.')]
+up-graded :: 
+**********************************
+{u'ROOMS': u'p'}
+[(u'I', 'PRP'), (u'did', 'VBD'), (u"n't", 'RB'), (u'ask', 'VB'), (u'why', 'WRB'), (u'but', 'CC'), (u'i', 'NN'), (u'had', 'VBD'), (u'a', 'DT'), (u'bigger', 'JJR'), (u'room', 'NN'), (u'than', 'IN'), (u'the', 'DT'), (u'one', 'CD'), (u'i', 'NN'), (u'booked', 'VBD'), (u',', ','), (u'very', 'RB'), (u'spacious', 'JJ'), (u'with', 'IN'), (u'two', 'CD'), (u'sofas', 'NNS'), (u'and', 'CC'), (u'a', 'DT'), (u'table', 'NN'), (u'.', '.')]
+bigger :: 
+spacious :: 
+**********************************
+{u'NOTRELATED': u'ip'}
+[(u'I', 'PRP'), (u'felt', 'VBP'), (u'like', 'IN'), (u'i', 'NN'), (u'was', 'VBD'), (u'at', 'IN'), (u'home', 'NN'), (u'.', '.')]
+**********************************
+{u'CLEANLINESS': u'p', u'SERVICE': u'p'}
+[(u'The', 'DT'), (u'bathroom', 'NN'), (u'was', 'VBD'), (u'very', 'RB'), (u'clean', 'JJ'), (u'and', 'CC'), (u'in', 'IN'), (u'general', 'JJ'), (u'everyone', 'NN'), (u'at', 'IN'), (u'the', 'DT'), (u'hotel', 'NN'), (u'were', 'VBD'), (u'always', 'RB'), (u'friendly', 'RB'), (u'.', '.')]
+clean :: 
+general :: 
+**********************************
+{u'NOTRELATED': u'p'}
+[(u'I', 'PRP'), (u'always', 'RB'), (u'felt', 'VBD'), (u'welcome', 'JJ'), (u'.', '.')]
+welcome :: 
+**********************************
+{u'LOCATION': u'p'}
+[(u'The', 'DT'), (u'hotel', 'NN'), (u'is', 'VBZ'), (u'very', 'RB'), (u'good', 'JJ'), (u'located', 'VBN'), (u',', ','), (u'everything', 'NN'), (u'is', 'VBZ'), (u'light', 'JJ'), (u'walk', 'NN'), (u'distance', 'NN'), (u',', ','), (u'you', 'PRP'), (u'can', 'MD'), (u'also', 'RB'), (u'take', 'VB'), (u'the', 'DT'), (u'BART', 'NNP'), (u'to', 'TO'), (u'the', 'DT'), (u'airport', 'NN'), (u',', ','), (u'which', 'WDT'), (u'is', 'VBZ'), (u'very', 'RB'), (u'convenient', 'JJ'), (u'.', '.')]
+good :: 
+light :: 
+convenient :: 
+**********************************
+{}
+[(u'I', 'PRP'), (u'believe', 'VBP'), (u'that', 'IN'), (u'you', 'PRP'), (u'can', 'MD'), (u'considerer', 'VB'), (u'yourself', 'PRP'), (u'fortunate', 'VB'), (u'if', 'IN'), (u'you', 'PRP'), (u'find', 'VBP'), (u'a', 'DT'), (u'decent', 'JJ'), (u'and', 'CC'), (u'affordable', 'JJ'), (u'hotel', 'NN'), (u'in', 'IN'), (u'the', 'DT'), (u'heart', 'NN'), (u'of', 'IN'), (u'San', 'NNP'), (u'Francisco', 'NNP'), (u'.', '.')]
+decent :: 
+affordable :: 
+**********************************
+{}
+[(u'i', 'NN'), (u'forgot', 'VBD'), (u'to', 'TO'), (u'take', 'VB'), (u'pictures', 'NNS'), (u',', ','), (u'but', 'CC'), (u'i', 'NNS'), (u'do', 'VBP'), (u"n't", 'RB'), (u'have', 'VB'), (u'complains', 'NNS'), (u'.', '.')]
+**********************************
+{}
+[(u'Do', 'VBP'), (u"n't", 'RB'), (u'expect', 'VB'), (u'five', 'CD'), (u'stars', 'NNS'), (u',', ','), (u'but', 'CC'), (u'expect', 'VBP'), (u'a', 'DT'), (u'clean', 'JJ'), (u'and', 'CC'), (u'comfortable', 'JJ'), (u'room', 'NN'), (u'.', '.')]
+clean :: 
+comfortable :: 
+**********************************
+
+8
+{u'OTHER': u'p'}
+[(u'Solid', 'JJ'), (u'hotel', 'NN'), (u'This', 'DT'), (u'place', 'NN'), (u'is', 'VBZ'), (u'pretty', 'JJ'), (u'swish', 'JJ'), (u',', ','), (u'probably', 'RB'), (u'what', 'WP'), (u'you', 'PRP'), (u'would', 'MD'), (u'expect', 'VB'), (u'.', '.')]
+Solid :: 
+pretty :: 
+swish :: 
+**********************************
+{u'LOCATION': u'p'}
+[(u'Got', 'VB'), (u'a', 'DT'), (u'good', 'JJ'), (u'w/e', 'NN'), (u'rate', 'NN'), (u'as', 'IN'), (u'place', 'NN'), (u'is', 'VBZ'), (u'in', 'IN'), (u'business', 'NN'), (u'district', 'NN'), (u',', ','), (u'so', 'IN'), (u'area', 'NN'), (u'is', 'VBZ'), (u'a', 'DT'), (u'bit', 'NN'), (u'dead', 'JJ'), (u'but', 'CC'), (u'really', 'RB'), (u'well', 'RB'), (u'located', 'VBN'), (u'to', 'TO'), (u'get', 'VB'), (u'to', 'TO'), (u'other', 'JJ'), (u'areas', 'NNS'), (u'easily', 'RB'), (u'and', 'CC'), (u'fast', 'RB'), (u'.', '.')]
+good :: 
+dead :: 
+other :: 
+**********************************
+{u'CLEANLINESS': u'p', u'ROOMS': u'p', u'SERVICE': u'p'}
+[(u'Good', 'JJ'), (u'service', 'NN'), (u',', ','), (u'very', 'RB'), (u'nicely', 'RB'), (u'styled', 'VBN'), (u'and', 'CC'), (u'clean', 'JJ'), (u'room', 'NN'), (u'which', 'WDT'), (u'was', 'VBD'), (u'a', 'DT'), (u'good', 'JJ'), (u'size', 'NN'), (u'.', '.')]
+Good :: 
+clean :: 
+good :: 
+**********************************
+{u'SERVICE': u'ip'}
+[(u'Like', 'IN'), (u'most', 'JJS'), (u'hotels', 'NNS'), (u'of', 'IN'), (u'this', 'DT'), (u'calibre', 'NN'), (u',', ','), (u'the', 'DT'), (u'extras', 'NNS'), (u'eg', 'VBP'), (u'internet', 'NN'), (u'were', 'VBD'), (u'an', 'DT'), (u'absolute', 'JJ'), (u'rip', 'NN'), (u'off', 'IN'), (u'though', 'IN'), (u'.', '.')]
+most :: 
+absolute :: 
+**********************************
+
+9
+{u'OTHER': u'p'}
+[(u'Loved', 'VBN'), (u'it', 'PRP'), (u'!', '.')]
+[(u'!', '.')]
+**********************************
+{}
+[(u'My', 'PRP$'), (u'boyfriend', 'NN'), (u'and', 'CC')]
+**********************************
+{}
+[(u'I', 'PRP'), (u'stayed', 'VBD'), (u'at', 'IN'), (u'this', 'DT'), (u'hotel', 'NN'), (u'from', 'IN'), (u'Nov', 'NNP'), (u'25', 'CD'), (u'to', 'TO'), (u'Dec', 'NNP'), (u'2', 'CD'), (u'.', '.')]
+**********************************
+{u'OTHER': u'p'}
+[(u'I', 'PRP'), (u'was', 'VBD'), (u'a', 'DT'), (u'bit', 'NN'), (u'concerned', 'JJ'), (u'staying', 'VBG'), (u'at', 'IN'), (u'this', 'DT'), (u'property', 'NN'), (u'because', 'IN'), (u'I', 'PRP'), (u'had', 'VBD'), (u'heard', 'VBN'), (u'a', 'DT'), (u'few', 'JJ'), (u'bad', 'JJ'), (u'things', 'NNS'), (u'about', 'IN'), (u'this', 'DT'), (u'resort', 'NN'), (u',', ','), (u'but', 'CC'), (u'honestly', 'RB'), (u'this', 'DT'), (u'hotel', 'NN'), (u'is', 'VBZ'), (u'the', 'DT'), (u'best', 'JJS'), (u'hotel', 'NN'), (u'I', 'PRP'), (u"'ve", 'VBP'), (u'ever', 'RB'), (u'stayed', 'VBN'), (u'in', 'IN'), (u'Punta', 'NNP'), (u'Cana', 'NNP'), (u'.', '.')]
+concerned :: 
+few :: 
+bad :: 
+best :: 
+**********************************
+{u'CLEANLINESS': u'p', u'CHECKIN': u'p'}
+[(u'Check', 'NN'), (u'in', 'IN'), (u'was', 'VBD'), (u'quick', 'JJ'), (u',', ','), (u'the', 'DT'), (u'grounds', 'NNS'), (u'are', 'VBP'), (u'huge', 'JJ'), (u',', ','), (u'and', 'CC'), (u'very', 'RB'), (u'clean', 'JJ'), (u'.', '.')]
+quick :: 
+huge :: 
+clean :: 
+**********************************
+{u'ROOMS': u'p'}
+[(u'The', 'DT'), (u'rooms', 'NNS'), (u'are', 'VBP'), (u'huge', 'JJ'), (u'.', '.')]
+huge :: 
+**********************************
+{u'FOOD': u'p'}
+[(u'You', 'PRP'), (u'have', 'VBP'), (u'6', 'CD'), (u'restaurants', 'NNS'), (u'to', 'TO'), (u'choose', 'VB'), (u'from', 'IN'), (u'to', 'TO'), (u'go', 'VB'), (u'eat', 'NN'), (u',', ','), (u'you', 'PRP'), (u'do', 'VBP'), (u"n't", 'RB'), (u'need', 'VB'), (u'reservations', 'NNS'), (u',', ','), (u'but', 'CC'), (u'keep', 'VB'), (u'in', 'IN'), (u'mind', 'NN'), (u'that', 'WDT'), (u'at', 'IN'), (u'the', 'DT'), (u'a', 'DT'), (u'la', 'NN'), (u'carte', 'NN'), (u'restaurants', 'NNS'), (u'guys', 'NNS'), (u'ca', 'MD'), (u"n't", 'RB'), (u'wear', 'VB'), (u'shorts', 'NNS'), (u'(', '('), (u'dress', 'NN'), (u'code', 'NN'), (u'in', 'IN'), (u'full', 'JJ'), (u'effect', 'NN'), (u')', ')'), (u'the', 'DT'), (u'food', 'NN'), (u'was', 'VBD'), (u'amazing', 'JJ'), (u'and', 'CC'), (u'I', 'PRP'), (u"'m", 'VBP'), (u'a', 'DT'), (u'picky', 'JJ'), (u'eater', 'NN'), (u'!', '.')]
+full :: 
+amazing :: 
+picky :: 
+**********************************
+{u'FOOD': u'p'}
+[(u'Drinks', 'NNP'), (u'let', 'NN'), (u"'s", 'POS'), (u'see', 'NN'), (u';', ':'), (u'they', 'PRP'), (u'pretty', 'VBP'), (u'much', 'JJ'), (u'make', 'VBP'), (u'anything', 'NN'), (u'you', 'PRP'), (u'ask', 'VBP'), (u'them', 'PRP'), (u'too', 'RB'), (u'.', '.')]
+much :: 
+**********************************
+{u'OTHER': u'p'}
+[(u'The', 'DT'), (u'beach', 'NN'), (u'is', 'VBZ'), (u'huge', 'JJ'), (u'and', 'CC'), (u'very', 'RB'), (u'clean', 'JJ'), (u',', ','), (u'there', 'EX'), (u'are', 'VBP'), (u'plenty', 'NN'), (u'of', 'IN'), (u'chairs', 'NNS'), (u'so', 'IN'), (u'you', 'PRP'), (u'do', 'VBP'), (u"n't", 'RB'), (u'have', 'VB'), (u'to', 'TO'), (u'wake', 'VB'), (u'up', 'RP'), (u'early', 'JJ'), (u'morning', 'NN'), (u'so', 'IN'), (u'you', 'PRP'), (u'can', 'MD'), (u'get', 'VB'), (u'a', 'DT'), (u'chair', 'NN'), (u'.', '.')]
+huge :: 
+clean :: 
+early :: 
+**********************************
+{u'SERVICE': u'p'}
+[(u'Staff', 'NN'), (u'are', 'VBP'), (u'very', 'RB'), (u'friendly', 'RB'), (u'.', '.')]
+**********************************
+{u'SERVICE': u'p'}
+[(u'The', 'DT'), (u'shows', 'NNS'), (u'at', 'IN'), (u'night', 'NN'), (u'are', 'VBP'), (u'very', 'RB'), (u'nice', 'JJ'), (u'especially', 'RB'), (u'Chicago', 'NNP'), (u'and', 'CC'), (u'the', 'DT'), (u'Lion', 'NNP'), (u'King', 'NNP'), (u'!', '.')]
+nice :: 
+**********************************
+{}
+[(u'Please', 'NNP'), (u'put', 'VBD'), (u'some', 'DT'), (u'bug', 'NN'), (u'repelant', 'NN'), (u'at', 'IN'), (u'night', 'NN'), (u'there', 'EX'), (u'are', 'VBP'), (u'some', 'DT'), (u'mosquitos', 'NNS'), (u'at', 'IN'), (u'night', 'NN'), (u'!', '.')]
+**********************************
+{u'OTHER': u'p', u'SERVICE': u'p'}
+[(u'There', 'EX'), (u"'s", 'VBZ'), (u'not', 'RB'), (u'really', 'RB'), (u'much', 'JJ'), (u'to', 'TO'), (u'stay', 'VB'), (u'about', 'IN'), (u'this', 'DT'), (u'property', 'NN'), (u'except', 'IN'), (u'that', 'DT'), (u'I', 'PRP'), (u'had', 'VBD'), (u'an', 'DT'), (u'amazing', 'JJ'), (u'time', 'NN'), (u'and', 'CC'), (u'that', 'IN'), (u'this', 'DT'), (u'hotel', 'NN'), (u'and', 'CC'), (u'the', 'DT'), (u'service', 'NN'), (u'provided', 'VBD'), (u'here', 'RB'), (u'is', 'VBZ'), (u'amazing', 'JJ'), (u',', ','), (u'will', 'MD'), (u'i', 'VB'), (u'recommend', 'VB'), (u'this', 'DT'), (u'hotel', 'NN'), (u'to', 'TO'), (u'my', 'PRP$'), (u'friends', 'NNS'), (u'and', 'CC'), (u'will', 'MD'), (u'I', 'PRP'), (u'stay', 'VB'), (u'here', 'RB'), (u'again', 'RB'), (u';', ':'), (u'most', 'JJS'), (u'definately', 'RB'), (u'.', '.')]
+much :: 
+amazing :: 
+amazing :: 
+most :: 
+**********************************
+
+10
+{u'OTHER': u'p'}
+[(u'Great', 'NNP'), (u'modern', 'JJ'), (u'hotel', 'NN'), (u'away', 'RB'), (u'from', 'IN'), (u'the', 'DT'), (u'action', 'NN'), (u'in', 'IN'), (u'Barcelona', 'NNP')]
+modern :: 
+**********************************
+{u'LOCATION': u'n', u'BUSINESS': u'p'}
+[(u'Great', 'NNP'), (u'hotel', 'NN'), (u'for', 'IN'), (u'business', 'NN'), (u'conventions', 'NNS'), (u'(', '('), (u'part', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'reason', 'NN'), (u'for', 'IN'), (u'my', 'PRP$'), (u'trip', 'NN'), (u')', ')'), (u',', ','), (u'but', 'CC'), (u'far', 'RB'), (u'from', 'IN'), (u'the', 'DT'), (u'life', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'city', 'NN'), (u'.', '.')]
+**********************************
+{u'BUILDING': u'p', u'FOOD': u'p', u'ROOMS': u'p', u'SERVICE': u'p'}
+[(u'In', 'IN'), (u'a', 'DT'), (u'nutshell', 'NN'), (u',', ','), (u'the', 'DT'), (u'hotel', 'NN'), (u'amenities', 'NNS'), (u'are', 'VBP'), (u'fine', 'JJ'), (u',', ','), (u'staff', 'NN'), (u'are', 'VBP'), (u'friendly', 'JJ'), (u'and', 'CC'), (u'very', 'RB'), (u'helpful', 'JJ'), (u',', ','), (u'the', 'DT'), (u'restaurant', 'NN'), (u'is', 'VBZ'), (u'good', 'JJ'), (u'and', 'CC'), (u'the', 'DT'), (u'rooms', 'NNS'), (u'are', 'VBP'), (u'comfortable', 'JJ'), (u'.', '.')]
+fine :: 
+friendly :: 
+helpful :: 
+good :: 
+comfortable :: 
+**********************************
+{u'BUILDING': u'p'}
+[(u'A', 'DT'), (u'spa/restaurant/pool', 'NN'), (u'on', 'IN'), (u'the', 'DT'), (u'13th', 'JJ'), (u'floor', 'NN'), (u'is', 'VBZ'), (u'very', 'RB'), (u'nice', 'JJ'), (u',', ','), (u'although', 'IN'), (u'I', 'PRP'), (u'got', 'VBD'), (u'a', 'DT'), (u'bit', 'NN'), (u'tired', 'JJ'), (u'of', 'IN'), (u'Hollywood', 'NNP'), (u'theme', 'NN'), (u'songs', 'NNS'), (u'played', 'VBN'), (u'at', 'IN'), (u'somewhat', 'RB'), (u'annoying', 'VBG'), (u'volumes', 'NNS'), (u'.', '.')]
+13th :: 
+nice :: 
+tired :: 
+**********************************
+{u'ROOMS': u'p'}
+[(u'All', 'DT'), (u'rooms', 'NNS'), (u'have', 'VBP'), (u'a', 'DT'), (u'view', 'NN'), (u'of', 'IN'), (u'either', 'CC'), (u'the', 'DT'), (u'ocean', 'NN'), (u'or', 'CC'), (u'the', 'DT'), (u'city', 'NN'), (u'.', '.')]
+**********************************
+{u'LOCATION': u'n'}
+[(u'The', 'DT'), (u'only', 'JJ'), (u'complaint', 'NN'), (u'I', 'PRP'), (u'have', 'VBP'), (u'is', 'VBZ'), (u'the', 'DT'), (u'location', 'NN'), (u'.', '.')]
+only :: 
+**********************************
+{u'LOCATION': u'in'}
+[(u'The', 'DT'), (u'Diagonal', 'NNP'), (u'Mar', 'NNP'), (u'area', 'NN'), (u'around', 'IN'), (u'the', 'DT'), (u'hotel', 'NN'), (u'is', 'VBZ'), (u'one', 'CD'), (u'of', 'IN'), (u'Barcelona', 'NNP'), (u"'s", 'POS'), (u'interventions', 'NNS'), (u'(', '('), (u'urban', 'JJ'), (u'renewal', 'NN'), (u'project', 'NN'), (u')', ')'), (u'.', '.')]
+urban :: 
+**********************************
+{u'LOCATION': u'in'}
+[(u'Nearby', 'NNP'), (u'is', 'VBZ'), (u'a', 'DT'), (u'shopping', 'NN'), (u'mall', 'NN'), (u'that', 'WDT'), (u'is', 'VBZ'), (u'indistinuishable', 'JJ'), (u'from', 'IN'), (u'malls', 'NNS'), (u'anywhere', 'RB'), (u'around', 'IN'), (u'the', 'DT'), (u'world', 'NN'), (u'.', '.')]
+indistinuishable :: 
+**********************************
+{}
+[(u'I', 'PRP'), (u'would', 'MD'), (u'recommend', 'VB'), (u'the', 'DT'), (u'tappas', 'NN'), (u'bar', 'NN'), (u'on', 'IN'), (u'the', 'DT'), (u'far', 'RB'), (u'east', 'JJ'), (u'end', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'terrassa', 'NN'), (u',', ','), (u'or', 'CC'), (u'explore', 'VB'), (u'the', 'DT'), (u'sidewalk', 'NN'), (u'cafes', 'JJ'), (u'north', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'mall', 'NN'), (u'.', '.')]
+east :: 
+cafes :: 
+**********************************
+{}
+[(u'Access', 'NN'), (u'to', 'TO'), (u'the', 'DT'), (u'city', 'NN'), (u'is', 'VBZ'), (u'through', 'IN'), (u'bus', 'NN'), (u'41', 'CD'), (u'(', '('), (u'about', 'IN'), (u'35', 'CD'), (u'mins', 'NNS'), (u'to', 'TO'), (u'Pl', 'NNP'), (u'.', '.')]
+[(u'Catalunya', 'NNP'), (u')', ')'), (u',', ','), (u'the', 'DT'), (u'yellow', 'JJ'), (u'metro', 'NN'), (u'line', 'NN'), (u'(', '('), (u'15', 'CD'), (u'mins', 'NNS'), (u'to', 'TO'), (u'Jaume', 'VB'), (u'station', 'NN'), (u'near', 'IN'), (u'Barri', 'NNP'), (u'Gotic', 'NNP'), (u')', ')'), (u',', ','), (u'or', 'CC'), (u'a', 'DT'), (u'tram', 'NN'), (u'that', 'WDT'), (u'takes', 'VBZ'), (u'you', 'PRP'), (u'to', 'TO'), (u'the', 'DT'), (u'Olympic', 'NNP'), (u'Village', 'NNP'), (u'via', 'IN'), (u'Pl', 'NNP'), (u'.', '.')]
+yellow :: 
+[(u'Glories', 'NNS'), (u'(', '('), (u'about', 'IN'), (u'15', 'CD'), (u'mins', 'NNS'), (u')', ')'), (u'.', '.')]
+**********************************
+{u'NOTRELATED': u'p'}
+[(u'Taxi', 'NNP'), (u'access', 'NN'), (u'is', 'VBZ'), (u'very', 'RB'), (u'good', 'JJ'), (u',', ','), (u'located', 'VBN'), (u'just', 'RB'), (u'outside', 'IN'), (u'the', 'DT'), (u'hotel', 'NN'), (u'.', '.')]
+good :: 
+**********************************
+
+11
+{u'LOCATION': u'p'}
+[(u'Excellent', 'JJ'), (u'Traveling', 'NNP'), (u'Location', 'NN')]
+Excellent :: 
+**********************************
+{}
+[(u'We', 'PRP'), (u'booked', 'VBD'), (u'our', 'PRP$'), (u'trip', 'NN'), (u'to', 'TO'), (u'Japan', 'NNP'), (u'through', 'IN'), (u'a', 'DT'), (u'Japanese', 'JJ'), (u'travel', 'NN'), (u'agency', 'NN'), (u'and', 'CC'), (u'this', 'DT'), (u'hotel', 'NN'), (u'was', 'VBD'), (u'part', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'package', 'NN'), (u'deal', 'NN'), (u'.', '.')]
+Japanese :: 
+**********************************
+{u'LOCATION': u'p'}
+[(u'It', 'PRP'), (u'is', 'VBZ'), (u'a', 'DT'), (u'good', 'JJ'), (u'location', 'NN'), (u'in', 'IN'), (u'that', 'DT'), (u'it', 'PRP'), (u'is', 'VBZ'), (u'near', 'IN'), (u'the', 'DT'), (u'Shinjuku', 'NNP'), (u'station', 'NN'), (u',', ','), (u'which', 'WDT'), (u'is', 'VBZ'), (u'one', 'CD'), (u'of', 'IN'), (u'the', 'DT'), (u'major', 'JJ'), (u'subway', 'NN'), (u'and', 'CC'), (u'JR', 'NNP'), (u'line', 'NN'), (u'stops', 'NNS'), (u'.', '.')]
+good :: 
+major :: 
+**********************************
+{u'NOTRELATED': u'p'}
+[(u'There', 'EX'), (u'is', 'VBZ'), (u'also', 'RB'), (u'a', 'DT'), (u'free', 'JJ'), (u'shuttle', 'NN'), (u'to', 'TO'), (u'and', 'CC'), (u'from', 'IN'), (u'the', 'DT'), (u'station', 'NN'), (u',', ','), (u'which', 'WDT'), (u'helped', 'VBD'), (u'(', '('), (u'though', 'IN'), (u'the', 'DT'), (u'walk', 'NN'), (u'is', 'VBZ'), (u"n't", 'RB'), (u'bad', 'JJ'), (u')', ')'), (u'.', '.')]
+free :: 
+bad :: 
+**********************************
+{u'BUILDING': u'p'}
+[(u'The', 'DT'), (u'hotel', 'NN'), (u'seems', 'VBZ'), (u'a', 'DT'), (u'litle', 'JJ'), (u'nicer', 'NN'), (u'than', 'IN'), (u'your', 'PRP$'), (u'standard', 'JJ'), (u'Hilton', 'NNP'), (u'hotels', 'NNS'), (u'in', 'IN'), (u'the', 'DT'), (u'US', 'NNP'), (u'.', '.')]
+litle :: 
+standard :: 
+**********************************
+{}
+[(u'We', 'PRP'), (u'stayed', 'VBD'), (u'here', 'RB'), (u'twice', 'RB'), (u'-', ':'), (u'a', 'DT'), (u'few', 'JJ'), (u'days', 'NNS'), (u'when', 'WRB'), (u'we', 'PRP'), (u'arrived', 'VBD'), (u'and', 'CC'), (u'then', 'RB'), (u'a', 'DT'), (u'few', 'JJ'), (u'days', 'NNS'), (u'before', 'IN'), (u'we', 'PRP'), (u'headed', 'VBD'), (u'home', 'NN'), (u'.', '.')]
+few :: 
+few :: 
+**********************************
+{u'SERVICE': u'p'}
+[(u'Service', 'NNP'), (u'was', 'VBD'), (u'great', 'JJ'), (u'and', 'CC'), (u'we', 'PRP'), (u'used', 'VBD'), (u'the', 'DT'), (u'concierge', 'NN'), (u'service', 'NN'), (u'numerous', 'JJ'), (u'times', 'NNS'), (u'to', 'TO'), (u'find', 'VB'), (u'good', 'JJ'), (u'restaurants', 'NNS'), (u'around', 'IN'), (u'the', 'DT'), (u'area', 'NN'), (u'.', '.')]
+great :: 
+numerous :: 
+good :: 
+**********************************
+{u'FOOD': u'p'}
+[(u'It', 'PRP'), (u"'s", 'VBZ'), (u'a', 'DT'), (u'hit', 'NN'), (u'and', 'CC'), (u'miss', 'NN'), (u'with', 'IN'), (u'staff', 'NN'), (u'speaking', 'VBG'), (u'English', 'NNP'), (u',', ','), (u'although', 'IN'), (u'for', 'IN'), (u'the', 'DT'), (u'most', 'JJS'), (u'part', 'NN'), (u'they', 'PRP'), (u'understood', 'VBD'), (u'us.We', 'JJ'), (u'only', 'RB'), (u'ate', 'JJ'), (u'breakfast', 'NN'), (u'at', 'IN'), (u'the', 'DT'), (u'hotel', 'NN'), (u',', ','), (u'which', 'WDT'), (u'was', 'VBD'), (u'a', 'DT'), (u'Japanese', 'JJ'), (u'and', 'CC'), (u'Western', 'JJ'), (u'style', 'NN'), (u'buffet', 'NN'), (u'that', 'WDT'), (u'was', 'VBD'), (u'excellent', 'JJ'), (u'.', '.')]
+most :: 
+us.We :: 
+ate :: 
+Japanese :: 
+Western :: 
+excellent :: 
+**********************************
+{u'FOOD': u'in'}
+[(u'However', 'RB'), (u',', ','), (u'we', 'PRP'), (u'skipped', 'VBD'), (u'eating', 'VBG'), (u'restaurants', 'NNS'), (u'on', 'IN'), (u'the', 'DT'), (u'second', 'JJ'), (u'floor', 'NN'), (u'as', 'IN'), (u'they', 'PRP'), (u'were', 'VBD'), (u'a', 'DT'), (u'bit', 'NN'), (u'pricey', 'NN'), (u'.', '.')]
+second :: 
+**********************************
+{u'OTHER': u'in'}
+[(u'If', 'IN'), (u'Tokyo', 'NNP'), (u'is', 'VBZ'), (u'the', 'DT'), (u'only', 'JJ'), (u'city', 'NN'), (u'you', 'PRP'), (u"'re", 'VBP'), (u'visiting', 'VBG'), (u'I', 'PRP'), (u"'d", 'MD'), (u'probably', 'RB'), (u'recommend', 'VB'), (u'a', 'DT'), (u'different', 'JJ'), (u'hotel', 'NN'), (u'as', 'IN'), (u'Shinjuku', 'NNP'), (u'is', 'VBZ'), (u'a', 'DT'), (u'business', 'NN'), (u'district', 'NN'), (u'and', 'CC'), (u'pretty', 'RB'), (u'quiet', 'JJ'), (u'at', 'IN'), (u'night', 'NN'), (u'unless', 'IN'), (u'you', 'PRP'), (u'hang', 'VBP'), (u'out', 'RP'), (u'at', 'IN'), (u'the', 'DT'), (u'station', 'NN'), (u'(', '('), (u'the', 'DT'), (u'shuttle', 'NN'), (u'service', 'NN'), (u'ends', 'VBZ'), (u'around', 'IN'), (u'9:30PM', 'CD'), (u')', ')'), (u'.', '.')]
+only :: 
+different :: 
+quiet :: 
+**********************************
+{u'OTHER': u'p'}
+[(u'If', 'IN'), (u'Tokyo', 'NNP'), (u'is', 'VBZ'), (u'one', 'CD'), (u'of', 'IN'), (u'many', 'JJ'), (u'cities', 'NNS'), (u'on', 'IN'), (u'your', 'PRP$'), (u'agenda', 'NN'), (u',', ','), (u'I', 'PRP'), (u'thought', 'VBD'), (u'this', 'DT'), (u'was', 'VBD'), (u'a', 'DT'), (u'great', 'JJ'), (u'choice', 'NN'), (u'.', '.')]
+many :: 
+great :: 
+**********************************
+{}
+[(u'Only', 'RB'), (u'downside', 'NN'), (u'is', 'VBZ'), (u'the', 'DT'), (u'JR', 'NNP'), (u'to', 'TO'), (u'Kyoto/Osaka', 'NNP'), (u'leaves', 'VBZ'), (u'from', 'IN'), (u'Tokyo', 'NNP'), (u'station', 'NN'), (u',', ','), (u'so', 'IN'), (u'you', 'PRP'), (u'have', 'VBP'), (u'to', 'TO'), (u'change', 'VB'), (u'stations', 'NNS'), (u'if', 'IN'), (u'you', 'PRP'), (u'venture', 'NN'), (u'west', 'JJS'), (u'.', '.')]
+west :: 
+**********************************
+{}
+[(u'I', 'PRP'), (u'strongly', 'RB'), (u'recomend', 'VBP'), (u'getting', 'VBG'), (u'the', 'DT'), (u'JR', 'NNP'), (u'pass', 'NN'), (u'if', 'IN'), (u'you', 'PRP'), (u'do', 'VBP'), (u'so', 'RB'), (u'.', '.')]
+**********************************
+
+12
+{u'OTHER': u'p'}
+[(u'Best', 'JJS'), (u'Hotel', 'NN'), (u'in', 'IN')]
+Best :: 
+**********************************
+{}
+[(u'NY', 'NNP'), (u'-', ':'), (u'PERIOD', 'NN'), (u'.', '.')]
+**********************************
+{u'OTHER': u'ip'}
+[(u'WOW', 'NN'), (u'!', '.')]
+**********************************
+{u'VALUE': u'p', u'SERVICE': u'p', u'LOCATION': u'p'}
+[(u'Perfect', 'NNP'), (u'location', 'NN'), (u',', ','), (u'very', 'RB'), (u'friendly', 'JJ'), (u'staff', 'NN'), (u',', ','), (u'and', 'CC'), (u'very', 'RB'), (u'good', 'JJ'), (u'rate', 'NN'), (u'for', 'IN'), (u'St', 'NNP'), (u'Patrick', 'NNP'), (u"'s", 'POS'), (u'Day', 'NNP'), (u'weekend', 'NN'), (u'.', '.')]
+friendly :: 
+good :: 
+**********************************
+{}
+[(u'(', '('), (u'about', 'IN'), (u'$', '$'), (u'220', 'CD'), (u'everything', 'NN'), (u'included', 'VBD'), (u')', ')'), (u'.', '.')]
+**********************************
+{u'ROOMS': u'p'}
+[(u'The', 'DT'), (u'room', 'NN'), (u'was', 'VBD'), (u'bigger', 'JJR'), (u'than', 'IN'), (u'my', 'PRP$'), (u'first', 'JJ'), (u'apartment', 'NN'), (u'-', ':'), (u'I', 'PRP'), (u'challenge', 'VBP'), (u'you', 'PRP'), (u'to', 'TO'), (u'find', 'VB'), (u'a', 'DT'), (u'room', 'NN'), (u'bigger', 'JJR'), (u'than', 'IN'), (u'this', 'DT'), (u'for', 'IN'), (u'under', 'IN'), (u'$', '$'), (u'1,000', 'CD'), (u'.', '.')]
+bigger :: 
+first :: 
+bigger :: 
+**********************************
+{u'BUILDING': u'p'}
+[(u'New', 'NNP'), (u',', ','), (u'sleek', 'JJ'), (u',', ','), (u'modern', 'JJ'), (u'COMFORTABLE', 'NNP'), (u'furniture', 'NN'), (u'.', '.')]
+sleek :: 
+modern :: 
+**********************************
+{u'ROOMS': u'ip'}
+[(u'An', 'DT'), (u'actual', 'JJ'), (u'working', 'NN'), (u'fireplace', 'NN'), (u'in', 'IN'), (u'the', 'DT'), (u'room', 'NN'), (u',', ','), (u'but', 'CC'), (u'I', 'PRP'), (u'do', 'VBP'), (u"n't", 'RB'), (u'know', 'VB'), (u'if', 'IN'), (u'they', 'PRP'), (u'let', 'VBP'), (u'guests', 'NNS'), (u'use', 'VB'), (u'it', 'PRP'), (u'.', '.')]
+actual :: 
+**********************************
+{u'ROOMS': u'ip'}
+[(u'Charming', 'VBG'), (u'chair', 'NN'), (u'and', 'CC'), (u'reading', 'NN'), (u'lamp', 'NN'), (u'was', 'VBD'), (u'just', 'RB'), (u'beautiful', 'JJ'), (u'.', '.')]
+beautiful :: 
+**********************************
+{u'ROOMS': u'ip'}
+[(u'The', 'DT'), (u'windows', 'NNS'), (u'overlooked', 'VBD'), (u'a', 'DT'), (u'playground', 'NN'), (u'and', 'CC'), (u'courtyard', 'NN'), (u',', ','), (u'and', 'CC'), (u'it', 'PRP'), (u'was', 'VBD'), (u'almost', 'RB'), (u'silent', 'JJ'), (u'during', 'IN'), (u'our', 'PRP$'), (u'stay', 'NN'), (u'.', '.')]
+silent :: 
+**********************************
+{u'ROOMS': u'ip'}
+[(u'We', 'PRP'), (u'were', 'VBD'), (u'right', 'JJ'), (u'next', 'JJ'), (u'to', 'TO'), (u'the', 'DT'), (u'elevator', 'NN'), (u',', ','), (u'and', 'CC'), (u'did', 'VBD'), (u"n't", 'RB'), (u'hear', 'VB'), (u'a', 'DT'), (u'thing', 'NN'), (u'.', '.')]
+right :: 
+next :: 
+**********************************
+{u'ROOMS': u'ip'}
+[(u'Big', 'JJ'), (u'flat', 'JJ'), (u'panel', 'NN'), (u'TV', 'NN'), (u',', ','), (u'plus', 'CC'), (u'DVD/VCR', 'NNP'), (u'unit', 'NN'), (u'.', '.')]
+Big :: 
+flat :: 
+**********************************
+{u'BUILDING': u'ip', u'ROOMS': u'ip'}
+[(u'The', 'DT'), (u'sitting', 'VBG'), (u'area', 'NN'), (u'had', 'VBD'), (u'a', 'DT'), (u'really', 'RB'), (u'comfy', 'JJ'), (u'couch', 'NN'), (u'that', 'IN'), (u'I', 'PRP'), (u'slept', 'VBP'), (u'on', 'IN'), (u'w/o', 'NN'), (u'any', 'DT'), (u'problems', 'NNS'), (u'(', '('), (u'but', 'CC'), (u'I', 'PRP'), (u'am', 'VBP'), (u'only', 'RB'), (u'5', 'CD'), (u'feet', 'NNS'), (u'/152cm', 'NNP'), (u'tall', 'NN'), (u')', ')'), (u',', ','), (u'fridge', 'VBP'), (u'in', 'IN'), (u'room', 'NN'), (u'so', 'IN'), (u'you', 'PRP'), (u'can', 'MD'), (u'have', 'VB'), (u'your', 'PRP$'), (u'own', 'JJ'), (u'food', 'NN'), (u'in', 'IN'), (u'there', 'RB'), (u'.', '.')]
+comfy :: 
+own :: 
+**********************************
+{u'ROOMS': u'p'}
+[(u'The', 'DT'), (u'bathroom', 'NN'), (u'was', 'VBD'), (u'HUGE', 'NNP'), (u'-', ':'), (u'probably', 'RB'), (u'8x11ft/', 'CD'), (u'2.4m', 'CD'), (u'x', 'NN'), (u'16.7m', 'CD'), (u'?', '.'), (u')', ')')]
+**********************************
+{u'ROOMS': u'ip'}
+[(u'and', 'CC'), (u'also', 'RB'), (u'had', 'VBD'), (u'a', 'DT'), (u'window', 'NN'), (u'that', 'IN'), (u'you', 'PRP'), (u'could', 'MD'), (u'open', 'VB'), (u'.', '.')]
+**********************************
+{u'OTHER': u'in'}
+[(u'It', 'PRP'), (u'was', 'VBD'), (u'nice', 'JJ'), (u'to', 'TO'), (u'get', 'VB'), (u'real', 'JJ'), (u'fresh', 'JJ'), (u'air', 'NN'), (u'in', 'IN'), (u',', ','), (u'not', 'RB'), (u'some', 'DT'), (u'noisy', 'NN'), (u',', ','), (u'useless', 'JJ'), (u'fan.The', 'NN'), (u'only', 'RB'), (u'drawback', 'NN'), (u'was', 'VBD'), (u'that', 'IN'), (u'the', 'DT'), (u'complimentary', 'JJ'), (u'breakfast', 'NN'), (u'ended', 'VBD'), (u'at', 'IN'), (u'like', 'IN'), (u'9am', 'CD'), (u'.', '.')]
+nice :: 
+real :: 
+fresh :: 
+useless :: 
+complimentary :: 
+**********************************
+{u'NOTRELATED': u'in'}
+[(u'It', 'PRP'), (u'should', 'MD'), (u'go', 'VB'), (u'to', 'TO'), (u'11', 'CD'), (u'at', 'IN'), (u'least', 'JJS'), (u',', ','), (u'but', 'CC'), (u'most', 'JJS'), (u'US', 'NNP'), (u'hotels', 'NNS'), (u'end', 'VBP'), (u'at', 'IN'), (u'9', 'CD'), (u'.', '.')]
+least :: 
+most :: 
+**********************************
+{u'NOTRELATED': u'n'}
+[(u'Boooh', 'NNP'), (u'.', '.')]
+**********************************
+{u'OTHER': u'ip'}
+[(u'Anyway', 'RB'), (u',', ','), (u'I', 'PRP'), (u'can', 'MD'), (u'not', 'RB'), (u'say', 'VB'), (u'enough', 'RB'), (u'good', 'JJ'), (u'things', 'NNS'), (u'about', 'IN'), (u'this', 'DT'), (u'hotel', 'NN'), (u'.', '.')]
+good :: 
+**********************************
+{u'OTHER': u'ip'}
+[(u'It', 'PRP'), (u'was', 'VBD'), (u'far', 'RB'), (u'better', 'JJR'), (u'than', 'IN'), (u'the', 'DT'), (u'Waldorf', 'NNP'), (u'and', 'CC'), (u'Sheraton', 'NNP'), (u'in', 'IN'), (u'every', 'DT'), (u'way', 'NN'), (u'.', '.')]
+better :: 
+**********************************
+
+13
+{u'ROOMS': u'in'}
+[(u'Needs', 'NNS'), (u'Updating', 'VBG'), (u'Arrived', 'NNP'), (u'after', 'IN'), (u'late', 'JJ'), (u'flight', 'NN'), (u'and', 'CC'), (u'walked', 'VBD'), (u'into', 'IN'), (u'my', 'PRP$'), (u'room', 'NN'), (u'and', 'CC'), (u'my', 'PRP$'), (u'heart', 'NN'), (u'sank', 'NN'), (u'.', '.')]
+late :: 
+**********************************
+{u'ROOMS': u'n'}
+[(u'It', 'PRP'), (u'was', 'VBD'), (u'terrible', 'JJ'), (u'!', '.')]
+terrible :: 
+**********************************
+{u'ROOMS': u'n'}
+[(u'Poky', 'NNP'), (u'and', 'CC'), (u'small', 'JJ'), (u'.', '.')]
+small :: 
+**********************************
+{u'CLEANLINESS': u'n', u'ROOMS': u'n'}
+[(u'Bathroom', 'NNP'), (u'was', 'VBD'), (u'tiny', 'JJ'), (u'with', 'IN'), (u'a', 'DT'), (u'dirty', 'JJ'), (u'sink', 'NN'), (u'.', '.')]
+tiny :: 
+dirty :: 
+**********************************
+{u'ROOMS': u'n'}
+[(u'I', 'PRP'), (u'had', 'VBD'), (u'asked', 'VBN'), (u'for', 'IN'), (u'a', 'DT'), (u'non', 'JJ'), (u'smoking', 'NN'), (u'room', 'NN'), (u'and', 'CC'), (u'room', 'NN'), (u'smelt', 'NN'), (u'faintly', 'RB'), (u'of', 'IN'), (u'smoke', 'NN'), (u'.', '.')]
+non :: 
+**********************************
+{u'ROOMS': u'x'}
+[(u'Bed', 'NNP'), (u'was', 'VBD'), (u'nice', 'JJ'), (u'although', 'IN'), (u'the', 'DT'), (u'smell', 'NN'), (u'of', 'IN'), (u'tabacco', 'NN'), (u'wafted', 'VBD'), (u'up', 'RP'), (u'your', 'PRP$'), (u'nose', 'JJ'), (u'as', 'IN'), (u'you', 'PRP'), (u'were', 'VBD'), (u'trying', 'VBG'), (u'to', 'TO'), (u'sleep', 'VB'), (u'.', '.')]
+nice :: 
+nose :: 
+**********************************
+{u'ROOMS': u'n'}
+[(u'There', 'EX'), (u'was', 'VBD'), (u'no', 'DT'), (u'room', 'NN'), (u'to', 'TO'), (u'put', 'VB'), (u'down', 'RP'), (u'my', 'PRP$'), (u'3', 'CD'), (u'suitcases', 'NNS'), (u'.', '.')]
+**********************************
+{}
+[(u'We', 'PRP'), (u'had', 'VBD'), (u'to', 'TO'), (u'walk', 'VB'), (u'around', 'IN'), (u'them', 'PRP'), (u'.', '.')]
+**********************************
+{u'ROOMS': u'in'}
+[(u'The', 'DT'), (u'balcony/lanai', 'NN'), (u'frightened', 'VBD'), (u'me', 'PRP'), (u'...', ':')]
+**********************************
+{u'ROOMS': u'n'}
+[(u'it', 'PRP'), (u'was', 'VBD'), (u'old', 'JJ'), (u'and', 'CC'), (u'I', 'PRP'), (u'wondered', 'VBD'), (u'how', 'WRB'), (u'much', 'JJ'), (u'rust', 'NN'), (u'was', 'VBD'), (u'being', 'VBG'), (u'covered', 'VBN'), (u'by', 'IN'), (u'the', 'DT'), (u'paint', 'NN'), (u'!', '.')]
+old :: 
+much :: 
+**********************************
+{u'ROOMS': u'in'}
+[(u'I', 'PRP'), (u'might', 'MD'), (u'fall', 'VB'), (u'over', 'IN'), (u'if', 'IN'), (u'I', 'PRP'), (u'lent', 'VBP'), (u'on', 'IN'), (u'the', 'DT'), (u'bars', 'NNS'), (u'!', '.')]
+**********************************
+{}
+[(u'I', 'PRP'), (u'had', 'VBD'), (u'a', 'DT'), (u'2', 'CD'), (u'room', 'NN'), (u'upgrade', 'NN'), (u'!', '.')]
+**********************************
+{}
+[(u'I', 'PRP'), (u'would', 'MD'), (u"n't", 'RB'), (u'have', 'VB'), (u'liked', 'VBN'), (u'to', 'TO'), (u'have', 'VB'), (u'stayed', 'VBN'), (u'in', 'IN'), (u'my', 'PRP$'), (u'original', 'JJ'), (u'room', 'NN'), (u'...', ':')]
+original :: 
+**********************************
+{u'OTHER': u'in'}
+[(u'it', 'PRP'), (u'would', 'MD'), (u'have', 'VB'), (u'been', 'VBN'), (u'far', 'RB'), (u'worse', 'JJR'), (u'experience', 'NN'), (u'than', 'IN'), (u'what', 'WP'), (u'I', 'PRP'), (u'had', 'VBD'), (u'.', '.')]
+worse :: 
+**********************************
+{u'OTHER': u'in'}
+[(u'I', 'PRP'), (u"'d", 'MD'), (u'give', 'VB'), (u'it', 'PRP'), (u'about', 'IN'), (u'a', 'DT'), (u'3', 'CD'), (u'or', 'CC'), (u'4', 'CD'), (u'out', 'IN'), (u'of', 'IN'), (u'10', 'CD'), (u'!', '.')]
+[(u'!', '.')]
+**********************************
+{u'OTHER': u'in'}
+[(u'Looks', 'VBZ'), (u'nothing', 'NN'), (u'like', 'IN'), (u'the', 'DT'), (u'picture', 'NN'), (u'in', 'IN'), (u'brochures', 'NNS'), (u'!', '.'), (u'!', '.')]
+[(u'!', '.')]
+**********************************
+{u'VALUE': u'n'}
+[(u'For', 'IN'), (u'value', 'NN'), (u'for', 'IN'), (u'money', 'NN'), (u',', ','), (u'the', 'DT'), (u'Royal', 'NNP'), (u'Hawaiian', 'NNP'), (u',', ','), (u'Moama', 'NNP'), (u'Surf', 'NNP'), (u'or', 'CC'), (u'Sheraton', 'NNP'), (u'might', 'MD'), (u'be', 'VB'), (u'approx', 'JJ'), (u'$', '$'), (u'100', 'CD'), (u'per', 'IN'), (u'night', 'NN'), (u'dearer', 'NN'), (u',', ','), (u'but', 'CC'), (u'you', 'PRP'), (u'are', 'VBP'), (u'getting', 'VBG'), (u'about', 'IN'), (u'$', '$'), (u'400', 'CD'), (u'more', 'JJR'), (u'in', 'IN'), (u'value', 'NN'), (u'.', '.')]
+approx :: 
+more :: 
+**********************************
+{}
+[(u'Worth', 'IN'), (u'the', 'DT'), (u'extra', 'JJ'), (u'money', 'NN'), (u'!', '.')]
+extra :: 
+[(u'!', '.')]
+**********************************
+
+14
+{u'OTHER': u'p'}
+[(u'I', 'PRP'), (u'Had', 'VBD'), (u'a', 'DT'), (u'Great', 'JJ'), (u'Experience', 'NN'), (u'!', '.')]
+Great :: 
+**********************************
+{}
+[(u'I', 'PRP'), (u'was', 'VBD'), (u'a', 'DT'), (u'little', 'JJ'), (u'worried', 'JJ'), (u'when', 'WRB'), (u'I', 'PRP'), (u'read', 'VBP'), (u'some', 'DT'), (u'recent', 'JJ'), (u'reviews', 'NNS'), (u'of', 'IN'), (u'this', 'DT'), (u'hotel', 'NN'), (u'.', '.')]
+little :: 
+worried :: 
+recent :: 
+**********************************
+{u'OTHER': u'p'}
+[(u'I', 'PRP'), (u"'m", 'VBP'), (u'glad', 'JJ'), (u'I', 'PRP'), (u'chose', 'VBD'), (u'to', 'TO'), (u'stay', 'VB'), (u'at', 'IN'), (u'the', 'DT'), (u'Singel', 'NNP'), (u'!', '.')]
+glad :: 
+**********************************
+{u'CLEANLINESS': u'p', u'ROOMS': u'p'}
+[(u'The', 'DT'), (u'desk', 'NN'), (u'clerk', 'NN'), (u'joked', 'VBD'), (u'that', 'IN'), (u'I', 'PRP'), (u'had', 'VBD'), (u'the', 'DT'), (u'smallest', 'JJS'), (u'room', 'NN'), (u'in', 'IN'), (u'all', 'DT'), (u'of', 'IN'), (u'Amsterdam', 'NNP'), (u'and', 'CC'), (u'he', 'PRP'), (u'was', 'VBD'), (u'probably', 'RB'), (u'right', 'JJ'), (u'but', 'CC'), (u'it', 'PRP'), (u'suited', 'VBD'), (u'my', 'PRP$'), (u'needs', 'NNS'), (u'perfectly', 'RB'), (u':', ':'), (u'a', 'DT'), (u'very', 'RB'), (u'clean', 'JJ'), (u',', ','), (u'quiet', 'JJ'), (u'room', 'NN'), (u'with', 'IN'), (u'all', 'PDT'), (u'the', 'DT'), (u'amenities', 'NNS'), (u'(', '('), (u'shower', 'NN'), (u',', ','), (u'TV', 'NNP'), (u'w/cable', 'NN'), (u')', ')'), (u'.', '.')]
+smallest :: 
+right :: 
+clean :: 
+quiet :: 
+**********************************
+{u'ROOMS': u'p'}
+[(u'I', 'PRP'), (u'requested', 'VBD'), (u'a', 'DT'), (u'non-smoking', 'JJ'), (u'room', 'NN'), (u'and', 'CC'), (u'the', 'DT'), (u'room', 'NN'), (u'was', 'VBD'), (u'bright', 'JJ'), (u',', ','), (u'modern', 'JJ'), (u',', ','), (u'airy', 'JJ'), (u'and', 'CC'), (u'smoke-free', 'JJ'), (u'!', '.')]
+non-smoking :: 
+bright :: 
+modern :: 
+airy :: 
+smoke-free :: 
+**********************************
+{u'LOCATION': u'p'}
+[(u'The', 'DT'), (u'location', 'NN'), (u'is', 'VBZ'), (u'fabulous', 'JJ'), (u'-', ':'), (u'near', 'IN'), (u'Centraal', 'NNP'), (u'Station', 'NNP'), (u'but', 'CC'), (u'on', 'IN'), (u'a', 'DT'), (u'quiet', 'JJ'), (u'canal', 'JJ'), (u'virtually', 'RB'), (u'in', 'IN'), (u'the', 'DT'), (u'city', 'NN'), (u'center', 'NN'), (u'but', 'CC'), (u'close', 'RB'), (u'to', 'TO'), (u'the', 'DT'), (u'western', 'JJ'), (u'side', 'NN'), (u'of', 'IN'), (u'town', 'NN'), (u'with', 'IN'), (u'great', 'JJ'), (u'shops', 'NNS'), (u'and', 'CC'), (u'restaurants', 'NNS'), (u'.', '.')]
+fabulous :: 
+quiet :: 
+canal :: 
+western :: 
+great :: 
+**********************************
+{u'FOOD': u'p'}
+[(u'Breakfast', 'NN'), (u'at', 'IN'), (u'Singel', 'NNP'), (u'included', 'VBD'), (u'an', 'DT'), (u'array', 'NN'), (u'of', 'IN'), (u'meats', 'NNS'), (u',', ','), (u'cheeses', 'NNS'), (u',', ','), (u'fruit', 'NN'), (u',', ','), (u'toasts', 'NNS'), (u',', ','), (u'yogurt', 'NN'), (u',', ','), (u'granola', 'NN'), (u',', ','), (u'juice', 'NN'), (u'.', '.')]
+**********************************
+{u'FOOD': u'p'}
+[(u'Each', 'DT'), (u'table', 'NN'), (u'gets', 'VBZ'), (u'a', 'DT'), (u'carafe', 'NN'), (u'of', 'IN'), (u'coffee/tea', 'NN'), (u'.', '.')]
+**********************************
+{u'SERVICE': u'p'}
+[(u'Friendly', 'JJ'), (u'service', 'NN'), (u'-', ':'), (u'yes', 'CC'), (u'you', 'PRP'), (u'leave', 'VBP'), (u'your', 'PRP$'), (u'room', 'NN'), (u'key', 'NN'), (u'but', 'CC'), (u'this', 'DT'), (u'is', 'VBZ'), (u'common', 'JJ'), (u'in', 'IN'), (u'Europe', 'NNP'), (u'!', '.')]
+Friendly :: 
+common :: 
+[(u'Would', 'MD'), (u'I', 'PRP'), (u'stay', 'VB'), (u'here', 'RB'), (u'again', 'RB'), (u'?', '.')]
+[(u'Yes', 'UH'), (u'!', '.')]
+[(u'!', '.')]
+**********************************
+
+15
+{u'OTHER': u'p'}
+[(u'A', 'DT'), (u'top', 'JJ'), (u'choice', 'NN'), (u'in', 'IN'), (u'Barcelona', 'NNP')]
+top :: 
+**********************************
+{}
+[(u'I', 'PRP'), (u'spent', 'VBD'), (u'two', 'CD'), (u'nights', 'NNS'), (u'at', 'IN'), (u'the', 'DT'), (u'Casa', 'NNP'), (u'Fuster', 'NNP'), (u'from', 'IN'), (u'26-28', 'JJ'), (u'November', 'NNP'), (u'.', '.')]
+26-28 :: 
+**********************************
+{u'VALUE': u'p'}
+[(u'I', 'PRP'), (u'had', 'VBD'), (u'spent', 'VBN'), (u'two', 'CD'), (u'nights', 'NNS'), (u'at', 'IN'), (u'the', 'DT'), (u'Hotel', 'NNP'), (u'1898', 'CD'), (u'on', 'IN'), (u'Las', 'NNP'), (u'Ramblas', 'NNP'), (u'before', 'IN'), (u'checking', 'VBG'), (u'in', 'IN'), (u'to', 'TO'), (u'the', 'DT'), (u'CF', 'NNP'), (u',', ','), (u'and', 'CC'), (u'although', 'IN'), (u'a', 'DT'), (u'night', 'NN'), (u'in', 'IN'), (u'a', 'DT'), (u'Standard', 'JJ'), (u'room', 'NN'), (u'at', 'IN'), (u'the', 'DT'), (u'CF', 'NNP'), (u'was', 'VBD'), (u'110', 'CD'), (u'Euro', 'NNP'), (u'a', 'DT'), (u'night', 'NN'), (u'more', 'RBR'), (u'expensive', 'JJ'), (u'than', 'IN'), (u'a', 'DT'), (u'Superior', 'JJ'), (u'room', 'NN'), (u'at', 'IN'), (u'the', 'DT'), (u'1898', 'CD'), (u',', ','), (u'the', 'DT'), (u'CF', 'NNP'), (u'truly', 'NN'), (u'is', 'VBZ'), (u'in', 'IN'), (u'a', 'DT'), (u'different', 'JJ'), (u'class', 'NN'), (u'than', 'IN'), (u'the', 'DT'), (u'1898', 'CD'), (u'and', 'CC'), (u'is', 'VBZ'), (u'worth', 'IN'), (u'the', 'DT'), (u'extra', 'JJ'), (u'money.I', 'NN'), (u'should', 'MD'), (u'say', 'VB'), (u'however', 'RB'), (u'that', 'IN'), (u'a', 'DT'), (u'local', 'JJ'), (u'travel', 'NN'), (u'agent', 'NN'), (u'quoted', 'VBD'), (u'me', 'PRP'), (u'a', 'DT'), (u'rate', 'NN'), (u'of', 'IN'), (u'Euro', 'NNP'), (u'240/night', 'CD'), (u'inclusive', 'NN'), (u'of', 'IN'), (u'breakfast', 'NN'), (u'at', 'IN'), (u'the', 'DT'), (u'CF', 'NNP'), (u'for', 'IN'), (u'the', 'DT'), (u'weekend', 'NN'), (u'of', 'IN'), (u'November', 'NNP'), (u'17th', 'CD'), (u',', ','), (u'but', 'CC'), (u'I', 'PRP'), (u'ended', 'VBD'), (u'up', 'RB'), (u'having', 'VBG'), (u'to', 'TO'), (u'change', 'VB'), (u'my', 'PRP$'), (u'travel', 'NN'), (u'dates', 'NNS'), (u'due', 'JJ'), (u'to', 'TO'), (u'work', 'VB'), (u'.', '.')]
+Standard :: 
+expensive :: 
+Superior :: 
+different :: 
+extra :: 
+local :: 
+due :: 
+**********************************
+{}
+[(u'For', 'IN'), (u'the', 'DT'), (u'days', 'NNS'), (u'I', 'PRP'), (u'traveled', 'VBD'), (u'\u9225', 'NN'), (u'?', '.')]
+**********************************
+{}
+[(u'even', 'RB'), (u'though', 'IN'), (u'I', 'PRP'), (u'did', 'VBD'), (u'not', 'RB'), (u'stay', 'VB'), (u'at', 'IN'), (u'the', 'DT'), (u'CF', 'NNP'), (u'on', 'IN'), (u'a', 'DT'), (u'weekend', 'NN'), (u'\u9225', 'NN'), (u'?', '.')]
+**********************************
+{}
+[(u'were', 'VBD'), (u'much', 'RB'), (u'more', 'RBR'), (u'expensive', 'JJ'), (u'\u9225', 'NN'), (u'?', '.')]
+expensive :: 
+**********************************
+{}
+[(u'at', 'IN'), (u'Euro', 'NNP'), (u'330/night', 'CD'), (u'not', 'RB'), (u'including', 'VBG'), (u'breakfast', 'NN'), (u'.', '.')]
+**********************************
+{u'OTHER': u'p', u'VALUE': u'p'}
+[(u'Obviously', 'RB'), (u',', ','), (u'it', 'PRP'), (u'would', 'MD'), (u'have', 'VB'), (u'been', 'VBN'), (u'great', 'JJ'), (u'to', 'TO'), (u'get', 'VB'), (u'the', 'DT'), (u'cheaper', 'JJR'), (u'rate', 'NN'), (u',', ','), (u'but', 'CC'), (u'I', 'PRP'), (u'would', 'MD'), (u'pay', 'VB'), (u'the', 'DT'), (u'higher', 'JJR'), (u'rate', 'NN'), (u'again', 'RB'), (u'for', 'IN'), (u'a', 'DT'), (u'chance', 'NN'), (u'to', 'TO'), (u'stay', 'VB'), (u'at', 'IN'), (u'the', 'DT'), (u'Casa', 'NNP'), (u'Fuster', 'NNP'), (u'where', 'WRB'), (u'the', 'DT'), (u'service', 'NN'), (u'and', 'CC'), (u'the', 'DT'), (u'accommodations', 'NNS'), (u'are', 'VBP'), (u'truly', 'RB'), (u'top', 'JJ'), (u'notch', 'NN'), (u'.', '.')]
+great :: 
+cheaper :: 
+higher :: 
+top :: 
+**********************************
+{}
+[(u'Let', 'VB'), (u'mention', 'NN'), (u'that', 'IN'), (u'I', 'PRP'), (u'have', 'VBP'), (u'a', 'DT'), (u'love-hate', 'JJ'), (u'relationship', 'NN'), (u'with', 'IN'), (u'large', 'JJ'), (u'hotels', 'NNS'), (u'.', '.')]
+love-hate :: 
+large :: 
+**********************************
+{}
+[(u'I', 'PRP'), (u'like', 'VBP'), (u'the', 'DT'), (u'hustle', 'NN'), (u'and', 'CC'), (u'bustle', 'NN'), (u'of', 'IN'), (u'crowded', 'JJ'), (u'lobbies', 'NNS'), (u'and', 'CC'), (u'get', 'VB'), (u'kind', 'NN'), (u'of', 'IN'), (u'depressed', 'JJ'), (u'when', 'WRB'), (u'I', 'PRP'), (u'am', 'VBP'), (u'staying', 'VBG'), (u'at', 'IN'), (u'smaller', 'JJR'), (u'boutique', 'NN'), (u'hotels', 'NNS'), (u'that', 'WDT'), (u'have', 'VBP'), (u'empty-ghost', 'JJ'), (u'town', 'NN'), (u'lobbies', 'NNS'), (u'.', '.')]
+crowded :: 
+depressed :: 
+smaller :: 
+empty-ghost :: 
+**********************************
+{}
+[(u'That', 'DT'), (u'doesn\u9225\u6a9b', 'VBZ'), (u'mean', 'VBP'), (u'I', 'PRP'), (u'am', 'VBP'), (u'a', 'DT'), (u'fan', 'NN'), (u'of', 'IN'), (u'large', 'JJ'), (u'numbers', 'NNS'), (u'of', 'IN'), (u'tour', 'NN'), (u'busses', 'NNS'), (u'dropping', 'VBG'), (u'off', 'RP'), (u'tourists', 'NNS'), (u'to', 'TO'), (u'gawk', 'VB'), (u'and', 'CC'), (u'gape', 'VB'), (u'while', 'IN'), (u'they', 'PRP'), (u'wait', 'VBP'), (u'in', 'IN'), (u'line', 'NN'), (u'for', 'IN'), (u'afternoon', 'NN'), (u'tea', 'NN'), (u'.', '.')]
+large :: 
+**********************************
+{u'BUILDING': u'p'}
+[(u'Still', 'RB'), (u',', ','), (u'my', 'PRP$'), (u'second', 'JJ'), (u'impression', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'CF', 'NNP'), (u'(', '('), (u'the', 'DT'), (u'1st', 'CD'), (u'being', 'VBG'), (u'the', 'DT'), (u'absolutely', 'RB'), (u'stunning', 'JJ'), (u'building', 'NN'), (u'exterior', 'NN'), (u'\u9225', 'NN'), (u'?', '.')]
+second :: 
+stunning :: 
+**********************************
+{}
+[(u'wow', 'NN'), (u'!', '.'), (u')', ')')]
+**********************************
+{}
+[(u'with', 'IN'), (u'bellhops', 'NNS'), (u'coming', 'VBG'), (u'and', 'CC'), (u'going', 'VBG'), (u'and', 'CC'), (u'groups', 'NNS'), (u'congregating', 'VBG'), (u'all', 'DT'), (u'over', 'IN'), (u'the', 'DT'), (u'lobby', 'NN'), (u'was', 'VBD'), (u'\u9225\u6e18ow', 'VBN'), (u'this', 'DT'), (u'is', 'VBZ'), (u'a', 'DT'), (u'real', 'JJ'), (u'hotel\u9225', 'NN'), (u'?', '.')]
+real :: 
+**********************************
+{}
+[(u'I', 'PRP'), (u'would', 'MD'), (u'say', 'VB'), (u'that', 'IN'), (u'the', 'DT'), (u'CF', 'NNP'), (u'and', 'CC'), (u'the', 'DT'), (u'1898', 'CD'), (u'are', 'VBP'), (u'of', 'IN'), (u'similar', 'JJ'), (u'size', 'NN'), (u',', ','), (u'but', 'CC'), (u'the', 'DT'), (u'lobby', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'CF', 'NNP'), (u'was', 'VBD'), (u'much', 'RB'), (u'more', 'RBR'), (u'lively', 'RB'), (u'than', 'IN'), (u'the', 'DT'), (u'1898', 'CD'), (u'although', 'IN'), (u'they', 'PRP'), (u'both', 'DT'), (u'had', 'VBD'), (u'high', 'JJ'), (u'occupancy', 'NN'), (u'during', 'IN'), (u'my', 'PRP$'), (u'stay', 'NN'), (u'.', '.')]
+similar :: 
+high :: 
+**********************************
+{}
+[(u'The', 'DT'), (u'1898', 'CD'), (u'does', 'VBZ'), (u'have', 'VB'), (u'a', 'DT'), (u'somewhat', 'RB'), (u'larger', 'JJR'), (u'lobby', 'NN'), (u'however', 'RB'), (u'so', 'RB'), (u'this', 'DT'), (u'may', 'MD'), (u'account', 'VB'), (u'for', 'IN'), (u'why', 'WRB'), (u'it', 'PRP'), (u'seemed', 'VBD'), (u'so', 'RB'), (u'sparkly', 'JJ'), (u'populated', 'VBN'), (u'.', '.')]
+larger :: 
+sparkly :: 
+**********************************
+{}
+[(u'After', 'IN'), (u'check', 'NN'), (u'in', 'IN'), (u'I', 'PRP'), (u'decided', 'VBD'), (u'to', 'TO'), (u'walk', 'VB'), (u'around', 'IN'), (u'town', 'NN'), (u'a', 'DT'), (u'bit', 'NN'), (u'.', '.')]
+**********************************
+{}
+[(u'Of', 'IN'), (u'course', 'NN'), (u',', ','), (u'the', 'DT'), (u'first', 'JJ'), (u'thing', 'NN'), (u'I', 'PRP'), (u'noticed', 'VBD'), (u'as', 'IN'), (u'I', 'PRP'), (u'was', 'VBD'), (u'walking', 'VBG'), (u'back', 'RB'), (u'up', 'IN'), (u'Pasaig', 'NNP'), (u'de', 'IN'), (u'Gracia', 'NNP'), (u'towards', 'IN'), (u'the', 'DT'), (u'hotel', 'NN'), (u'was', 'VBD'), (u'a', 'DT'), (u'Large', 'JJ'), (u'grey', 'JJ'), (u'tour-bus', 'JJ'), (u'parked', 'VBN'), (u'outside', 'IN'), (u'the', 'DT'), (u'hotel', 'NN'), (u'.', '.')]
+first :: 
+Large :: 
+grey :: 
+tour-bus :: 
+**********************************
+{}
+[(u'Oh', 'NNP'), (u'well', 'RB'), (u'.', '.')]
+**********************************
+{}
+[(u'Guess', 'NNP'), (u'you', 'PRP'), (u'cant', 'VBP'), (u'have', 'VBP'), (u'the', 'DT'), (u'crowded', 'VBN'), (u'lobby', 'NN'), (u'without', 'IN'), (u'the', 'DT'), (u'obligatory', 'JJ'), (u'tour', 'NN'), (u'bus', 'NN'), (u'parked', 'VBD'), (u'outside', 'JJ'), (u'.', '.')]
+obligatory :: 
+outside :: 
+**********************************
+{u'ROOMS': u'ip'}
+[(u'Still', 'RB'), (u',', ','), (u'this', 'DT'), (u'lobby', 'NN'), (u'was', 'VBD'), (u'crowded', 'VBN'), (u'in', 'IN'), (u'the', 'DT'), (u'way', 'NN'), (u'I', 'PRP'), (u'enjoy', 'VBP'), (u'so', 'RB'), (u'I', 'PRP'), (u'can', 'MD'), (u'not', 'RB'), (u'fault', 'VB'), (u'it', 'PRP'), (u'Although', 'IN'), (u'I', 'PRP'), (u'expected', 'VBD'), (u'the', 'DT'), (u'Standard', 'NNP'), (u'room', 'NN'), (u'at', 'IN'), (u'the', 'DT'), (u'CF', 'NNP'), (u'to', 'TO'), (u'smaller', 'JJR'), (u'than', 'IN'), (u'the', 'DT'), (u'superior', 'JJ'), (u'room', 'NN'), (u'at', 'IN'), (u'the', 'DT'), (u'1898', 'CD'), (u',', ','), (u'the', 'DT'), (u'room', 'NN'), (u'at', 'IN'), (u'the', 'DT'), (u'CF', 'NNP'), (u'had', 'VBD'), (u'a', 'DT'), (u'very', 'RB'), (u',', ','), (u'very', 'RB'), (u'large', 'JJ'), (u',', ','), (u'luxurious', 'JJ'), (u'marble', 'NN'), (u'bathroom', 'NN'), (u'reminiscent', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'bathroom', 'NN'), (u'at', 'IN'), (u'the', 'DT'), (u'Hotel', 'NNP'), (u'de', 'FW'), (u'Russie', 'NNP'), (u'in', 'IN'), (u'Rome', 'NNP'), (u'.', '.')]
+smaller :: 
+superior :: 
+large :: 
+luxurious :: 
+**********************************
+{}
+[(u'I', 'PRP'), (u'think', 'VBP'), (u'the', 'DT'), (u'bathroom', 'NN'), (u'is', 'VBZ'), (u'the', 'DT'), (u'most', 'RBS'), (u'important', 'JJ'), (u'part', 'NN'), (u'of', 'IN'), (u'a', 'DT'), (u'hotel', 'NN'), (u'room', 'NN'), (u'and', 'CC'), (u'would', 'MD'), (u'gladly', 'RB'), (u'give', 'VB'), (u'up', 'RP'), (u'extra', 'JJ'), (u'room', 'NN'), (u'real', 'JJ'), (u'estate', 'NN'), (u'if', 'IN'), (u'it', 'PRP'), (u'would', 'MD'), (u'buy', 'VB'), (u'me', 'PRP'), (u'a', 'DT'), (u'larger', 'JJR'), (u'bathroom', 'NN'), (u'.', '.')]
+important :: 
+extra :: 
+real :: 
+larger :: 
+**********************************
+{}
+[(u'You', 'PRP'), (u'could', 'MD'), (u'comfortably', 'RB'), (u'fit', 'VB'), (u'two', 'CD'), (u'people', 'NNS'), (u'in', 'IN'), (u'this', 'DT'), (u'bathroom', 'NN'), (u'which', 'WDT'), (u'I', 'PRP'), (u'appreciated', 'VBD'), (u'even', 'RB'), (u'though', 'IN'), (u'I', 'PRP'), (u'was', 'VBD'), (u'traveling', 'VBG'), (u'alone', 'RB'), (u'.', '.')]
+**********************************
+{u'OTHER': u'ip'}
+[(u'In', 'IN'), (u'fact', 'NN'), (u'the', 'DT'), (u'entire', 'JJ'), (u'CF', 'NNP'), (u'reminded', 'VBD'), (u'me', 'PRP'), (u'of', 'IN'), (u'a', 'DT'), (u'smaller', 'JJR'), (u'version', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'de', 'FW'), (u'Russie', 'NNP'), (u'.', '.')]
+entire :: 
+smaller :: 
+**********************************
+{u'BUILDING': u'ip'}
+[(u'Something', 'VBG'), (u'about', 'IN'), (u'the', 'DT'), (u'decor', 'NN'), (u',', ','), (u'and', 'CC'), (u'the', 'DT'), (u'layout', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'hallways', 'NNS'), (u'though', 'IN'), (u'I', 'PRP'), (u'can\u9225\u6a9b', 'VBP'), (u'put', 'VB'), (u'my', 'PRP$'), (u'finger', 'NN'), (u'on', 'IN'), (u'it', 'PRP'), (u'.', '.')]
+**********************************
+{u'ROOMS': u'in'}
+[(u'I', 'PRP'), (u'did', 'VBD'), (u'have', 'VB'), (u'a', 'DT'), (u'minor', 'JJ'), (u'problem', 'NN'), (u'with', 'IN'), (u'the', 'DT'), (u'shower', 'NN'), (u'\u9225', 'NN'), (u'?', '.')]
+minor :: 
+**********************************
+{u'ROOMS': u'in'}
+[(u'either', 'CC'), (u'there', 'EX'), (u'was', 'VBD'), (u'no', 'DT'), (u'shower', 'NN'), (u'curtain', 'NN'), (u'or', 'CC'), (u'glass', 'NN'), (u'panel', 'NN'), (u'to', 'TO'), (u'keep', 'VB'), (u'the', 'DT'), (u'water', 'NN'), (u'from', 'IN'), (u'spilling', 'VBG'), (u'all', 'DT'), (u'over', 'IN'), (u'the', 'DT'), (u'place', 'NN'), (u',', ','), (u'or', 'CC'), (u'I', 'PRP'), (u'just', 'RB'), (u'count', 'VB'), (u'figure', 'NN'), (u'out', 'IN'), (u'how', 'WRB'), (u'to', 'TO'), (u'use', 'VB'), (u'it', 'PRP'), (u',', ','), (u'but', 'CC'), (u'I', 'PRP'), (u'ended', 'VBD'), (u'up', 'RP'), (u'making', 'VBG'), (u'a', 'DT'), (u'minor', 'JJ'), (u'flood', 'NN'), (u'in', 'IN'), (u'the', 'DT'), (u'bathroom', 'NN'), (u'that', 'IN'), (u'I', 'PRP'), (u'had', 'VBD'), (u'to', 'TO'), (u'use', 'VB'), (u'up', 'RP'), (u'all', 'DT'), (u'my', 'PRP$'), (u'towels', 'NNS'), (u'to', 'TO'), (u'dry', 'VB'), (u'up', 'RP'), (u'.', '.')]
+minor :: 
+**********************************
+{u'SERVICE': u'ip'}
+[(u'Thankfully', 'RB'), (u'when', 'WRB'), (u'I', 'PRP'), (u'returned', 'VBD'), (u'to', 'TO'), (u'my', 'PRP$'), (u'room', 'NN'), (u'the', 'DT'), (u'attendants', 'NNS'), (u'who', 'WP'), (u'had', 'VBD'), (u'done', 'VBN'), (u'turn-down', 'JJ'), (u'service', 'NN'), (u'had', 'VBD'), (u'replaced', 'VBN'), (u'my', 'PRP$'), (u'wet', 'JJ'), (u'towels', 'NNS'), (u'with', 'IN'), (u'fresh', 'JJ'), (u'ones', 'NNS'), (u'.', '.')]
+turn-down :: 
+wet :: 
+fresh :: 
+**********************************
+{u'OTHER': u'ip'}
+[(u'Although', 'IN'), (u'the', 'DT'), (u'CF', 'NNP'), (u'felt', 'VBD'), (u'from', 'IN'), (u'the', 'DT'), (u'start', 'NN'), (u'like', 'IN'), (u'a', 'DT'), (u'real', 'JJ'), (u'deluxe', 'NN'), (u'experience', 'NN'), (u',', ','), (u'it', 'PRP'), (u'proved', 'VBD'), (u'itself', 'PRP'), (u'to', 'TO'), (u'be', 'VB'), (u'such', 'JJ'), (u'on', 'IN'), (u'my', 'PRP$'), (u'very', 'RB'), (u'first', 'RB'), (u'night', 'NN'), (u'there', 'RB'), (u'.', '.')]
+real :: 
+such :: 
+**********************************
+{}
+[(u'After', 'IN'), (u'a', 'DT'), (u'long', 'JJ'), (u'day', 'NN'), (u'of', 'IN'), (u'sightseeing', 'VBG'), (u'in', 'IN'), (u'the', 'DT'), (u'area', 'NN'), (u'around', 'IN'), (u'Palau', 'NNP'), (u'Nacional', 'NNP'), (u'I', 'PRP'), (u'wanted', 'VBD'), (u'to', 'TO'), (u'enjoy', 'VB'), (u'a', 'DT'), (u'glass', 'NN'), (u'of', 'IN'), (u'wine', 'NN'), (u'in', 'IN'), (u'the', 'DT'), (u'Lobby', 'NNP'), (u'bar', 'NN'), (u'before', 'IN'), (u'heading', 'VBG'), (u'off', 'RP'), (u'to', 'TO'), (u'dinner', 'VB'), (u'in', 'IN'), (u'town', 'NN'), (u'.', '.')]
+long :: 
+**********************************
+{u'SERVICE': u'ip'}
+[(u'Regretfully', 'RB'), (u',', ','), (u'there', 'EX'), (u'was', 'VBD'), (u'a', 'DT'), (u'private', 'JJ'), (u'event', 'NN'), (u'going', 'VBG'), (u'on', 'IN'), (u'at', 'IN'), (u'the', 'DT'), (u'time', 'NN'), (u'and', 'CC'), (u'the', 'DT'), (u'gentleman', 'NN'), (u'at', 'IN'), (u'the', 'DT'), (u'front', 'NN'), (u'desk', 'NN'), (u'apologized', 'VBN'), (u'and', 'CC'), (u'offered', 'VBN'), (u'to', 'TO'), (u'have', 'VB'), (u'me', 'PRP'), (u'served', 'VBN'), (u'in', 'IN'), (u'the', 'DT'), (u'upstairs', 'JJ'), (u'library-quite', 'JJ'), (u'area', 'NN'), (u'which', 'WDT'), (u'I', 'PRP'), (u'happily', 'RB'), (u'accepted', 'VBD'), (u'.', '.')]
+private :: 
+upstairs :: 
+library-quite :: 
+**********************************
+{}
+[(u'Shortly', 'RB'), (u'after', 'IN'), (u'finding', 'VBG'), (u'a', 'DT'), (u'place', 'NN'), (u'to', 'TO'), (u'sit', 'VB'), (u'where', 'WRB'), (u'I', 'PRP'), (u'could', 'MD'), (u'write', 'VB'), (u'my', 'PRP$'), (u'postcards', 'NNS'), (u'a', 'DT'), (u'waiter', 'NN'), (u'appeared', 'VBD'), (u'to', 'TO'), (u'take', 'VB'), (u'my', 'PRP$'), (u'order', 'NN'), (u'.', '.')]
+**********************************
+{}
+[(u'When', 'WRB'), (u'he', 'PRP'), (u'returned', 'VBD'), (u'her', 'PRP'), (u'informed', 'VBD'), (u'me', 'PRP'), (u'that', 'IN'), (u'the', 'DT'), (u'glass', 'NN'), (u'of', 'IN'), (u'wine', 'NN'), (u'was', 'VBD'), (u'\u9225\u6e19n', 'IN'), (u'the', 'DT'), (u'house', 'NN'), (u',', ','), (u'\u9225', 'VB'), (u'?', '.')]
+**********************************
+{}
+[(u'which', 'WDT'), (u'could', 'MD'), (u'not', 'RB'), (u'have', 'VB'), (u'made', 'VBN'), (u'me', 'PRP'), (u'happier', 'JJR'), (u'.', '.')]
+happier :: 
+**********************************
+{}
+[(u'Very', 'RB'), (u'unexpected', 'JJ'), (u'and', 'CC'), (u'very', 'RB'), (u',', ','), (u'very', 'RB'), (u'nice', 'JJ'), (u'.', '.')]
+unexpected :: 
+nice :: 
+**********************************
+{u'FOOD': u'ip'}
+[(u'Skeptics', 'NNS'), (u'might', 'MD'), (u'say', 'VB'), (u'that', 'IN'), (u'a', 'DT'), (u'small', 'JJ'), (u'gesture', 'NN'), (u'like', 'IN'), (u'that', 'DT'), (u'is', 'VBZ'), (u'not', 'RB'), (u'worth', 'JJ'), (u'the', 'DT'), (u'extra', 'JJ'), (u'Euro', 'NNP'), (u'110/night', 'CD'), (u'over', 'IN'), (u'my', 'PRP$'), (u'other', 'JJ'), (u'choice', 'NN'), (u'for', 'IN'), (u'accommodation', 'NN'), (u',', ','), (u'but', 'CC'), (u'to', 'TO'), (u'me', 'PRP'), (u'it', 'PRP'), (u'makes', 'VBZ'), (u'all', 'PDT'), (u'the', 'DT'), (u'difference.I', 'NN'), (u'did', 'VBD'), (u'eventually', 'RB'), (u'make', 'VB'), (u'my', 'PRP$'), (u'way', 'NN'), (u'to', 'TO'), (u'the', 'DT'), (u'lobby', 'NN'), (u'bar', 'NN'), (u'after', 'IN'), (u'midnight', 'NN'), (u'where', 'WRB'), (u'I', 'PRP'), (u'enjoyed', 'VBD'), (u'a', 'DT'), (u'glass', 'NN'), (u'of', 'IN'), (u'Cava', 'NNP'), (u',', ','), (u'finger', 'NN'), (u'foods', 'NNS'), (u',', ','), (u'and', 'CC'), (u'deserts', 'NNS'), (u'.', '.')]
+small :: 
+worth :: 
+extra :: 
+other :: 
+**********************************
+{}
+[(u'The', 'DT'), (u'later', 'NN'), (u'was', 'VBD'), (u'on', 'IN'), (u'the', 'DT'), (u'pricey', 'JJ'), (u'side', 'NN'), (u'but', 'CC'), (u'no', 'DT'), (u'more', 'JJR'), (u'than', 'IN'), (u'I', 'PRP'), (u'expected', 'VBD'), (u'to', 'TO'), (u'pay', 'VB'), (u'at', 'IN'), (u'such', 'PDT'), (u'a', 'DT'), (u'fine', 'JJ'), (u'hotel', 'NN'), (u'.', '.')]
+pricey :: 
+more :: 
+fine :: 
+**********************************
+{u'OTHER': u'ip'}
+[(u'Although', 'IN'), (u'I', 'PRP'), (u'would', 'MD'), (u'stay', 'VB'), (u'at', 'IN'), (u'the', 'DT'), (u'1898', 'CD'), (u'again', 'RB'), (u',', ','), (u'if', 'IN'), (u'I', 'PRP'), (u'budget', 'NN'), (u'was', 'VBD'), (u'not', 'RB'), (u'a', 'DT'), (u'constraint', 'NN'), (u'I', 'PRP'), (u'would', 'MD'), (u'choose', 'VB'), (u'the', 'DT'), (u'CF', 'NNP'), (u'hands', 'VBZ'), (u'down', 'RB'), (u'.', '.')]
+**********************************
+{u'OTHER': u'ip'}
+[(u'You', 'PRP'), (u'pay', 'VBP'), (u'more', 'JJR'), (u',', ','), (u'but', 'CC'), (u'you', 'PRP'), (u'get', 'VBP'), (u'so', 'RB'), (u'much', 'RB'), (u'more', 'RBR'), (u'.', '.')]
+more :: 
+**********************************
+{}
+[(u'This', 'DT'), (u'was', 'VBD'), (u'my', 'PRP$'), (u'second', 'JJ'), (u'trip', 'NN'), (u'to', 'TO'), (u'BCN', 'NNP'), (u'and', 'CC'), (u'some', 'DT'), (u'of', 'IN'), (u'the', 'DT'), (u'TripAdvisor', 'NNP'), (u'members', 'NNS'), (u'warned', 'VBD'), (u'that', 'IN'), (u'the', 'DT'), (u'area', 'NN'), (u'has', 'VBZ'), (u'become', 'VBN'), (u'a', 'DT'), (u'lot', 'NN'), (u'more', 'JJR'), (u'touristy', 'JJ'), (u'than', 'IN'), (u'in', 'IN'), (u'it', 'PRP'), (u'was', 'VBD'), (u'in', 'IN'), (u'1997', 'CD'), (u',', ','), (u'I', 'PRP'), (u'didn\u9225\u6a9b', 'VBP'), (u'really', 'RB'), (u'find', 'VB'), (u'that', 'DT'), (u'to', 'TO'), (u'be', 'VB'), (u'the', 'DT'), (u'case', 'NN'), (u'.', '.')]
+second :: 
+more :: 
+touristy :: 
+**********************************
+{u'LOCATION': u'ip'}
+[(u'Still', 'RB'), (u',', ','), (u'L\u9225\u6a62ixample', 'NNP'), (u'is', 'VBZ'), (u'not', 'RB'), (u'all', 'PDT'), (u'that', 'IN'), (u'far', 'RB'), (u'away', 'RB'), (u'from', 'IN'), (u'Placa', 'NNP'), (u'Catalunya', 'NNP'), (u'and', 'CC'), (u'Pasaig', 'NNP'), (u'de', 'NNP'), (u'Gracia', 'NNP'), (u'is', 'VBZ'), (u'really', 'RB'), (u'so', 'RB'), (u'nice', 'JJ'), (u'to', 'TO'), (u'stroll', 'VB'), (u'along', 'RB'), (u'\u9225', 'RB'), (u'?', '.')]
+nice :: 
+**********************************
+{}
+[(u'leisurely', 'RB'), (u'or', 'CC'), (u'otherwise', 'RB'), (u'.', '.')]
+**********************************
+{}
+[(u'There', 'EX'), (u'is', 'VBZ'), (u'no', 'DT'), (u'reason', 'NN'), (u'to', 'TO'), (u'stay', 'VB'), (u'on', 'IN'), (u'Las', 'NNP'), (u'Ramblas', 'NNP'), (u'.', '.')]
+**********************************
+{}
+[(u'Even', 'RB'), (u'if', 'IN'), (u'you', 'PRP'), (u'are', 'VBP'), (u'not', 'RB'), (u'a', 'DT'), (u'walker', 'NN'), (u',', ','), (u'the', 'DT'), (u'Diagonal', 'NNP'), (u'Metro', 'NNP'), (u'station', 'NN'), (u'is', 'VBZ'), (u'only', 'RB'), (u'two', 'CD'), (u'stops', 'NNS'), (u'form', 'VBP'), (u'the', 'DT'), (u'Ramblas', 'NNP'), (u'.', '.')]
+**********************************
+{}
+[(u'A', 'DT'), (u'note', 'NN'), (u'of', 'IN'), (u'caution', 'NN'), (u'for', 'IN'), (u'those', 'DT'), (u'of', 'IN'), (u'you', 'PRP'), (u'who', 'WP'), (u'only', 'RB'), (u'travel', 'VBP'), (u'by', 'IN'), (u'car', 'NN'), (u'or', 'CC'), (u'taxi', 'NN'), (u':', ':'), (u'At', 'IN'), (u'11', 'CD'), (u'AM', 'NNP'), (u'on', 'IN'), (u'a', 'DT'), (u'Monday', 'NNP'), (u'morning', 'NN'), (u'to', 'TO'), (u'took', 'VBD'), (u'over', 'RP'), (u'30', 'CD'), (u'minutes', 'NNS'), (u'to', 'TO'), (u'travel', 'VB'), (u'from', 'IN'), (u'the', 'DT'), (u'Hotel', 'NN'), (u'1898', 'CD'), (u'(', '('), (u'on', 'IN'), (u'Las', 'NNP'), (u'Ramblas', 'NNP'), (u')', ')'), (u'to', 'TO'), (u'the', 'DT'), (u'CF', 'NNP'), (u'.', '.')]
+**********************************
+{}
+[(u'I', 'PRP'), (u'could', 'MD'), (u'have', 'VB'), (u'walked', 'VBN'), (u'to', 'TO'), (u'the', 'DT'), (u'CF', 'NNP'), (u'in', 'IN'), (u'just', 'RB'), (u'over', 'IN'), (u'half', 'PDT'), (u'that', 'DT'), (u'time', 'NN'), (u'if', 'IN'), (u'I', 'PRP'), (u'didn\u9225\u6a9b', 'VBP'), (u'have', 'VBP'), (u'a', 'DT'), (u'large', 'JJ'), (u'suitcase', 'NN'), (u'with', 'IN'), (u'me.I', 'NN'), (u'would', 'MD'), (u'also', 'RB'), (u'like', 'VB'), (u'to', 'TO'), (u'try', 'VB'), (u'the', 'DT'), (u'Hotel', 'NNP'), (u'Majestic', 'NNP'), (u',', ','), (u'which', 'WDT'), (u'is', 'VBZ'), (u'only', 'RB'), (u'2', 'CD'), (u'or', 'CC'), (u'3', 'CD'), (u'blocks', 'NNS'), (u'from', 'IN'), (u'the', 'DT'), (u'CF', 'NNP'), (u'and', 'CC'), (u'so', 'RB'), (u'many', 'JJ'), (u'Trip', 'NNP'), (u'Advisor', 'NNP'), (u'members', 'NNS'), (u'have', 'VBP'), (u'spoken', 'VBN'), (u'so', 'RB'), (u'highly', 'RB'), (u'of', 'IN'), (u'it', 'PRP'), (u'.', '.')]
+large :: 
+many :: 
+**********************************
+{}
+[(u'But', 'CC'), (u'I', 'PRP'), (u'wouldn\u9225\u6a9b', 'VBP'), (u'think', 'VB'), (u'twice', 'RB'), (u'about', 'RB'), (u'staying', 'VBG'), (u'at', 'IN'), (u'the', 'DT'), (u'CF', 'NNP'), (u'again', 'RB'), (u'.', '.')]
+**********************************
+{u'OTHER': u'ip'}
+[(u'I', 'PRP'), (u'can', 'MD'), (u'not', 'RB'), (u'fault', 'VB'), (u'the', 'DT'), (u'experience', 'NN'), (u'\u9225', 'NN'), (u'?', '.')]
+**********************************
+{u'OTHER': u'in'}
+[(u'well', 'RB'), (u'maybe', 'RB'), (u'the', 'DT'), (u'5', 'CD'), (u'pound', 'NN'), (u'room', 'NN'), (u'key', 'JJ'), (u'system', 'NN'), (u'REALLY', 'NNP'), (u'does', 'VBZ'), (u'need', 'VB'), (u'to', 'TO'), (u'be', 'VB'), (u'done', 'VBN'), (u'away', 'RB'), (u'with', 'IN'), (u'in', 'IN'), (u'favor', 'NN'), (u'of', 'IN'), (u'a', 'DT'), (u'keycard', 'NN'), (u'\u9225', 'NN'), (u'?', '.')]
+key :: 
+**********************************
+{u'OTHER': u'p'}
+[(u'but', 'CC'), (u'otherwise', 'VB'), (u'it', 'PRP'), (u'was', 'VBD'), (u'truly', 'RB'), (u'wonderful', 'JJ'), (u'.', '.')]
+wonderful :: 
+**********************************
+{}
+[(u'I', 'PRP'), (u'never', 'RB'), (u'made', 'VBD'), (u'it', 'PRP'), (u'to', 'TO'), (u'breakfastas', 'VB'), (u'I', 'PRP'), (u'had', 'VBD'), (u'saved', 'VBN'), (u'that', 'IN'), (u'for', 'IN'), (u'my', 'PRP$'), (u'checkout', 'NN'), (u'day', 'NN'), (u'but', 'CC'), (u'ended', 'VBD'), (u'up', 'RB'), (u'having', 'VBG'), (u'to', 'TO'), (u'check', 'VB'), (u'out', 'RP'), (u'at', 'IN'), (u'4:30', 'CD'), (u'AM', 'NNS'), (u'due', 'JJ'), (u'to', 'TO'), (u'a', 'DT'), (u'last', 'JJ'), (u'minute', 'NN'), (u'change', 'NN'), (u'in', 'IN'), (u'my', 'PRP$'), (u'travel', 'NN'), (u'plans', 'NNS'), (u'.', '.')]
+due :: 
+last :: 
+**********************************
+{}
+[(u'The', 'DT'), (u'reviews', 'NNS'), (u'on', 'IN'), (u'TA', 'NNP'), (u'are', 'VBP'), (u'a', 'DT'), (u'little', 'JJ'), (u'bit', 'NN'), (u'misleading', 'VBG'), (u'for', 'IN'), (u'the', 'DT'), (u'CF', 'NNP'), (u'.', '.')]
+little :: 
+**********************************
+{}
+[(u'I', 'PRP'), (u'noticed', 'VBD'), (u'a', 'DT'), (u'lot', 'NN'), (u'of', 'IN'), (u'people', 'NNS'), (u'gave', 'VBD'), (u'the', 'DT'), (u'CF', 'NNP'), (u'4-out-of-5', 'CD'), (u'while', 'IN'), (u'nearly', 'RB'), (u'all', 'PDT'), (u'the', 'DT'), (u'reviews', 'NNS'), (u'of', 'IN'), (u'the', 'DT'), (u'1998', 'CD'), (u'are', 'VBP'), (u'5-out-of-5', 'JJ'), (u'.', '.')]
+5-out-of-5 :: 
+**********************************
+{}
+[(u'These', 'DT'), (u'reviews', 'NNS'), (u',', ','), (u'coupled', 'VBN'), (u'with', 'IN'), (u'the', 'DT'), (u'uber-cheap', 'JJ'), (u'rate', 'NN'), (u'I', 'PRP'), (u'was', 'VBD'), (u'originally', 'RB'), (u'given', 'VBN'), (u'for', 'IN'), (u'the', 'DT'), (u'CF', 'NNP'), (u',', ','), (u'made', 'VBD'), (u'me', 'PRP'), (u'originally', 'RB'), (u'want', 'VBP'), (u'to', 'TO'), (u'avoid', 'VB'), (u'it', 'PRP'), (u'.', '.')]
+uber-cheap :: 
+**********************************
+{}
+[(u'Too', 'RB'), (u'often', 'RB'), (u'have', 'VBP'), (u'I', 'PRP'), (u'stayed', 'VBN'), (u'at', 'IN'), (u'a', 'DT'), (u'\u9225\u6e08reat\u9225', 'NN'), (u'?', '.')]
+**********************************
+{}
+[(u'hotel', 'NN'), (u'at', 'IN'), (u'a', 'DT'), (u'steep', 'JJ'), (u'discount', 'NN'), (u'and', 'CC'), (u'regretted', 'VBD'), (u'doing', 'VBG'), (u'so', 'RB'), (u'.', '.')]
+steep :: 
+**********************************
+{}
+[(u'I', 'PRP'), (u'was', 'VBD'), (u'seriously', 'RB'), (u'afraid', 'JJ'), (u'that', 'IN'), (u'the', 'DT'), (u'CF', 'NNP'), (u'was', 'VBD'), (u'past', 'IN'), (u'its', 'PRP$'), (u'prime', 'NN'), (u'.', '.')]
+afraid :: 
+**********************************
+{u'OTHER': u'ip'}
+[(u'Thankfully', 'RB'), (u'the', 'DT'), (u'CF', 'NNP'), (u'was', 'VBD'), (u'everything', 'NN'), (u'I', 'PRP'), (u'expected', 'VBD'), (u'\u9225', 'NN'), (u'?', '.')]
+**********************************
+{u'OTHER': u'ip'}
+[(u'actually', 'RB'), (u'better', 'JJR'), (u'b/c', 'NN'), (u'it', 'PRP'), (u'surpassed', 'VBD'), (u'the', 'DT'), (u'1898', 'CD'), (u'\u9225', 'NN'), (u'?', '.')]
+better :: 
+**********************************
+{}
+[(u'truly', 'RB'), (u'a', 'DT'), (u'tough', 'JJ'), (u'act', 'NN'), (u'to', 'TO'), (u'follow', 'VB'), (u'\u9225', 'NN'), (u'?', '.')]
+tough :: 
+**********************************
+{}
+[(u'in', 'IN'), (u'so', 'RB'), (u'many', 'JJ'), (u'ways', 'NNS'), (u'.', '.')]
+many :: 
+**********************************
+{}
+[(u'But', 'CC'), (u'I', 'PRP'), (u'would', 'MD'), (u'explain', 'VB'), (u'the', 'DT'), (u'stellar', 'JJ'), (u'reviews', 'NNS'), (u'that', 'IN'), (u'the', 'DT'), (u'1898', 'CD'), (u'gets', 'VBZ'), (u'by', 'IN'), (u'saying', 'VBG'), (u'that', 'IN'), (u'it', 'PRP'), (u'probably', 'RB'), (u'exceeds', 'VBZ'), (u'people\u9225\u6a9a', 'JJ'), (u'expectations', 'NNS'), (u'as', 'IN'), (u'a', 'DT'), (u'4', 'CD'), (u'star', 'NN'), (u'hotel', 'NN'), (u'while', 'IN'), (u'it', 'PRP'), (u'sounds', 'VBZ'), (u'like', 'IN'), (u'the', 'DT'), (u'CF', 'NNP'), (u'sometimes', 'RB'), (u'does', 'VBZ'), (u'not', 'RB'), (u'live', 'VB'), (u'up', 'RP'), (u'to', 'TO'), (u'people\u9225\u6a9a', 'VB'), (u'expectations', 'NNS'), (u'.', '.')]
+stellar :: 

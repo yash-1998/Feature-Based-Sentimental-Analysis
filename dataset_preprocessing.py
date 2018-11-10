@@ -34,6 +34,6 @@ while True:
                 inner_comment = inner_comment + word_after_lem + " "
         final_comment = final_comment + inner_comment + "."
 
-    print(count,end=' ')
+    print(count)
     print(final_comment)
     count = count+1
