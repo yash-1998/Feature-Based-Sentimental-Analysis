@@ -23,7 +23,7 @@ while True:
             comment = line[i+1:]
             break
 
-    list = ['!', ':', ';', '{', '}', '(', ')', '[', ']']
+    list = ['!', ':', ';', '{', '}', '(', ')', '[', ']', ',']
     comments_split = comment.split('.')
     final_comment = ""
     for i in range(len(comments_split)):

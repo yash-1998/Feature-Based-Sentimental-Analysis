@@ -19,7 +19,7 @@ def convert(x):
 count = 1
 for i in range(len(df1['segments'])):
     df1.at[i, 'segments'] = convert(df1['segments'][i])
-    print(count,end=' ')
+    print(count, end=' ')
     print(df1['segments'][i])
     count = count + 1
 
