@@ -1,0 +1,6 @@
+nouns :: hour,room,pre-paid,door,the room,when we, adjectives :: 
+nouns :: small/handicap,room,standard,double,
+nouns :: when we,towels,shampoo,times,hour,shower/bath,party,that we, adjectives :: more,2-3,
+nouns :: lady,bland,when i, adjectives :: 
+nouns :: one,sort,compensation,restitution,mix-up,wait,ontop, adjectives :: long,
+nouns ::  adjectives :: 

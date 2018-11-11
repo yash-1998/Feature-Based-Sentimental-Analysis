@@ -1,0 +1,8 @@
+nouns :: hotel,kitchen,family,this hotel,ideal, adjectives :: full,ideal,
+nouns :: room,breakfast,buffet,fare,none,it is,the room,standard,breakfast is, adjectives :: spotless,wear,hot,pretty,standard,complimentary,better,
+nouns :: room,lighting,fixtures,bed,thread,count,sheets,granite,something,counters,kitchen,bath,work,desk,table,bathroom,panel,degrees,temperature,settings,appliances,kitchenware,stuff,everything,the room,room was,desk and,control, adjectives :: amazing,upgraded,super-comfy,high,large,flat,easy,nice,cheap,
+nouns :: home,truly,super, adjectives :: comfortable,
+nouns :: service,torontonians,industry,staff,efficient,the service,the staff, adjectives :: less,stellar,friendly,
+nouns :: complaint,door,gap,bottom,noise,room,only complaint,is the,of the, adjectives :: only,thin,huge,hallway,own,
+nouns :: buffet,breakfast,zoo,service,times3,parking,valet,notes:1,stay,service is,is good, adjectives :: other,complimentary,wi-fi,good,slow,fast,friendly,
+nouns ::  adjectives :: 

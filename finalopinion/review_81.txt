@@ -1,0 +1,5 @@
+nouns :: place,hotel,this place, adjectives :: solid,pretty,swish,
+nouns :: w/e,rate,place,business,district,area,bit,areas,get,to get, adjectives :: good,dead,other,
+nouns :: room,size,service,clean,a good, adjectives :: good,clean,
+nouns :: hotels,calibre,extras,internet,rip,absolute, adjectives :: most,absolute,
+nouns ::  adjectives :: 

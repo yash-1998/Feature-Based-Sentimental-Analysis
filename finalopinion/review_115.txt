@@ -1,0 +1,9 @@
+nouns :: hotel,
+nouns :: occasion,stay,thanks,feedback,guests,hotel,hotel and,was not, adjectives :: special,previous,charming,
+nouns :: the location,distance,attractions,location is,location,walking distance,offer, adjectives :: perfect,quiet,many,top,
+nouns :: moment,trip,bar,champagne,hotel,advice,restaurants,bars,the bar,the hotel, adjectives :: unbiased,nearby,
+nouns :: hotel,rooms,size,paris,decorations,hotel is,a good, adjectives :: actual,fantastic,good,fabulous,
+nouns :: in addition,housekeeping,addition,excellent,was excellent, adjectives :: excellent,
+nouns :: the hotel,hours,cancellaton,fee,night,thankyou,hotel, adjectives :: fantastic,helpful,normal,notice,last,
+nouns :: we will,
+nouns :: 

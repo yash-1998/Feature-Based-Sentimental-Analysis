@@ -1,0 +1,10 @@
+nouns :: experience,a great,
+nouns :: reviews,hotel,when i,this hotel, adjectives :: little,worried,recent,
+nouns :: singel,stay,to stay,
+nouns :: clerk,room,amsterdam,needs,amenities,shower,w/cable,desk,that i,but it,clean, adjectives :: smallest,right,clean,quiet,
+nouns :: room,room and,and the,the room,room was, adjectives :: non-smoking,bright,modern,airy,smoke-free,
+nouns :: the location,station,city,center,side,town,shops,restaurants,location is,location,the city, adjectives :: fabulous,centraal,quiet,canal,western,great,
+nouns :: singel,array,meats,cheeses,fruit,toasts,yogurt,granola,juice,breakfast, adjectives :: 
+nouns :: carafe,coffee/tea,table, adjectives :: 
+nouns :: yes,room,key,europe,stay,service, adjectives :: friendly,common,
+nouns ::  adjectives :: 

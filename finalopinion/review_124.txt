@@ -1,0 +1,6 @@
+nouns :: hotel,
+nouns :: the hotel,convenient,location,transportation,hotel is,hotel, adjectives :: public,
+nouns :: my room,time,anything,room,clean and, adjectives :: clean,little,adequate,special,
+nouns :: speaker,hotel,staff,anything,service,fluent,and i,need,so i, adjectives :: spanish,
+nouns :: price,complaints,the price, adjectives :: 
+nouns ::  adjectives :: 

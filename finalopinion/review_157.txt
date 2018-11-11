@@ -1,0 +1,11 @@
+nouns :: location,
+nouns :: location,shinjuku,station,subway,line,stops,it is,is one,of the, adjectives :: good,major,
+nouns :: shuttle,station,walk, adjectives :: free,bad,
+nouns :: the hotel,nicer,hilton,hotels,hotel, adjectives :: litle,standard,
+nouns :: service was,concierge,service,times,restaurants,area,and we,the area, adjectives :: great,numerous,good,
+nouns :: hit,miss,staff,part,breakfast,hotel,style,buffet,for the,the hotel,excellent,was excellent, adjectives :: english,most,japanese,western,excellent,
+nouns :: restaurants,floor,bit, adjectives :: second,pricey,
+nouns :: city,hotel,shinjuku,business,district,night,station,shuttle,service,is the,is a, adjectives :: only,different,quiet,
+nouns :: cities,agenda,choice,is one, adjectives :: many,great,
+nouns :: leaves,station,stations,venture,downside,tokyo,so you, adjectives :: tokyo,west,
+nouns ::  adjectives :: 

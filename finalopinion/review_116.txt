@@ -1,0 +1,6 @@
+nouns :: days,
+nouns :: days,metairie,time, adjectives :: wondeful,
+nouns :: the rooms,people,rooms,and the, adjectives :: clean,more,friendly,
+nouns :: it was,orleans,rates,commute,fun, adjectives :: little,outside,new,great,close,
+nouns :: 
+nouns :: 

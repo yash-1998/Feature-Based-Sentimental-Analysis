@@ -1,0 +1,7 @@
+nouns :: fitness,center,seasons,properties,cities,line,service,card,check-in,kind,thing,room,beds,ferraris,porshes,escalades,valet,ritz,need,clean,room and,and the,front,with the, adjectives :: ritz/four,several,prompt,individualized,welcome,clean,comfortable,requisite,front,
+nouns :: ton,luggage,equipment,bellhops,room,mins,check-in,our room, adjectives :: musical,attentive,less,
+nouns :: fitness,center,lines,something,hyatt,in the, adjectives :: little,disappointed,decent,
+nouns :: shops, adjectives :: 
+nouns :: ritz,star,hotels,internet,access,guess,business,accounts,room,rate,westerns,ticks,the room, adjectives :: other,extra,most,free,
+nouns :: ritz,
+nouns :: 

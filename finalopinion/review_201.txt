@@ -1,0 +1,18 @@
+nouns :: 
+nouns :: room,flight,stairs,a room,reception,get, adjectives :: steep,
+nouns :: help,bags,staff,member,msn,machines,reception,offer,work, adjectives :: busy,empty,
+nouns :: light,bulbs,windows,half,work, adjectives :: light,
+nouns :: 
+nouns :: bugs,room, adjectives :: strange,brown,
+nouns :: 
+nouns :: restaurant,night,colourless,portions,eat,to eat,downstairs, adjectives :: first,tasteless,small,expensive,
+nouns :: experience,breakfast,
+nouns :: ham,cheese,bread,rolls,bowl,cereals,table,a large, adjectives :: stale,large,
+nouns :: breakfast is,breakfast, adjectives :: available,extra,
+nouns :: coffee,tea,but it, adjectives :: available,
+nouns :: refuse,waiter,fingers,tea,staff, adjectives :: ready,
+nouns :: rash,reaction,something,wrists,spread,bodies,that we, adjectives :: allergic,
+nouns :: doctor,scabies,that we, adjectives :: mortified,
+nouns :: beds,doctor,bedding, adjectives :: dirty,
+nouns :: circumstances,hotel,anybody,this hotel, adjectives :: 
+nouns ::  adjectives :: 

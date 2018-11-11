@@ -1,0 +1,10 @@
+nouns :: hotel,paris,hotel in, adjectives :: new,favourite,
+nouns :: reviews,trip,advisor,location,jardins,beautiful,spot,paris,morning,stroll,convenience,airport,rer,station,luxembourg,line,for a,to the, adjectives :: saturday,
+nouns :: hotel,website,summer,special,rates,on the,the hotel, adjectives :: good,
+nouns :: if you,hotel,price,this hotel,i would, adjectives :: good,
+nouns :: the rooms,size,paris,rooms are,rooms, adjectives :: good,top,stylish,comfortable,
+nouns :: the rooms,front,pantheon,noisy,night,sleeping,problem,rooms,on the,but it, adjectives :: little,friday,last,late,
+nouns :: selection,meats,cheese,bread,pastries,cereal,yoghurt,juice,tea/coffee,was very,a good, adjectives :: good,cold,
+nouns :: the staff,helpful,staff, adjectives :: polite,helpful,
+nouns :: hotel,paris,hotel in, adjectives :: new,favourite,
+nouns ::  adjectives :: 

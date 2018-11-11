@@ -1,0 +1,17 @@
+nouns :: hotel in, adjectives :: best,
+nouns ::  adjectives :: 
+nouns :: staff,rate,patrick,day,weekend,location,very good, adjectives :: perfect,friendly,good,
+nouns :: the room,apartment,room,room was,challenge,a room, adjectives :: bigger,first,
+nouns :: furniture,
+nouns :: fireplace,room,guests,working,in the,the room,but i, adjectives :: actual,
+nouns :: reading,lamp,chair,beautiful, adjectives :: beautiful,
+nouns :: playground,courtyard,stay,windows,and it,our stay, adjectives :: silent,
+nouns :: elevator,thing,to the, adjectives :: right,next,
+nouns :: panel,unit, adjectives :: big,flat,dvd/vcr,
+nouns :: area,couch,w/o,problems,feet,tall,room,food,had a,that i,fridge,in room,so you, adjectives :: comfy,own,
+nouns :: the bathroom,bathroom was,bathroom, adjectives :: huge,
+nouns :: window,that you, adjectives :: 
+nouns :: nice,air,noisy,fan,drawback,breakfast,get,to get, adjectives :: nice,real,fresh,useless,only,complimentary,
+nouns :: things,hotel,this hotel, adjectives :: good,
+nouns :: it was,waldorf,sheraton,way, adjectives :: better,
+nouns ::  adjectives :: 

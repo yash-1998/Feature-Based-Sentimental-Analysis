@@ -1,0 +1,9 @@
+nouns :: area,
+nouns :: walk,square,station,cases, adjectives :: great,central,
+nouns :: this hotel,roadparking,day,security,car,customer,service,average,hostel,hotel is,hotel,noisy,pay,and i,of my,helpful, adjectives :: major,lead,free,e25,helpful,equal,
+nouns :: resturant,rooms,beds,room,idea,breakfast,at all,feel,my room,i was, adjectives :: bad,chinese,odd,many,possible,single,
+nouns :: sheets,baby,arse, adjectives :: comfortable,soft,
+nouns :: 
+nouns :: lot,carpeting,owner,couple,mates,maintenance,ride,place,feels,budget,motel,star,price,decor,to be,was very,and they,this place, adjectives :: shoddy,low,high,
+nouns :: shower,fear,growth,bathroom,light,work,places,price,bathroom was,dirty,stay,there are, adjectives :: nasty,fungal,dirty,much,better,professional,same,
+nouns ::  adjectives :: 

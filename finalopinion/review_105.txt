@@ -1,0 +1,13 @@
+nouns :: 
+nouns :: my husband,nights,resort,place,husband and,husband,the resort,thought,it was, adjectives :: overall,nice,
+nouns :: the grounds,view,room,grounds,and we,our room, adjectives :: great,
+nouns :: the staff,staff,was very, adjectives :: friendly,helpful,
+nouns :: day,night,sink,when we,it was, adjectives :: second,
+nouns :: time,fan,nights,issue,was not,the time,a large, adjectives :: large,cool,
+nouns :: service,restaurant,was very, adjectives :: slow,
+nouns :: night,buffet,food,start,the food,food was,wonderful, adjectives :: first,wonderful,
+nouns :: night,stay,story,our stay, adjectives :: last,different,
+nouns :: menu,time,food,place,and it,the place,was not,at all, adjectives :: long,busy,
+nouns :: the food,trip,shore,everything,food was,food,was good,we will, adjectives :: good,arrive,next,north,waikiki,closer,
+nouns :: place,excitement, adjectives :: overall,bad,little,
+nouns ::  adjectives :: 

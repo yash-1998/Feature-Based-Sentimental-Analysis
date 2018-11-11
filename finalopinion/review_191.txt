@@ -1,0 +1,15 @@
+nouns :: stay,to stay,
+nouns :: everything,
+nouns :: the resort,ocean,pools,clean,resort,beautiful, adjectives :: clean,beautiful,wonderful,
+nouns :: workers,helps, adjectives :: friendly,little,spanish,
+nouns :: bucanero,beach,dinner,the beach,was the, adjectives :: best,
+nouns :: lobster,shrimp,conch,rice, adjectives :: carribean,
+nouns :: it was,wonderful,
+nouns :: 
+nouns :: everything, adjectives :: 
+nouns :: problem,bugs,everything, adjectives :: 
+nouns :: lighting,room,humidity,jar,scent,bed,bath,moisture,in the,the room,room and,and i,and it, adjectives :: low,
+nouns :: relax,
+nouns :: king,queen,vacation, adjectives :: pleasant,
+nouns :: blue,and we,return,
+nouns :: 

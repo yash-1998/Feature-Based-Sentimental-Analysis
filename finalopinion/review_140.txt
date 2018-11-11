@@ -1,0 +1,16 @@
+nouns :: day,arts, adjectives :: poor,
+nouns :: arts,need,overhaul,times,cracks,and it,it is,i have, adjectives :: few,
+nouns :: wife,time,business, adjectives :: last,january,
+nouns :: club,room,weekend,jan,we went,for a, adjectives :: expensive,romantic,
+nouns :: access,club,floor,breakfast,drinks, adjectives :: 
+nouns :: 
+nouns :: wife,breakfast,club,rooms,morning, adjectives :: 
+nouns :: petals,bed,apologies, adjectives :: 
+nouns :: business,
+nouns :: arts,business,conferences, adjectives :: 
+nouns :: service,people,bills,the service, adjectives :: good,most,
+nouns :: bar,hotel,money,everyone,the bar,the hotel, adjectives :: 
+nouns :: business,conferences,off-,amount,items,rip,charge, adjectives :: rip,basic,criminal,
+nouns :: things,change, adjectives :: fairness,
+nouns :: hotel,rooms,food,conciege,location,design,the hotel,the rooms,rooms are,the food,is very,very good,and the,the location,location is,nice, adjectives :: good,nice,
+nouns ::  adjectives :: 

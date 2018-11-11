@@ -1,0 +1,11 @@
+nouns :: 
+nouns :: bit,property,things,resort,hotel,punta,cana,because i,about this,this hotel,is the, adjectives :: concerned,few,bad,best,
+nouns :: check in,grounds,check,the grounds,clean, adjectives :: quick,huge,clean,
+nouns :: the rooms,rooms are,rooms, adjectives :: huge,
+nouns :: restaurants,eat,reservations,mind,carte,guys,shorts,dress,code,effect,food,eater,the food,food was,and i, adjectives :: full,amazing,picky,
+nouns :: see,anything,drinks, adjectives :: much,
+nouns :: the beach,plenty,chairs,morning,chair,beach,clean,so you, adjectives :: huge,clean,early,
+nouns :: staff,are very, adjectives :: friendly,
+nouns :: night,lion,king,shows,are very, adjectives :: nice,chicago,
+nouns :: property,time,hotel,service,friends,stay,to stay,that i,time and,this hotel,and the,the service, adjectives :: much,amazing,most,
+nouns ::  adjectives :: 

@@ -1,0 +1,10 @@
+nouns :: star,
+nouns :: hotel,stay,florence,for a, adjectives :: perfect,
+nouns :: heart,city,pedestrain,hotel,alot,money,something,the heart,the city,on the,street,this hotel,hotel is, adjectives :: main,perfect,more,elegant,
+nouns :: price,outskirts,anything, adjectives :: 
+nouns :: car,hotel,door,driver,parking,garage,the hotel,and a, adjectives :: 
+nouns :: 
+nouns :: breakfast,breakfast is, adjectives :: typical,european,good,
+nouns :: employees,attitude,city,hotel,edge,reviewers,but i, adjectives :: most,thankful,
+nouns :: efficient,everything, adjectives :: professional,helpful,
+nouns ::  adjectives :: 

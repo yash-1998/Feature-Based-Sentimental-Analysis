@@ -1,0 +1,6 @@
+nouns :: hotel,
+nouns :: i was,city,work,nights,rate,organization,and i, adjectives :: mexico,corporate,
+nouns :: the hotel,convenient,location,transportation,hotel is,hotel, adjectives :: public,
+nouns :: my room,time,anything,room,clean and, adjectives :: clean,little,adequate,special,
+nouns :: price,complaints,the price, adjectives :: 
+nouns ::  adjectives :: 

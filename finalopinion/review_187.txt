@@ -1,0 +1,6 @@
+nouns :: place,location,this place, adjectives :: awesome,
+nouns :: time,a great,great time, adjectives :: great,
+nouns :: the location,ferry,trip,city,walks,location,the city, adjectives :: unbeatable,short,fantastic,
+nouns :: the room,needs,breakfast,inclusion,room,the breakfast,was a, adjectives :: great,
+nouns :: time,king,spa,suite, adjectives :: next,
+nouns ::  adjectives :: 

@@ -1,0 +1,13 @@
+nouns :: stay,
+nouns :: fisherman,wharf,location,none,restaurants,area,tourist,trap,residents,things,is a,stay,to stay,of the,the best, adjectives :: bad,san,francisco,best,immediate,tacky,fran,
+nouns :: holiday,inn,if you,stay, adjectives :: dire,
+nouns :: room,beach,block,minute,walk,reception,waterfront,arrival,a room,in the,the beach, adjectives :: 
+nouns :: the room,someone,clothes,room,room was, adjectives :: 
+nouns :: attempt,room,shabby,carpark,bathroom,the room,dark,clean, adjectives :: second,dark,gloomy,little,large,clean,
+nouns :: pool,road,hotel,perk,swimming,to the,the hotel, adjectives :: small,next,main,
+nouns :: when we,minute,wait,reception,staff, adjectives :: twenty,underpaid,
+nouns :: place,holiday,inn,denny,crime,chain,one-off,places,city,mama,washington,square,brunch,tomasso,beach,dinner,food,eating,in the,eat,to eat,there are,the city, adjectives :: main,eating,real,many,excellent,north,
+nouns :: there was,nothing,load,people,meat,mouths,morning,walking, adjectives :: depressing,overweight,processed,
+nouns :: places,none,area,guess,walk,there are,in the, adjectives :: better,immediate,
+nouns :: location,holiday,inn,boats,terms,convenient, adjectives :: convenient,
+nouns ::  adjectives :: 

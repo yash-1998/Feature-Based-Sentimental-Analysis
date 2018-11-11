@@ -1,0 +1,5 @@
+nouns :: room,staff,front,desk,service,front desk, adjectives :: lovely,attentive,
+nouns :: stay,mid-july,pool,chairs, adjectives :: nite,hot,enough,
+nouns :: photo,pool,photographer,back,lounge,chairs,arm,saturday,afternoon,city,place,yes,the pool,the city,place to,sit,to sit, adjectives :: hot,
+nouns :: room,beds,lots,towels,amenities,comfy,the room, adjectives :: comfy,great,
+nouns ::  adjectives :: 

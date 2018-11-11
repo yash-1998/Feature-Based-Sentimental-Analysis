@@ -1,0 +1,40 @@
+nouns :: cons,service,pros, adjectives :: 
+nouns :: the service,staff,service,service was,okay,the staff, adjectives :: only,better,
+nouns :: staff,husband,challenges,communication,majority,the staff,my husband,husband and,and i, adjectives :: spanish,english,
+nouns :: the room,service,hour,room service,room,service was, adjectives :: slow,
+nouns :: husband,food,restaurant,my husband,husband and,the food, adjectives :: japanese-,
+nouns :: variety,sushi, adjectives :: 
+nouns :: the food,front,food, adjectives :: 
+nouns :: part,shrimp,fish, adjectives :: first,shrimp,
+nouns :: part,meal,breast,beef,rice,part of,of the,chicken, adjectives :: second,fried,
+nouns :: 
+nouns :: restaurant,mexican-, adjectives :: second,
+nouns :: chicken,tacos,appetizer,soup,was good, adjectives :: good,
+nouns :: we went,restaurant,twice,
+nouns :: rice,steak,fish, adjectives :: fajitas,good,
+nouns :: dessert,was good, adjectives :: good,
+nouns :: place,resort,corona,beer,the resort, adjectives :: only,
+nouns :: husband,steak,waiter,cuts,my husband,look, adjectives :: steak/american-,different,
+nouns :: meat,challenge,chicken,strips,eat,was a,and it,it was, adjectives :: red,horrible,
+nouns :: if you,eat,steak,restaurant, adjectives :: eat,
+nouns :: resort,beer,place,the resort, adjectives :: 
+nouns :: restaurant,french-, adjectives :: 
+nouns :: nothing,spectacular,dessert, adjectives :: 
+nouns :: fish,french,thalasa-,it was,okay, adjectives :: 
+nouns :: my husband,lobster,scampi,husband, adjectives :: 
+nouns :: if you,stay,side,breakfast/lunch,royal, adjectives :: royal,everyday,
+nouns :: buffet,lunch,the buffet,
+nouns :: day,lunch,buffet,food,quantity,there was,the food, adjectives :: other,thalasabuffet-,large,flavorful,
+nouns :: service,the service,service and,and it, adjectives :: crowded,
+nouns :: restaurant-,was good,we went, adjectives :: crepe,good,everyday,
+nouns :: order,menu, adjectives :: 
+nouns :: point,item,menu, adjectives :: english,
+nouns :: challenges,communication,bars/disco-, adjectives :: many,english,
+nouns :: shows,days,show-, adjectives :: repetitive,few,
+nouns :: kids,lots,booty,shaking, adjectives :: 
+nouns :: husband,hole,golf,amenties,my husband, adjectives :: 
+nouns :: stay,my stay, adjectives :: 
+nouns :: resort,b/c,language,barrier,fact,eat,meat,seafood,week,dont,we will,and i, adjectives :: overall,red,sick,
+nouns :: travellers,resorts,is one,of the, adjectives :: other,better,
+nouns :: you are,value,price,resort,the price, adjectives :: good,
+nouns ::  adjectives :: 

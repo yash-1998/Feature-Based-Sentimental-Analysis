@@ -1,0 +1,11 @@
+nouns ::  adjectives :: 
+nouns :: the hotel,business,hotel,convention,center,door,lot,families, adjectives :: big,next,
+nouns :: bellman,desk,housekeeping,staff,front, adjectives :: professionnal,front,
+nouns :: lobby,atrium,wooden,materials, adjectives :: lighty,nice,natural,
+nouns :: room,view,boston,bathroom,sleeping,beds,downtown,westin, adjectives :: comfortable,great,downtown,huge,fabulous,heavenly,specific,
+nouns :: coffee,maker,starbucks,room,in room, adjectives :: 
+nouns :: fitness,center,indoor,pool,town,day,and a, adjectives :: nice,appreciated,whole,
+nouns :: breakfast,buffet,restaurant,sauciety, adjectives :: delicious,
+nouns :: westin,south,boston, adjectives :: 
+nouns :: i would,anybody,
+nouns :: 

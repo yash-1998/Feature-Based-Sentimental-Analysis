@@ -1,0 +1,7 @@
+nouns :: but not,
+nouns :: someone,carpets,shabby,scent, adjectives :: shabby,
+nouns :: sheet,beds,room,someone,elses,change,bits,bedspread,sheets,the room,everyday, adjectives :: top,everyday,
+nouns :: the staff,breakfast,staff,the breakfast,fine,was fine, adjectives :: nice,fine,
+nouns :: room,day,if you,a room,but not, adjectives :: 
+nouns :: the hotel,spacing,bathroom,feature,hotel,the bathroom,bathroom was,was nice,was the, adjectives :: large,nice,best,
+nouns ::  adjectives :: 

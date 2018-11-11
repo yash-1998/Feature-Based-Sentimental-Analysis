@@ -1,0 +1,24 @@
+nouns :: 
+nouns :: people,problems,anything,dont, adjectives :: 
+nouns :: we went,steak,house,cava,and it, adjectives :: great,
+nouns :: portion,meals,presentation, adjectives :: awesome,large,
+nouns :: restaurant,flies/bugs,bites,legs, adjectives :: outside,itchy,
+nouns :: my husband,care,food,others,husband and,husband,for the, adjectives :: much,italian,many,
+nouns :: restaurant,fact,stay,was the,favorite,our stay, adjectives :: mexican,
+nouns :: the buffet,omlettes,mornings,buffet, adjectives :: 
+nouns :: there was,variety,foods,buffet,flavor,package,worth,bucks,the buffet,recommend,vip, adjectives :: large,good,vip,few,extra,
+nouns :: massasge,brand,drinks,lots,extras,premium, adjectives :: relaxing,premium,other,little,
+nouns :: our room,service,maids,room service,room,but it, adjectives :: great,
+nouns :: complaints,room,our room,room at,at all, adjectives :: 
+nouns :: it was,bathroom,living,room,everything, adjectives :: large,sunk-in,
+nouns :: half,beach,trouble,hut,chairs,dont,guests,place,stay,on the,the beach,sit,to sit,a place, adjectives :: stay,sun-tanning,other,
+nouns :: the lobby,bar,lobby,relaxing, adjectives :: beautiful,
+nouns :: we had,tour,turinter,sanoa,island,morning,bus,others,resort,accidentaly,air,for the, adjectives :: suppose,
+nouns :: it was,problem,issue, adjectives :: 
+nouns :: money, adjectives :: more,willing,re-book,full,
+nouns :: days,others,tour,american/person, adjectives :: last,
+nouns :: entertainment,boat,ride,fish,tour,on the,at all, adjectives :: whole,
+nouns :: husband,resort,my husband,husband and,and i,the resort, adjectives :: overall,
+nouns :: it was,staff,the staff,there was, adjectives :: gorgeous,
+nouns :: alot,beach,everyday,resort,part,huts,chairs,blast,walking,part of,the beach,clean and, adjectives :: best,clean,
+nouns ::  adjectives :: 

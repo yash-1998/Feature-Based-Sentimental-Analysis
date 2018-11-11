@@ -1,0 +1,4 @@
+nouns :: family,san, adjectives :: pleasant,
+nouns :: room,fridge,micro,roomy,bathroom,distance,wharf,blocks,transportation,staff,parking,rates,pros,walking distance,fisherman, adjectives :: clean,public,friendly,free,reasonable,
+nouns :: street,room,family,closet,continental,breakfast,cons,noisy, adjectives :: noisy,small,limited,
+nouns ::  adjectives :: 

@@ -1,0 +1,5 @@
+nouns :: bathrooms,cleanliness,lack,ventilation,bit,noise,hallways,streets,location,price,yes,the location,location is,the price, adjectives :: less,due,more,uncarpeted,outside,unparalleled,unbeatable,
+nouns :: amenities,room,service,laundry,staff,water,room service,drink, adjectives :: helpful,bottled,
+nouns :: money,suites,nicer,bathrooms,buildings,hotel, adjectives :: more,huge,main,
+nouns :: trip,back,
+nouns :: 

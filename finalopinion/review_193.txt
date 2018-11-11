@@ -1,0 +1,5 @@
+nouns :: great hotel,bank,view,time,hotel,the time, adjectives :: great,good,
+nouns :: august,season,street,floors,bay, adjectives :: fog,
+nouns :: if you,expectation,view,cause,floor,you are, adjectives :: great,38-48,ware,
+nouns :: reasons,world,of the,the best,in the,the world, adjectives :: best,
+nouns ::  adjectives :: 

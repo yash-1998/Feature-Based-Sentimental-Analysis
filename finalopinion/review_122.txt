@@ -1,0 +1,8 @@
+nouns :: nights,mid,august,reward,points,choice, adjectives :: happy,
+nouns :: residence,inn,embassy,bed,suite,suites,we had, adjectives :: unusual,great,lcd,
+nouns :: the hotel,location,union,centre,seattle,walk,drive,hotel is,hotel, adjectives :: nice,lake,long,short,
+nouns :: the hotel,corner,road,noise,hotel is,hotel, adjectives :: busy,obvious,
+nouns :: area,number,people,grub,breakfast,was very, adjectives :: busy,small,free,
+nouns :: there was,reception,mon-thurs, adjectives :: usual,
+nouns :: suites,stay,shortcomings,matter,and we, adjectives :: comfortable,homey,small,
+nouns ::  adjectives :: 

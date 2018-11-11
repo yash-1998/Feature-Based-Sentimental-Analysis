@@ -1,0 +1,11 @@
+nouns :: book,kimpton,hotels, adjectives :: 
+nouns :: kimpton,hotels,years,boutique,feel,welcoming, adjectives :: 
+nouns :: wine,hours,coffee,lobby,morning,in the,the lobby, adjectives :: 
+nouns :: eat,restaurants,chain,effort,destination,restaurant,in the, adjectives :: attached,
+nouns :: the hotel,vintage,park,hotel, adjectives :: 
+nouns :: the location,front,desk,staff,location is,location,is good,are very,helpful, adjectives :: good,helpful,
+nouns :: the room,ability,pillows,room was,room, adjectives :: comfortable,different,
+nouns :: bathrobe,room,women,business,baggage,light,in the,the room,wonderful, adjectives :: wonderful,
+nouns :: job,room,amenities,the room, adjectives :: good,clean,
+nouns :: tulio,restaurant,dinner, adjectives :: good,
+nouns ::  adjectives :: 

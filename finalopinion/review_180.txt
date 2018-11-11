@@ -1,0 +1,11 @@
+nouns :: very good,hotel,location,hotel in,a great,great location, adjectives :: good,great,
+nouns :: reviewers,quality,hotel,location,the hotel,hotel and,great location, adjectives :: other,great,
+nouns :: hotel,tokyo,street,shimbashi,train,station,connection,addition,couple,subway,lines,yamanote,line,sights,circle,rail,pass,in addition, adjectives :: dai-ichi,underground,great,various,central,
+nouns :: airport,narita,express,station,yamanote,line,travel,stops,if you,you are,tokyo,shimbashi, adjectives :: narita,
+nouns :: in addition,transportation,restaurants,coffee,shops,streets,supermarket,shimbashi,station,addition,there are,in the, adjectives :: great,numerous,full,
+nouns :: hotel,minute,walk,fish,market,action,subway,begin,operation,morning,the hotel,hotel is, adjectives :: handy,
+nouns :: the hotel,business,hotel,america,rooms, adjectives :: nice,equivalent,4-star,north,spacious,
+nouns :: the staff,staff,member,time,helpful, adjectives :: helpful,least,available,english,
+nouns :: price,hotel,expedia,price/quality,combination,very good,this hotel,that we, adjectives :: good,cad,north,american,
+nouns :: word,caution,sleepers,hotel,train,tracks,times,noise,room,towards,the hotel,hotel is,to the, adjectives :: only,towards,light,next,
+nouns ::  adjectives :: 

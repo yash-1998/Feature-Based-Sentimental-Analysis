@@ -1,0 +1,15 @@
+nouns :: money,
+nouns :: weekend,time,home,vacation,to be, adjectives :: past,first,happy,
+nouns :: the beach,vendors,hotel,employees,beach,the hotel, adjectives :: english,
+nouns :: problem,boyfriend, adjectives :: multi-lingual,real,
+nouns :: when we,iron,broken, adjectives :: 
+nouns :: pipes,outside,bloque,sewage,days,of the, adjectives :: whole,raw,
+nouns :: count,times,water,night,middle,shower,and the,of my, adjectives :: many,hot,
+nouns :: average,
+nouns :: rest,meat,but the,it was, adjectives :: little,suspicious,
+nouns :: the service,service was,service, adjectives :: awful,
+nouns :: restaurants,holes,wall,service, adjectives :: upscale,such,poor,
+nouns :: wait-staff,was very,so i,because i, adjectives :: most,pleasant,
+nouns :: 
+nouns :: beach,grounds,someplace,pools,look, adjectives :: beautiful,
+nouns ::  adjectives :: 

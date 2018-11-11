@@ -1,0 +1,5 @@
+nouns :: year,daughter,value, adjectives :: good,old,
+nouns :: staff,excellent,location,money,price,rooms,kitchens,meal,expenses,helpful,the price,clean,so you, adjectives :: helpful,better,clean,large,complete,
+nouns :: the staff,book,tours,hollywood,highland,shopping,complex,stones,staff, adjectives :: 
+nouns :: downside,bit,views, adjectives :: only,noisey,great,
+nouns ::  adjectives :: 

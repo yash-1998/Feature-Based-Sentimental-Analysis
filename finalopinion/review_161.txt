@@ -1,0 +1,32 @@
+nouns :: choice,barcelona,in barcelona, adjectives :: top,
+nouns :: nights,hotel,las,ramblas,night,room,euro,truly,class,money,travel,agent,rate,inclusive,breakfast,weekend,dates,the hotel,to the,standard,room at,at the,the cf,the 1898,but i,change,work, adjectives :: standard,expensive,superior,different,extra,local,november,due,
+nouns :: rate,chance,casa,fuster,service,accommodations,notch,but i,stay,to stay,the service,service and,and the, adjectives :: great,cheaper,higher,top,
+nouns :: impression,exterior,of the,the cf,building, adjectives :: second,stunning,
+nouns :: groups,lobby,hotel,bellhops,the lobby, adjectives :: real,
+nouns :: i would,size,lobby,occupancy,stay,the cf,and the,the 1898,the lobby,of the,my stay, adjectives :: similar,high,
+nouns :: thing,pasaig,hotel,course,i was,towards,the hotel, adjectives :: first,large,grey,tour-bus,
+nouns :: lobby,way,room,marble,bathroom,reminiscent,hotel,russie,rome,so i,at the,the cf,room at,the 1898,the room,had a,of the,the bathroom,the hotel, adjectives :: standard,smaller,superior,large,luxurious,
+nouns :: you could,people,bathroom, adjectives :: 
+nouns :: problem,shower,with the, adjectives :: minor,
+nouns :: room,attendants,service,towels,ones, adjectives :: turn-down,wet,fresh,
+nouns :: start,deluxe,experience,night, adjectives :: real,such,
+nouns :: event,time,gentleman,front,desk,area,the time,time and,the front,front desk, adjectives :: private,upstairs,library-quite,
+nouns :: glass,wine,house, adjectives :: 
+nouns :: 
+nouns :: nice,
+nouns :: side,hotel,later,pay,to pay, adjectives :: pricey,more,fine,
+nouns :: budget,constraint,stay,the 1898,was not,i would,hands, adjectives :: 
+nouns :: 
+nouns :: but i,the cf,
+nouns :: experience,
+nouns :: pound,room,system,favor,keycard,key, adjectives :: key,
+nouns :: 
+nouns :: everything,the cf, adjectives :: 
+nouns :: b/c,the 1898, adjectives :: better,
+nouns :: 
+nouns :: i would,expectations,way,ways, adjectives :: certain,
+nouns :: the 1898,value,amenities,services,it is, adjectives :: better,many,similar,
+nouns :: the cf,
+nouns :: the cf,barcelona,the best,in barcelona, adjectives :: best,
+nouns :: in the,meantime,casa,fuster,place,barcelona,place to,in barcelona, adjectives :: best,
+nouns ::  adjectives :: 

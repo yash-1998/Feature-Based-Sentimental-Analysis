@@ -1,0 +1,9 @@
+nouns :: hotel,this hotel, adjectives :: 
+nouns :: the room,back,hotel,light,outside,room was,room,the hotel,hotel and, adjectives :: natural,
+nouns :: beds,it was,sleep, adjectives :: sunken,impossible,
+nouns :: beds,hotel,rating,that we, adjectives :: worst,
+nouns :: reception,staff,concierge,presence,helpful, adjectives :: sporadic,helpful,
+nouns :: bill,incorrect,charges,bills, adjectives :: final,
+nouns :: the hotel,hotel is,hotel, adjectives :: 
+nouns :: we will,location,it is,a good,
+nouns :: 

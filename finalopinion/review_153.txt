@@ -1,0 +1,11 @@
+nouns :: price,stay,very good, adjectives :: nice,good,
+nouns :: decor,room,contrast,furniture,mattress,sleep,night,my room,with the, adjectives :: old,other,new,comfortable,bad,
+nouns :: the hotel,renovations,look,hotel, adjectives :: new,modern,
+nouns :: room,sofas,table,but i,had a,one, adjectives :: bigger,spacious,
+nouns :: home,i was,
+nouns :: the bathroom,everyone,hotel,bathroom,was very,clean,the hotel, adjectives :: clean,general,friendly,
+nouns :: 
+nouns :: the hotel,everything,walk,distance,bart,airport,hotel,is very,light,to the,convenient, adjectives :: good,light,convenient,
+nouns :: hotel,heart,francisco,that you,hotel in,the heart,san, adjectives :: decent,affordable,san,
+nouns :: pictures,complains,but i, adjectives :: 
+nouns ::  adjectives :: 

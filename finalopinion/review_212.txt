@@ -1,0 +1,15 @@
+nouns :: london, adjectives :: 
+nouns :: i was,
+nouns :: dirty,garbage,bed,bedroom, adjectives :: next,
+nouns :: luggage,
+nouns :: closet,
+nouns :: room,
+nouns :: walls,nothing,art,on the, adjectives :: 
+nouns :: to be,bathroom,the bathroom, adjectives :: fair,
+nouns :: planning,towel,shower,you are, adjectives :: better,
+nouns :: toilet,reach,walk,shower,towels, adjectives :: 
+nouns :: the front,desk,staff,front, adjectives :: friendly,
+nouns :: concierge,bellman, adjectives :: helpful,courteous,
+nouns :: location,london,the location, adjectives :: 
+nouns :: memories,rhiga,fond,london,because i,and i, adjectives :: bad,fond,
+nouns ::  adjectives :: 

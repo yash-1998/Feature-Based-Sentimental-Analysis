@@ -1,0 +1,8 @@
+nouns :: night,stay,ritz,carlton,batt,location, adjectives :: perfect,
+nouns :: hotel,deal,airways,location,this hotel, adjectives :: special,british,good,
+nouns :: ferries,hotel,rooms,view,statue,liberty,view of, adjectives :: right,next,many,magnificant,
+nouns :: it is,city,skyscrapers,hotel,rooms,view,the city, adjectives :: next,other,incredible,
+nouns :: wtc,site,street,seaport,stop,access,rest,area,avenue,times,madness,tranquility,ritz,carlton,to the,wall,the area,is very,and it,but it,it was,of the, adjectives :: wall,south,underground,safe,great,square,
+nouns :: chance,york,restaurants,bars,locals,tourists,experience, adjectives :: real,new,most,full,
+nouns :: hotel,bar,floor,views,statue,liberty,service,very good, adjectives :: good,cocktail,spectacular,
+nouns ::  adjectives :: 

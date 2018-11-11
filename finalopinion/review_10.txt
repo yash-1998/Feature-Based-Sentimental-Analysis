@@ -1,0 +1,9 @@
+nouns :: hotel,action,barcelona,in barcelona, adjectives :: great,modern,
+nouns :: great hotel,business,conventions,part,reason,trip,life,city,hotel,the city, adjectives :: great,
+nouns :: nutshell,hotel,amenities,staff,restaurant,rooms,the hotel,helpful,is good,and the,the rooms,rooms are, adjectives :: fine,friendly,helpful,good,comfortable,
+nouns :: floor,bit,hollywood,theme,songs,volumes,spa/restaurant/pool,is very, adjectives :: 13th,nice,tired,
+nouns :: view,ocean,city,rooms,view of,the city, adjectives :: 
+nouns :: complaint,location,only complaint,i have,the location, adjectives :: only,
+nouns :: mar,area,hotel,barcelona,interventions,renewal,project,the hotel,hotel is,is one, adjectives :: diagonal,urban,
+nouns :: shopping,mall,malls,world,the world, adjectives :: indistinuishable,
+nouns ::  adjectives :: 

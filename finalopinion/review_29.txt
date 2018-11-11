@@ -1,0 +1,7 @@
+nouns :: berlin,value,premium,hotels, adjectives :: best,
+nouns :: hotel,something,great hotel, adjectives :: great,
+nouns :: tourism,min,walk,brandenburg,gate,terms, adjectives :: 
+nouns :: fitness,area,
+nouns :: very good,feng,shui,layout,but not, adjectives :: good,contemporary,elegant,
+nouns :: money,value, adjectives :: great,
+nouns ::  adjectives :: 

@@ -1,0 +1,9 @@
+nouns :: views,stay, adjectives :: good,great,
+nouns :: this hotel,king,size,balcony,room,floor,views,gate,way,bay,bridge,hotel,nice,to be, adjectives :: top,27th,beat,nice,able,golden,
+nouns :: hotel is,blocks,embracadero,miles,wharf,hotel,fisherman, adjectives :: 
+nouns :: block,experience, adjectives :: pure,chinatown,
+nouns :: room was,room,concierge,lounge,access,floor,in room,and the, adjectives :: 
+nouns :: bed,balcony,chairs,table,bathroom,is a,but the,was very,and the,nice, adjectives :: little,small,comfortable,nice,
+nouns :: hiccup,but it, adjectives :: minor,
+nouns :: front,desk,bellman,concierge,front desk,desk and, adjectives :: front,friendly,
+nouns ::  adjectives :: 

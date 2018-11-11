@@ -1,0 +1,4 @@
+nouns :: hotel,
+nouns :: room,nacciones,was very, adjectives :: interior,small,quiet,
+nouns :: the service,staff,service,excellent,was excellent, adjectives :: delightful,excellent,
+nouns ::  adjectives :: 

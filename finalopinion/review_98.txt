@@ -1,0 +1,11 @@
+nouns :: hotel,vitale,
+nouns :: hotels,francisco,room,san,it is,there was, adjectives :: great,san,hard,more,
+nouns :: hotel,vitale,ferry,building,friend,the hotel, adjectives :: right,
+nouns :: views,water,bay,bridge,hotel,the water, adjectives :: 
+nouns :: doubt,views,francisco,mandarin,park,hyatt,san,yes, adjectives :: best,san,
+nouns :: in addition,location,bed,doubt,addition,to the,great location,views,bed was, adjectives :: great,comfortable,
+nouns :: room,amenities,shades,deck,dvd,screen,tvs,joie,the room,is one,of the, adjectives :: cool,electric,bose,i-pod,flat,
+nouns :: price,properties, adjectives :: nice,
+nouns :: hotel,days,chance,staff,restaurant,the hotel,hotel is,get,to get,the staff, adjectives :: yummy,small,
+nouns :: hotel,review,thought,time,others,value,vitale,the hotel,hotel and,so i,i would,the time,great hotel, adjectives :: first,nasty,good,great,
+nouns ::  adjectives :: 

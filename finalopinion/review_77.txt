@@ -1,0 +1,26 @@
+nouns :: 
+nouns :: resort,jan,the resort, adjectives :: 
+nouns :: 
+nouns :: we went,resort,honeymoon,reviews, adjectives :: sceptical,
+nouns :: people,problems,anything,dont, adjectives :: 
+nouns :: we went,steak,house,cava,and it, adjectives :: great,
+nouns :: portion,meals,presentation, adjectives :: awesome,large,
+nouns :: restaurant,flies/bugs,bites,legs, adjectives :: outside,itchy,
+nouns :: restaurants,
+nouns :: my husband,care,food,others,husband and,husband,for the, adjectives :: much,italian,many,
+nouns :: restaurant,fact,stay,was the,favorite,our stay, adjectives :: mexican,
+nouns :: the buffet,omlettes,mornings,buffet, adjectives :: 
+nouns :: there was,variety,foods,buffet,flavor,package,worth,bucks,the buffet,recommend,vip, adjectives :: large,good,vip,few,extra,
+nouns :: massasge,brand,drinks,lots,extras,premium, adjectives :: relaxing,premium,other,little,
+nouns :: bartenders,rum,vodka,vip,alcohol,to the, adjectives :: vip,better,expensive,
+nouns :: our room,service,maids,room service,room,but it, adjectives :: great,
+nouns :: we had,alot,gifts,home,shampoos,soaps,books,paper,pens,clothes, adjectives :: 
+nouns :: complaints,room,our room,room at,at all, adjectives :: 
+nouns :: it was,bathroom,living,room,everything, adjectives :: large,sunk-in,
+nouns :: half,beach,trouble,hut,chairs,dont,guests,place,stay,on the,the beach,sit,to sit,a place, adjectives :: stay,sun-tanning,other,
+nouns :: bit,chairs,sit,to sit, adjectives :: 
+nouns :: the lobby,bar,lobby,relaxing, adjectives :: beautiful,
+nouns :: husband,resort,my husband,husband and,and i,the resort, adjectives :: overall,
+nouns :: it was,staff,the staff,there was, adjectives :: gorgeous,
+nouns :: alot,beach,everyday,resort,part,huts,chairs,blast,walking,part of,the beach,clean and, adjectives :: best,clean,
+nouns ::  adjectives :: 

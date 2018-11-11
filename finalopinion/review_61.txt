@@ -1,0 +1,5 @@
+nouns :: staff,helpful, adjectives :: helpful,friendly,
+nouns :: the hotel,style,rooms,bed,bathrooms,hotel,was very,but the,of the,the rooms,bed was, adjectives :: clean,old,comfortable,nice,crean,
+nouns :: front,rooms,cos,glass,windows,street,doors,people,staff,if you,the front, adjectives :: thin,big,main,noisy,other,
+nouns :: 
+nouns :: 

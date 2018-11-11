@@ -1,0 +1,5 @@
+nouns :: 
+nouns :: the beach,grounds,disappointment,drinks,food,side,quality,beach,the grounds,the food,food was, adjectives :: beautiful,nice,other,huge,worst,weak,less,
+nouns :: the rooms,plumbing,dirty,rooms, adjectives :: dirty,terrible,
+nouns :: future,service,food/drinks,pay,service and, adjectives :: good,cheap,
+nouns ::  adjectives :: 

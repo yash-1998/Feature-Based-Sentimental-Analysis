@@ -1,0 +1,15 @@
+nouns :: hotel,occasions,standards,slipping,this hotel, adjectives :: seperate,
+nouns :: deluxe,room,balcony,with the, adjectives :: dec,24-26,pleased,sea-facing,
+nouns :: rooms,furniture,balcony,room,the rooms, adjectives :: small,new,fantastic,
+nouns :: meridien,chain,standards,hotel, adjectives :: good,
+nouns :: corner,room,greenery,area, adjectives :: large,
+nouns :: tea,club,lounge,restaurant,roof,cantina,breakfast,at the,was good,on the, adjectives :: good,italian,
+nouns :: gym,return, adjectives :: wonderful,
+nouns :: hotel,changi,meridien,disaster,absolute, adjectives :: 
+nouns :: breakfast,coffeehouse,lobby,seats,place,kids,families,the lobby,the place, adjectives :: second,horrid,full,
+nouns :: place,pay,to pay,in the,
+nouns :: cocktails,lounge,downstairs,joke, adjectives :: third,
+nouns :: room,the room,room was,room and,and i,see, adjectives :: standard,wear,tear,
+nouns :: when i,manager,end,stay,shoulders,of my,my stay, adjectives :: 
+nouns :: nonsense,stay, adjectives :: 
+nouns ::  adjectives :: 

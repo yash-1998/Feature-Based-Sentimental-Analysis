@@ -1,0 +1,9 @@
+nouns :: langham,hotel, adjectives :: nice,
+nouns :: nights,weekend,hotel,place,this hotel, adjectives :: 
+nouns :: staff,way,the staff, adjectives :: friendly,happy,
+nouns :: the room,powerfull,shower,room,side,room was,to be,for the, adjectives :: modern,clean,fantastic,small,larger,
+nouns :: mall,door,selection,shops,cafes,restaurants,hotel,walkway,shopping,and you,the hotel, adjectives :: next,good,enclosed,
+nouns :: if you,subway,station,hotel,taxi,tip,way,spa,pool,look,the hotel,cost, adjectives :: incl,great,
+nouns :: problem,stay,room,afternoon,our stay,our room,the room, adjectives :: only,late,
+nouns :: room,button,return,checkout,form,problem,time,place,visit,hong,kong,morning,the room,room at,to be,so i,great time,stay, adjectives :: great,langham,next,
+nouns ::  adjectives :: 

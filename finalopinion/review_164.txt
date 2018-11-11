@@ -1,0 +1,17 @@
+nouns :: 
+nouns :: king,room,double,price, adjectives :: available,same,
+nouns :: meant,beds,website,room,elevators,bed,double,my room,room was, adjectives :: double,
+nouns :: size,bed,twin,is one, adjectives :: double,larger,
+nouns :: wall,room,hostel,college,days,bed was,bed,of the, adjectives :: smallest,other,
+nouns :: room,the room, adjectives :: clean,nice,
+nouns :: 
+nouns :: hotels,king,room,night,and they,deluxe, adjectives :: deluxe,available,same,
+nouns :: room,i was,was not, adjectives :: happy,small,
+nouns :: front,desk,clerk,room,discrestion,the front,front desk, adjectives :: 
+nouns :: king,guests,double, adjectives :: double,available,other,
+nouns :: policy,rates,room,manager,feel, adjectives :: small,
+nouns :: workout,facility,snack,pantry,pro, adjectives :: great,
+nouns :: room,front,desk,you are,the front,front desk, adjectives :: sure,prior,
+nouns :: this hotel,location,areas,phoenix,hotel is,hotel,a great,great location, adjectives :: great,most,
+nouns :: distance,walking,walking distance, adjectives :: 
+nouns ::  adjectives :: 

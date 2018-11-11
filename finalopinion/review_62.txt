@@ -1,0 +1,11 @@
+nouns :: place,problems,this place, adjectives :: 
+nouns :: min,room,check in,check,and we,our room, adjectives :: easy,
+nouns :: the room,maid,day,plenty,water,sheets,couple,times,stay,room was,fine,room,was fine,our stay, adjectives :: fine,
+nouns :: problem,door,room,with the,and the,when we,the room, adjectives :: safe,back,
+nouns :: front,desk,someone,min,the front,front desk,desk and,and they, adjectives :: with-in,
+nouns :: the food,buffet,kind,tired,end,week,food,at the,the buffet,fine,was fine,and they,change,of the, adjectives :: fine,
+nouns :: the pool,problem,place,pool,was nice,a place,place to,sit,to sit, adjectives :: nice,
+nouns :: the beach,spot,time,seat,back,beach,nice,you could,that you,but it, adjectives :: nice,
+nouns :: alcohol,plenty,drink,and they, adjectives :: good,
+nouns :: place,fun,place to, adjectives :: great,
+nouns ::  adjectives :: 

@@ -1,0 +1,11 @@
+nouns :: palazzo, adjectives :: palatial,
+nouns :: nights,palazzo,magnani,son,florence, adjectives :: delightful,luxurious,
+nouns :: car,attractions,florence,bridge,distance,walking,walking distance, adjectives :: easy,
+nouns :: palazzo,period,artwork,suites, adjectives :: huge,comfortable,
+nouns :: the staff,restaurant,train,reservations,staff,helpful, adjectives :: friendly,english-speaking,helpful,
+nouns :: touch,herald,morning, adjectives :: nice,international,doorknob,
+nouns :: dining,room,breakfast,drinks,evening,upstairs,breakfast is,drinks are, adjectives :: grand,sumptuous,available,
+nouns :: resistance,terrace,roof,views,directions,is the, adjectives :: covered,stunning,
+nouns :: warmer,weather,drinks,evening,hours,drinks are, adjectives :: february,
+nouns :: hotel,anyone,style,comfort,luxury,heart,florence,the heart, adjectives :: magnificent,
+nouns ::  adjectives :: 

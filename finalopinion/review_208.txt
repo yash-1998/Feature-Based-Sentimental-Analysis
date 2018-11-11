@@ -1,0 +1,21 @@
+nouns :: place,problems,this place, adjectives :: 
+nouns :: ride,mins,resort,bus,fine,was fine, adjectives :: fine,
+nouns :: min,room,check in,check,and we,our room, adjectives :: easy,
+nouns :: the room,maid,day,plenty,water,sheets,couple,times,stay,room was,fine,room,was fine,our stay, adjectives :: fine,
+nouns :: problem,door,room,with the,and the,when we,the room, adjectives :: safe,back,
+nouns :: front,desk,someone,min,the front,front desk,desk and,and they, adjectives :: with-in,
+nouns :: the food,buffet,kind,tired,end,week,food,at the,the buffet,fine,was fine,and they,change,of the, adjectives :: fine,
+nouns :: the pool,problem,place,pool,was nice,a place,place to,sit,to sit, adjectives :: nice,
+nouns :: the beach,spot,time,seat,back,beach,nice,you could,that you,but it, adjectives :: nice,
+nouns :: cards,towel,and you, adjectives :: 
+nouns :: couple,travel,papers,book,beach,on the,the beach, adjectives :: careful,
+nouns :: problem,woman,seats,day,husband,towels,eat,to eat, adjectives :: 
+nouns :: water,buffet,dinners,sink,shower,drinks are,fine,drinks,the water,clean,drink,the buffet, adjectives :: fine,clean,
+nouns :: alcohol,plenty,drink,and they, adjectives :: good,
+nouns :: the bar,beach,pool,ice,cream,stand,bar,the beach, adjectives :: right,next,
+nouns :: store,price,money,everything,in the,need,times,get,to get, adjectives :: 
+nouns :: bar,plenty,fun,stuff,volleyball,workers,candy,and it,helpful, adjectives :: nice,helpful,
+nouns :: lot,tip, adjectives :: greatful,
+nouns :: thing,part,trip,ride,airport,driver,and it,part of,of the,was the, adjectives :: last,best,little,
+nouns :: place,fun,place to, adjectives :: great,
+nouns ::  adjectives :: 

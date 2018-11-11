@@ -1,0 +1,7 @@
+nouns :: 
+nouns :: room,appearance,years,spring,break,cleaning,stains,walls,carpets,furniture,dark,hallways,rooms,towels,water,bottle,staff,attitude,front,desk,car,valets,flies,beakfast,invite,food,menus,time,stays,surcharge,atm,buy,hotel,the front,front desk,very good,restaurant, adjectives :: typical,poor,overpriced,good,restaurant,last,
+nouns :: expectation,hotel,favour,lysol,stay, adjectives :: starwood,
+nouns :: photos,guests,elevators,cleaning,staff, adjectives :: 
+nouns :: control,unit,dormitory, adjectives :: overpriced,
+nouns :: spa,was excellent, adjectives :: bliss,excellent,
+nouns ::  adjectives :: 

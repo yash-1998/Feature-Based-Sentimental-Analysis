@@ -1,0 +1,6 @@
+nouns :: restaurants,air,way,eating,none,of the, adjectives :: 
+nouns :: glass,doors,way,mosquitos,rooms,of the,eat,to eat, adjectives :: local,alive,
+nouns :: the grounds,atmosphere,locals,lti,grounds,but the,at the, adjectives :: 
+nouns :: trip,cana,punta, adjectives :: first,last,
+nouns :: worldtravelers,reason,vacations,island,luck,reserve,button,there are,if you, adjectives :: inexpensive,good,
+nouns ::  adjectives :: 

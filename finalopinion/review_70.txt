@@ -1,0 +1,5 @@
+nouns :: stay,
+nouns :: place,hotel,service,at the,langham,start, adjectives :: langham,start,expencive,poor,
+nouns :: type,beds,and they, adjectives :: rock,hard,
+nouns :: faulty,towers,star,hotel, adjectives :: 
+nouns ::  adjectives :: 

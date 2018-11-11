@@ -1,0 +1,7 @@
+nouns :: complaint,hotel, adjectives :: good,minor,
+nouns :: hotel,was nice,needs,but it, adjectives :: nice,updating,fine,
+nouns :: it is,everything,malls,pike,place,market,shopping, adjectives :: close,
+nouns :: hotel,staff, adjectives :: friendly,helpful,
+nouns :: complaint,charge,hours,hotel,guest,only complaint,i have, adjectives :: only,parking-,excessive-,
+nouns :: night,fee,parking,internet,bar,charge,room,but the,and a,for the,the room, adjectives :: more,
+nouns ::  adjectives :: 

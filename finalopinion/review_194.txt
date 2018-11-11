@@ -1,0 +1,11 @@
+nouns :: zaza,rate,hotels,hotel, adjectives :: loved,best,
+nouns :: days,night,parlor,com,couple,deluxe,nice, adjectives :: couple,deluxe,nice,
+nouns :: the room,end,cream,lotion,dont,use,dollars,bottle,room,pay,to pay, adjectives :: high,
+nouns :: stuff,drinks,way,goody,basket,top,fridge,bag,chips,candy,bar,of the, adjectives :: mix,high,
+nouns :: our room,feel,room,had a, adjectives :: classic,
+nouns :: screen,bathroom,floors,counters,shower,candles,room,comfy,bed,plasma,in room,when we, adjectives :: flat,marble,nice,average,
+nouns :: the place,concierge,place,was very,helpful, adjectives :: helpful,
+nouns :: restraunt,people,eyes,dragonfly,was very,and i, adjectives :: expensive,tasty,famous,sure,
+nouns :: town,girl,urge,pic,ate,place,day,valet,parking,check,a place, adjectives :: small,
+nouns :: price,
+nouns :: 

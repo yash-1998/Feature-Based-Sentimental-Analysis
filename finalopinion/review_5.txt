@@ -1,0 +1,6 @@
+nouns :: place,
+nouns :: villa,ixora,place,the place,place to,to be, adjectives :: two-bedroom,comfortable,
+nouns :: the staff,owner,driver,day,trip,lift,town,staff, adjectives :: friendly,german,itinerary,
+nouns :: tripadvisor,villas,sticks,churlish,transport,anything,people,dirt,and you, adjectives :: little,dirt,cheap,
+nouns :: thing,relaxing,holiday,island,pace,stay, adjectives :: legian,fair,own,worse,
+nouns ::  adjectives :: 

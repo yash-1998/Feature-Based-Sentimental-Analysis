@@ -1,0 +1,5 @@
+nouns :: stay,thanks,hotel,staff,experience, adjectives :: swiss,nyc,great,moon,friendly,
+nouns :: fine,rooms, adjectives :: quiet,
+nouns :: downtown,location, adjectives :: excellent,
+nouns :: 
+nouns :: 

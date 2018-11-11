@@ -1,0 +1,9 @@
+nouns :: hotel,occasions,standards,slipping,this hotel, adjectives :: seperate,
+nouns :: hotel,changi,meridien,disaster,absolute, adjectives :: 
+nouns :: premium,club,floor,lounge, adjectives :: 
+nouns :: breakfast,coffeehouse,lobby,seats,place,kids,families,the lobby,the place, adjectives :: second,horrid,full,
+nouns :: cocktails,lounge,downstairs,joke, adjectives :: third,
+nouns :: room,the room,room was,room and,and i,see, adjectives :: standard,wear,tear,
+nouns :: when i,manager,end,stay,shoulders,of my,my stay, adjectives :: 
+nouns :: nonsense,stay, adjectives :: 
+nouns ::  adjectives :: 

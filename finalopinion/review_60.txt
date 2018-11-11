@@ -1,0 +1,8 @@
+nouns :: great location,days,location, adjectives :: great,
+nouns :: the location,union,square,location is,location, adjectives :: great,
+nouns :: person,smiling,floor,view,union,square,check-in,view of, adjectives :: check-in,quick,efficient,high,
+nouns :: the room,room,fine, adjectives :: fine,grand,
+nouns :: occasion,reception,dollars,rate,change, adjectives :: able,canadian,higher,
+nouns :: everything,pay,to pay,
+nouns :: hyatt,hotel,location,a great,great location, adjectives :: summary,grand,good,great,
+nouns ::  adjectives :: 

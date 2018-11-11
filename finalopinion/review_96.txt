@@ -1,0 +1,9 @@
+nouns :: 
+nouns :: the hotel,location,walking,blocks,bourbon,action,night,sleep,hotel is,hotel,ideal,a good, adjectives :: ideal,few,good,
+nouns :: the lobby,staff,lobby,was very, adjectives :: small,friendly,
+nouns :: way,taxi,wait,airport,bell,way to, adjectives :: 
+nouns :: the room,brick,wall,sunlight,room,at all, adjectives :: 
+nouns :: rooms,weekend,upgrade, adjectives :: other,available,
+nouns :: the room,needs,place,room,but it,place to,relax,sleep, adjectives :: small,clean,
+nouns :: i would,hotel,time,price,the price,it was,okay, adjectives :: nicer,next,okay,
+nouns ::  adjectives :: 

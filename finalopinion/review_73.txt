@@ -1,0 +1,13 @@
+nouns :: great location,pool,location,and a,indoor, adjectives :: great,indoor,grand,
+nouns :: hotels,beijing,hyatt, adjectives :: 5-star,
+nouns :: taxi,ride,tiananmen,walk,shopping,street,door,plaza,indoor,mall,beijing, adjectives :: 10-minute,main,pedestrian,next,oriental,largest,
+nouns :: rooms,hotels,rooms are, adjectives :: nice,exceptional,
+nouns :: bathrooms,clean and,
+nouns :: hotel,areas,swimming,pool,world,special,the hotel,is one,of the,the best,the world, adjectives :: special,common,large,indoor,best,
+nouns :: area,paradise,stars,pool, adjectives :: tropical,simulated,
+nouns :: the front,desk,concierge,front desk,front, adjectives :: friendly,efficient,helpful,
+nouns :: members,language,problems,staff,that we, adjectives :: enough,english,
+nouns :: in addition,hotel,business,center,addition,the hotel, adjectives :: large,full-service,
+nouns :: there are,number,restaurants,hotel,the hotel, adjectives :: good,cheap,
+nouns :: stay,hyatt,our stay, adjectives :: overall,grand,
+nouns ::  adjectives :: 

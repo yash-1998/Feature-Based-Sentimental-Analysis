@@ -1,0 +1,10 @@
+nouns :: things,resort,about this, adjectives :: great,
+nouns :: smile,face,everyone,is very,helpful, adjectives :: friendly,helpful,willing,
+nouns :: secrets,mimosa,check-in,and a, adjectives :: smooth,
+nouns :: lunch,restaurant,shrimp,in the, adjectives :: mediteranian,great,
+nouns :: horseback,photographer,riding, adjectives :: 
+nouns :: food,husband,lbs,drinks,the food,food was,excellent,was excellent,my husband,husband and,and i, adjectives :: overall,excellent,great,
+nouns :: bar,tenders,of the,the bar, adjectives :: awsome,
+nouns :: jokes, adjectives :: humble,
+nouns :: front,desk,manager,way,front desk,is very,helpful,way to,need, adjectives :: helpful,willing,
+nouns ::  adjectives :: 

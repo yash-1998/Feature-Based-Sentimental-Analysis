@@ -1,0 +1,8 @@
+nouns :: the best,
+nouns :: i have,hotel,week,time,price,deal,value,twice,time and,the price, adjectives :: great,
+nouns :: the rooms,offer,everything,comfy,stay,rooms are,rooms,that you, adjectives :: pristine,compact,
+nouns :: pool, adjectives :: great,
+nouns :: the staff,questions,someone,van,secure,exterior,lot,staff,are very,a large, adjectives :: talkative,open,large,amazing,
+nouns :: if you,hotel,door,heart,orleans,maison,charles,to be,walk,the heart,you are,pay,to pay, adjectives :: able,new,much,
+nouns :: if you,access,transportation,garden,district,eateries,slice,heaven,travel,money,stay,is a,eat,to eat, adjectives :: easy,local,great,
+nouns ::  adjectives :: 

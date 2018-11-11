@@ -2,6 +2,137 @@
   {
     "annotatorId": 1,
     "ratingOverall": 5,
+    "ratingRoom": 5,
+    "author": "A TripAdvisor Member",
+    "hotelId": "292867",
+    "reviewId": "292867:248",
+    "ratingLocation": -1,
+    "ratingCleanliness": 5,
+    "ratingService": 5,
+    "ratingBusiness": -1,
+    "ratingValue": 5,
+    "segmentLabels": [
+      {
+        "OTHER": "p"
+      },
+      {},
+      {},
+      {},
+      {
+        "OTHER": "p"
+      },
+      {
+        "FOOD": "p"
+      },
+      {
+        "FOOD": "p"
+      },
+      {},
+      {},
+      {
+        "FOOD": "x"
+      },
+      {
+        "FOOD": "p"
+      },
+      {
+        "FOOD": "p"
+      },
+      {
+        "FOOD": "p",
+        "VALUE": "p"
+      },
+      {
+        "OTHER": "ip"
+      },
+      {},
+      {
+        "SERVICE": "p"
+      },
+      {},
+      {
+        "ROOMS": "p"
+      },
+      {
+        "ROOMS": "p"
+      },
+      {
+        "OTHER": "ip"
+      },
+      {},
+      {
+        "OTHER": "in"
+      },
+      {},
+      {},
+      {
+        "BUILDING": "p"
+      },
+      {
+        "NOTRELATED": "in"
+      },
+      {},
+      {
+        "NOTRELATED": "ip"
+      },
+      {
+        "NOTRELATED": "in"
+      },
+      {
+        "NOTRELATED": "in"
+      },
+      {
+        "OTHER": "p"
+      },
+      {
+        "BUILDING": "p",
+        "SERVICE": "p"
+      },
+      {
+        "OTHER": "ip"
+      }
+    ],
+    "date": "Mar 7, 2006",
+    "ratingCheckin": -1,
+    "segments": [
+      "Absolutely beautiful!!",
+      "Stayed at the resort from Jan.",
+      "29-Feb.5, 2006.",
+      "We went to the resort for our honeymoon, and reading some of the reviews, it made us sceptical of where we were going.",
+      "I dont know what people were complaining about, because we had absolutely NO problems with ANYTHING there!",
+      "We went to the steak house (La Cava) and it was great!",
+      "The presentation was awesome and you get large portion meals there.",
+      "Only I would recommend eating INSIDE the restaurant, instead of eating outside...I got bitten by some flies/bugs out there (about 30 bites on my legs, which were VERY itchy).",
+      "We also tried the Mexican and Italian restaurants.",
+      "My husband and I both didnt much care for the Italian food, however many others seemed to enjoy it.",
+      "Our favorite was the Mexican restaurant, in fact we ended up going there twice during our stay!!",
+      "The buffet was quite well...we really enjoyed the omlettes in the mornings!!",
+      "There was a LARGE variety of foods to choose from at the buffet and they all had good flavor.I would HIGHLY recommend getting the VIP package....its worth the few extra bucks!",
+      "With this you recieve a VERY relaxing massasge, premium brand drinks, and lots of other little extras.",
+      "However, you have to mention to the bartenders that you are VIP and tell them that you want 'Brugal' rum (the better rum), and the more expensive vodka...otherwise they might mistake you for NOT being VIP and not receiving the better alcohol.",
+      "Our room service from our maids was great, but it also helps if you tip them.",
+      "We had brought them alot of gifts from home (ex. shampoos, soaps, books, paper, pens, clothes...)",
+      "We have no complaints about our room AT ALL!!!",
+      "It was amazing, LARGE bathroom, and a sunk-in living room....it had everything we needed.",
+      "We spent half of our stay sun-tanning on the beach, and NEVER had trouble finding a hut or chairs to sit on...dont know what other guests were complaing that they couldnt find a place to sit by the beach.",
+      "The other half of the time we tanned by the pool (the one with the swim up bar).",
+      "There we had to wake up a bit earlier to find chairs to sit on.",
+      "The sun seemed hotter by the pool, but then again you dont have the ocean breeze blowing and cooling you down....which was nice, because we both got bad wind/sun burns sitting by the beach one afternoon.",
+      "The main bars that we went to were the swim-up bar during the day and the lobby bar during the evening.",
+      "The lobby bar is quite beautiful and relaxing.", 
+      "We had booked a tour with Turinter (Air Canada affiliated) for the Sanoa Island tour, however that morning the bus that was suppose to pick us up, along with 8 others from our resort, accidentaly missed our resort and left without us all.",
+      "It was no problem at all dealing with them about this issue.",
+      "They were more than willing to either re-book us, or return our money back IN FULL.",
+      "We decided not to re-book seeing it was one of our last days there, and heard from others that went on the tour that it actually wasnt worth the $80 american/person.",
+      "They didnt have entertainment on the boat ride at all and never saw ANY fish on their whole tour.",
+      "Overall, my husband and I would definately recommend the resort though.",
+      "It was absolutely gorgeous and the staff there was amazing.",
+      "We did ALOT of walking along the beach everyday there, and thought that our resort had the best part of the beach BY FAR!! It was clean and had the most huts and chairs!We would definately go back, and to those of you who are going you'll have a blast!!"
+    ]
+  },
+  {
+    "annotatorId": 1,
+    "ratingOverall": 5,
     "ratingRoom": 4,
     "author": "lulutchitchi",
     "hotelId": "601762",
@@ -137,137 +268,6 @@
       "Having a bathrobe in the room is wonderful, especially for women traveling for business and trying to keep baggage light.",
       "Housekeeping did a good job and the room was clean and fully stocked with amenities.",
       "The Il Tulio Restaurant was also good for dinner."
-    ]
-  },
-  {
-    "annotatorId": 1,
-    "ratingOverall": 5,
-    "ratingRoom": 5,
-    "author": "A TripAdvisor Member",
-    "hotelId": "292867",
-    "reviewId": "292867:248",
-    "ratingLocation": -1,
-    "ratingCleanliness": 5,
-    "ratingService": 5,
-    "ratingBusiness": -1,
-    "ratingValue": 5,
-    "segmentLabels": [
-      {
-        "OTHER": "p"
-      },
-      {},
-      {},
-      {},
-      {
-        "OTHER": "p"
-      },
-      {
-        "FOOD": "p"
-      },
-      {
-        "FOOD": "p"
-      },
-      {},
-      {},
-      {
-        "FOOD": "x"
-      },
-      {
-        "FOOD": "p"
-      },
-      {
-        "FOOD": "p"
-      },
-      {
-        "FOOD": "p",
-        "VALUE": "p"
-      },
-      {
-        "OTHER": "ip"
-      },
-      {},
-      {
-        "SERVICE": "p"
-      },
-      {},
-      {
-        "ROOMS": "p"
-      },
-      {
-        "ROOMS": "p"
-      },
-      {
-        "OTHER": "ip"
-      },
-      {},
-      {
-        "OTHER": "in"
-      },
-      {},
-      {},
-      {
-        "BUILDING": "p"
-      },
-      {
-        "NOTRELATED": "in"
-      },
-      {},
-      {
-        "NOTRELATED": "ip"
-      },
-      {
-        "NOTRELATED": "in"
-      },
-      {
-        "NOTRELATED": "in"
-      },
-      {
-        "OTHER": "p"
-      },
-      {
-        "BUILDING": "p",
-        "SERVICE": "p"
-      },
-      {
-        "OTHER": "ip"
-      }
-    ],
-    "date": "Mar 7, 2006",
-    "ratingCheckin": -1,
-    "segments": [
-      "Absolutely beautiful!!",
-      "Stayed at the resort from Jan.",
-      "29-Feb.5, 2006.",
-      "We went to the resort for our honeymoon, and reading some of the reviews, it made us sceptical of where we were going.",
-      "I dont know what people were complaining about, because we had absolutely NO problems with ANYTHING there!",
-      "We went to the steak house (La Cava) and it was great!",
-      "The presentation was awesome and you get large portion meals there.",
-      "Only I would recommend eating INSIDE the restaurant, instead of eating outside...I got bitten by some flies/bugs out there (about 30 bites on my legs, which were VERY itchy).",
-      "We also tried the Mexican and Italian restaurants.",
-      "My husband and I both didnt much care for the Italian food, however many others seemed to enjoy it.",
-      "Our favorite was the Mexican restaurant, in fact we ended up going there twice during our stay!!",
-      "The buffet was quite well...we really enjoyed the omlettes in the mornings!!",
-      "There was a LARGE variety of foods to choose from at the buffet and they all had good flavor.I would HIGHLY recommend getting the VIP package....its worth the few extra bucks!",
-      "With this you recieve a VERY relaxing massasge, premium brand drinks, and lots of other little extras.",
-      "However, you have to mention to the bartenders that you are VIP and tell them that you want 'Brugal' rum (the better rum), and the more expensive vodka...otherwise they might mistake you for NOT being VIP and not receiving the better alcohol.",
-      "Our room service from our maids was great, but it also helps if you tip them.",
-      "We had brought them alot of gifts from home (ex. shampoos, soaps, books, paper, pens, clothes...)",
-      "We have no complaints about our room AT ALL!!!",
-      "It was amazing, LARGE bathroom, and a sunk-in living room....it had everything we needed.",
-      "We spent half of our stay sun-tanning on the beach, and NEVER had trouble finding a hut or chairs to sit on...dont know what other guests were complaing that they couldnt find a place to sit by the beach.",
-      "The other half of the time we tanned by the pool (the one with the swim up bar).",
-      "There we had to wake up a bit earlier to find chairs to sit on.",
-      "The sun seemed hotter by the pool, but then again you dont have the ocean breeze blowing and cooling you down....which was nice, because we both got bad wind/sun burns sitting by the beach one afternoon.",
-      "The main bars that we went to were the swim-up bar during the day and the lobby bar during the evening.",
-      "The lobby bar is quite beautiful and relaxing.",
-      "We had booked a tour with Turinter (Air Canada affiliated) for the Sanoa Island tour, however that morning the bus that was suppose to pick us up, along with 8 others from our resort, accidentaly missed our resort and left without us all.",
-      "It was no problem at all dealing with them about this issue.",
-      "They were more than willing to either re-book us, or return our money back IN FULL.",
-      "We decided not to re-book seeing it was one of our last days there, and heard from others that went on the tour that it actually wasnt worth the $80 american/person.",
-      "They didnt have entertainment on the boat ride at all and never saw ANY fish on their whole tour.",
-      "Overall, my husband and I would definately recommend the resort though.",
-      "It was absolutely gorgeous and the staff there was amazing.",
-      "We did ALOT of walking along the beach everyday there, and thought that our resort had the best part of the beach BY FAR!! It was clean and had the most huts and chairs!We would definately go back, and to those of you who are going you'll have a blast!!"
     ]
   },
   {

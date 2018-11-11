@@ -1,0 +1,7 @@
+nouns :: barcelona,place to,stay,place,to stay, adjectives :: 
+nouns :: hotel,staff,the hotel,hotel is,nice, adjectives :: nice,unattentive,unpolite,
+nouns :: house,staff, adjectives :: front,unhelpful,
+nouns :: was not,
+nouns :: haw,star,hotel,dont, adjectives :: 
+nouns :: recommend,place,this place,at all, adjectives :: 
+nouns ::  adjectives :: 
