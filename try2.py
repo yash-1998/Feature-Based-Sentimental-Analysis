@@ -7,7 +7,6 @@ from nltk.tokenize import word_tokenize
 
 pattern = re.compile("[A-Za-z0-9]+")
 
-
 def unique(list1):
     unique_list = []
     for x in list1:
