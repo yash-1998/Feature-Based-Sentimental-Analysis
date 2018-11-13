@@ -3,11 +3,15 @@ from nltk import word_tokenize
 import nltk
 import glob
 import re
+import sys
+
+sys.stdout = open('mingo.txt','w')
 pattern = re.compile("[A-Za-z0-9]+")
 fileList =glob.glob('/home/yash/Desktop/miniproject/finalreviews/*.txt')
 fileList.sort()
 i=1
 aspects = ["CLEANLINESS","ROOMS","LOCATION","SERVICE","VALUE","OTHER","FOOD"]
+final_list=[]
 cleanlinesslist = []
 roomslist = []
 locationlist = []
@@ -35,26 +39,24 @@ for i in range(0,len(aspects)):
             temp1 = data.split(',')
             temp2 = temp1[0].split('\'')
             word = temp2[1]
-            print(data)
-            print(word)
             switcher.get(i).append(word)
 
-sentencenounlist = []
+opifile = open("/home/yash/Desktop/miniproject/opifile.txt","w")
 for filename in fileList:
-    print(i)
+
     temp1 = filename.split("/home/yash/Desktop/miniproject/finalreviews/review_")
     temp2 = temp1[1].split(".txt")
     index = temp2[0]
+    print(index)
     with open(filename, 'r') as myfile:
         data = myfile.read().replace('\n', '')
+        print(data)
         sentences = data.split('.')
 
         for sentence in sentences:
-            particularsentence = []
             wordslist = word_tokenize(sentence.lower())
             tagged = nltk.pos_tag(wordslist)
             ft=False
-            features=[]
             opinionwords=[]
             for t in tagged:
                 m = re.match(pattern, t[0])
@@ -63,14 +65,22 @@ for filename in fileList:
                         if t[1][0] == 'N':
                             for i in range(0,6):
                                 if t[0] in switcher.get(i):
-                                    features.append(t[0])
-                                    ft=True
+                                    ft = True
 
-            for t in tagged:
-                m = re.match(pattern, t[0])
-                if m:
-                    if len(t[0]) > 2:
-                        if t[1][0] == 'J' or t[1][0] == 'R':
-                            opinionwords.append(t[0])
+                if t[1][0] == 'J' or t[1][0] == 'R' :
+                    opinionwords.append(t[0])
 
+            if ft == False:
+                opinionwords = []
+
+            for t in opinionwords:
+                if t not in final_list:
+                    final_list.append(t)
+
+            print(opinionwords)
+
+        print("**************************************************")
+
+for t in final_list:
+    opifile.write(t+"\n")
 

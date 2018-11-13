@@ -2,12 +2,221 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8890a6ad-dd79-4ea9-9498-e09281adf6ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/apriori.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features_apriori.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mridulscript.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opinion_orientation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allCLEANLINESS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/allCLEANLINESS.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allFOOD.txt" beforeDir="false" afterPath="$PROJECT_DIR$/allFOOD.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allLOCATION.txt" beforeDir="false" afterPath="$PROJECT_DIR$/allLOCATION.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allOTHER.txt" beforeDir="false" afterPath="$PROJECT_DIR$/allOTHER.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allROOMS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/allROOMS.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allSERVICE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/allSERVICE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allVALUE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/allVALUE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beauty1.json" beforeDir="false" afterPath="$PROJECT_DIR$/beauty1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_101.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_101.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_102.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_102.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_103.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_103.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_104.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_104.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_105.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_105.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_106.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_106.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_107.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_107.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_108.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_108.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_109.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_109.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_110.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_110.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_111.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_111.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_112.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_112.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_113.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_113.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_114.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_114.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_115.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_115.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_116.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_116.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_117.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_117.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_118.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_118.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_119.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_119.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_120.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_120.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_121.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_121.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_122.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_122.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_123.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_123.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_124.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_124.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_125.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_125.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_126.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_126.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_127.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_127.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_128.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_128.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_129.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_129.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_130.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_130.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_131.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_131.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_132.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_132.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_133.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_133.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_134.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_134.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_135.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_135.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_136.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_136.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_137.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_137.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_138.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_138.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_139.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_139.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_140.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_140.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_141.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_141.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_142.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_142.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_143.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_143.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_144.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_144.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_145.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_145.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_146.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_146.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_147.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_147.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_148.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_148.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_149.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_149.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_150.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_150.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_151.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_151.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_152.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_152.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_153.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_153.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_154.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_154.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_155.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_155.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_156.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_156.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_157.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_157.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_158.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_158.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_159.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_159.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_160.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_160.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_161.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_161.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_162.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_162.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_163.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_163.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_164.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_164.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_165.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_165.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_166.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_166.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_167.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_167.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_168.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_168.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_169.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_169.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_170.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_170.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_171.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_171.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_172.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_172.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_173.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_173.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_174.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_174.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_175.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_175.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_176.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_176.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_177.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_177.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_178.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_178.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_179.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_179.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_180.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_180.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_181.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_181.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_182.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_182.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_183.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_183.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_184.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_184.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_185.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_185.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_186.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_186.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_187.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_187.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_188.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_188.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_189.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_189.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_190.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_190.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_191.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_191.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_192.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_192.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_193.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_193.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_194.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_194.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_195.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_195.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_196.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_196.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_197.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_197.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_198.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_198.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_199.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_199.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_200.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_200.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_201.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_202.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_203.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_204.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_205.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_206.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_207.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_208.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_209.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_210.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_211.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_212.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_213.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_214.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_215.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_216.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_217.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_218.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_219.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_27.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_28.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_30.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_30.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_31.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_31.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_32.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_34.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_34.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_36.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_36.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_38.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_38.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_39.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_39.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_40.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_40.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_42.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_42.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_44.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_44.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_45.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_45.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_46.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_46.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_47.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_47.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_48.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_48.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_50.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_50.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_51.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_51.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_52.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_52.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_55.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_55.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_57.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_57.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_58.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_58.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_59.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_59.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_60.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_60.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_61.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_61.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_62.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_62.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_64.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_64.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_65.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_65.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_66.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_66.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_67.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_67.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_68.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_68.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_69.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_69.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_71.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_71.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_73.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_73.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_74.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_74.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_75.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_75.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_76.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_76.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_77.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_77.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_78.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_78.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_79.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_79.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_80.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_80.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_81.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_81.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_82.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_82.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_83.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_83.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_84.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_84.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_85.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_85.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_86.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_86.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_87.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_87.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_88.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_88.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_89.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_89.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_90.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_90.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_91.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_91.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_92.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_92.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_93.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_93.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_94.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_94.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_95.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_95.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_96.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_96.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_97.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_97.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_98.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_98.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalreviews/review_99.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalreviews/review_99.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opinionFinding.py" beforeDir="false" afterPath="$PROJECT_DIR$/opinionFinding.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tempp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tempp.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/try2.py" beforeDir="false" afterPath="$PROJECT_DIR$/try2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/try.py" beforeDir="false" afterPath="$PROJECT_DIR$/try.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,41 +266,47 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4195" />
+          <entry key="Python Console" value="263" />
+          <entry key="py" value="7451" />
           <entry key="tsv" value="1" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="4195" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="7714" />
           <entry key="TSV" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="json" value="2" />
-          <entry key="py" value="28" />
+          <entry key="py" value="43" />
           <entry key="tsv" value="1" />
-          <entry key="txt" value="31" />
+          <entry key="txt" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JSON" value="2" />
-          <entry key="PLAIN_TEXT" value="31" />
-          <entry key="Python" value="28" />
+          <entry key="PLAIN_TEXT" value="56" />
+          <entry key="Python" value="43" />
           <entry key="TSV" value="1" />
         </counts>
       </usages-collector>
     </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="miniproject" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/temp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1026">
-              <caret line="57" column="51" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="51" />
+            <state relative-caret-position="216">
+              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -99,11 +314,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/opinionFinding.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="73" column="53" lean-forward="true" selection-start-line="73" selection-start-column="53" selection-end-line="73" selection-end-column="53" />
+            <state relative-caret-position="616">
+              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -111,25 +326,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/try2.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/opinion_orientation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="36" />
+            <state relative-caret-position="252">
+              <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#0#10#0" expanded="true" />
+                <marker date="1542125246383" expanded="true" signature="1078:1079" ph="..." />
+                <marker date="1542125246383" expanded="true" signature="1104:1837" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/try3.py">
+        <entry file="file://$PROJECT_DIR$/mridulscript.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="38" selection-start-line="38" selection-end-line="45" />
+            <state relative-caret-position="1116">
+              <caret line="62" column="43" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="43" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#0#31#0" expanded="true" />
+                <marker date="1542125443411" expanded="true" signature="955:956" ph="..." />
               </folding>
             </state>
           </provider>
@@ -150,6 +368,7 @@
       <find>rooms</find>
       <find>support</find>
       <find>manager</find>
+      <find>-1</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -160,7 +379,6 @@
       <list>
         <option value="$PROJECT_DIR$/merging_data_sets.py" />
         <option value="$PROJECT_DIR$/dataset_preprocessing.py" />
-        <option value="$PROJECT_DIR$/try.py" />
         <option value="$PROJECT_DIR$/mingo.py" />
         <option value="$PROJECT_DIR$/try3.py" />
         <option value="$PROJECT_DIR$/try2.py" />
@@ -169,9 +387,16 @@
         <option value="$PROJECT_DIR$/dataset.tsv" />
         <option value="$PROJECT_DIR$/apriori.py" />
         <option value="$PROJECT_DIR$/mingo2.py" />
-        <option value="$PROJECT_DIR$/temp.py" />
         <option value="$PROJECT_DIR$/ReviewFolder/opinionFinding.py" />
+        <option value="$PROJECT_DIR$/opifile.txt" />
+        <option value="$PROJECT_DIR$/allFOOD.txt" />
         <option value="$PROJECT_DIR$/opinionFinding.py" />
+        <option value="$PROJECT_DIR$/allSERVICE.txt" />
+        <option value="$PROJECT_DIR$/opinion_orientation.py" />
+        <option value="$PROJECT_DIR$/mridulscript.py" />
+        <option value="$PROJECT_DIR$/testing.py" />
+        <option value="$PROJECT_DIR$/try.py" />
+        <option value="$PROJECT_DIR$/temp.py" />
       </list>
     </option>
   </component>
@@ -216,8 +441,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.try2">
-    <configuration name="dataset_preprocessing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.testing">
+    <configuration name="opinionFinding" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SentimentalAnalysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,7 +454,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataset_preprocessing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opinionFinding.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,7 +463,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="merging_data_sets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="opinion_orientation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SentimentalAnalysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,7 +475,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/merging_data_sets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opinion_orientation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,7 +484,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mingo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="testing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SentimentalAnalysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,7 +496,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mingo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,19 +548,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.dataset_preprocessing" />
-      <item itemvalue="Python.merging_data_sets" />
-      <item itemvalue="Python.mingo" />
       <item itemvalue="Python.try2" />
+      <item itemvalue="Python.opinionFinding" />
+      <item itemvalue="Python.opinion_orientation" />
+      <item itemvalue="Python.testing" />
       <item itemvalue="Python.try" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.try2" />
-        <item itemvalue="Python.mingo" />
+        <item itemvalue="Python.testing" />
+        <item itemvalue="Python.opinion_orientation" />
         <item itemvalue="Python.try" />
-        <item itemvalue="Python.dataset_preprocessing" />
-        <item itemvalue="Python.merging_data_sets" />
+        <item itemvalue="Python.opinionFinding" />
+        <item itemvalue="Python.try2" />
       </list>
     </recent_temporary>
   </component>
@@ -356,6 +581,25 @@
     <frame x="0" y="26" width="1366" height="742" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.17633928" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50163937" side_tool="true" weight="0.15550596" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3786885" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3442623" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.43442622" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15550596" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -367,28 +611,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3967213" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3442623" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3295082" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3295082" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15550596" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20163934" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.026229508" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3295082" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -398,44 +623,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/merging_data_sets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="215" column="4" lean-forward="true" selection-start-line="215" selection-start-column="4" selection-end-line="215" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_preprocess.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="216" column="3" lean-forward="true" selection-start-line="216" selection-start-column="3" selection-end-line="216" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opinionwords.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-336">
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/finalreviews/review_1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -464,13 +651,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="71" lean-forward="true" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nouns.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="239098" column="5" selection-start-line="239098" selection-start-column="5" selection-end-line="239098" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -548,16 +728,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/featureextraction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="40" column="20" lean-forward="true" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/apriori.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="526">
@@ -580,16 +750,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exclude.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/allrooms.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -617,51 +777,10 @@
     <entry file="file://$PROJECT_DIR$/allSERVICES.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/allVALUE.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/allFOOD.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/allROOMS.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/allSERVICE.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/allOTHER.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/allLOCATION.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ReviewFolder/opinionFinding.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mingo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -675,46 +794,176 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="57" column="51" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mingo2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4">
-          <caret line="12" column="13" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="216">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="10" selection-end-line="37" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/allCLEANLINESS.txt">
+    <entry file="file://$PROJECT_DIR$/mingo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        <state relative-caret-position="18">
+          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/try2.py">
+    <entry file="file://$PROJECT_DIR$/featureextraction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="36" />
+        <state relative-caret-position="432">
+          <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/negg.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/negative-words.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nouns.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1737">
+          <caret line="239101" column="4" selection-start-line="239101" selection-start-column="4" selection-end-line="239101" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mingo2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opifile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mingo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="400" column="32" selection-start-line="400" selection-start-column="32" selection-end-line="400" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="51" column="48" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="19" selection-start-line="19" selection-end-line="22" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="66" column="15" selection-start-line="66" selection-start-column="15" selection-end-line="66" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allOTHER.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allROOMS.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allSERVICE.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allVALUE.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allCLEANLINESS.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allFOOD.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2997">
+          <caret line="81" column="15" selection-start-line="81" selection-start-column="15" selection-end-line="81" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allLOCATION.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mridulscript.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1116">
+          <caret line="62" column="43" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <marker date="1542125443411" expanded="true" signature="955:956" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/opinionFinding.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="73" column="53" lean-forward="true" selection-start-line="73" selection-start-column="53" selection-end-line="73" selection-end-column="53" />
+        <state relative-caret-position="616">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opinion_orientation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1542125246383" expanded="true" signature="1078:1079" ph="..." />
+            <marker date="1542125246383" expanded="true" signature="1104:1837" ph="..." />
           </folding>
         </state>
       </provider>
