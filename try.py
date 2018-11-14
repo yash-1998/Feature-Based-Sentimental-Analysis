@@ -15,6 +15,7 @@ with open('beauty1.json', 'r') as f:
 
 aspect = "NOTRELATED"
 base = "/home/yash/Desktop/miniproject/finalreviews/review_"
+test_base = "/home/yash/Desktop/miniproject/testvalues/review_"
 
 pp = []
 jj=74

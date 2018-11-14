@@ -27,7 +27,7 @@ switcher = {
 }
 
 for i in range(0, len(aspects)):
-    filename = "/home/yash/Desktop/miniproject/all" + str(aspects[i]) + ".txt"
+    filename = "/home/yash/Desktop/miniproject/pruned/final" + str(aspects[i])
     with open(filename, 'r') as myfile:
         while True:
             data = myfile.readline()
@@ -59,7 +59,7 @@ def extra(sentence):
                                phrase = tagged[i][0] + " " + tagged[i+1][0]
                                for j in range(0,7):
                                    if phrase in switcher.get(j):
-                                       nouns.append((phrase,j))
+                                       nouns.append((phrase,j,i))
                                        mark[i] = 0
                                        mark[i+1] = 0
                                        break
@@ -72,7 +72,7 @@ def extra(sentence):
                     if tagged[i][1][0] == 'N':
                         for j in range(0, 7):
                             if tagged[i][0] in switcher.get(j):
-                                nouns.append((tagged[i][0],j))
+                                nouns.append((tagged[i][0],j,i))
                                 break
 
     for i in range(0, len(tagged)):
@@ -80,7 +80,7 @@ def extra(sentence):
         if m:
             if len(tagged[i][0]) > 2:
                 if tagged[i][1][0] == 'J' or tagged[i][1][0] == 'R':
-                    adjs.append(tagged[i][0])
+                    adjs.append((tagged[i][0],i))
     return (nouns,adjs)
 
 #
