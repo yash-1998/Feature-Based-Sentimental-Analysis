@@ -1061,6 +1061,7 @@ kindly
 kindness
 knowledgeable
 kudos
+large
 large-capacity
 laud
 laudable
@@ -2004,4 +2005,5 @@ zeal
 zenith
 zest
 zippy
+great
 great

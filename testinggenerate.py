@@ -13,7 +13,7 @@ with open('beauty1.json', 'r') as f:
 aspect = "NOTRELATED"
 base = "/home/yash/Desktop/miniproject/finalreviews/review_"
 test_base = "/home/yash/Desktop/miniproject/testvalues/review_"
-aspects = ["CLEANLINESS", "ROOMS", "LOCATION", "SERVICE", "VALUE", "OTHER", "FOOD"]
+aspects = ["ROOMS", "LOCATION", "SERVICE", "VALUE", "FOOD"]
 pp = []
 jj=74
 for i in range(74,220):
@@ -29,12 +29,11 @@ for x in review:
         dic["ROOMS"]=0
         dic["SERVICE"]=0
         dic["LOCATION"]=0
-        dic["OTHER"]=0
         dic["FOOD"]=0
-        dic["CLEANLINESS"]=0
         dic["VALUE"]=0
 
         for j,k in zip(x['segmentLabels'],x['segments']):
+
             for jj in j:
                 # print(jj + " " + j[jj])
                 if jj in aspects:

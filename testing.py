@@ -11,14 +11,12 @@ pattern = re.compile("[A-Za-z0-9]+")
 fileList = glob.glob('/home/yash/Desktop/miniproject/finalreviews/*.txt')
 fileList.sort()
 i = 1
-aspects = ["CLEANLINESS", "ROOMS", "LOCATION", "SERVICE", "VALUE", "OTHER", "FOOD"]
+aspects = ["ROOMS", "LOCATION", "SERVICE", "VALUE", "FOOD"]
 final_list = []
-cleanlinesslist = []
 roomslist = []
 locationlist = []
 servicelist = []
 valuelist = []
-otherlist = []
 foodlist = []
 pos_op = set([])
 neg_op = set([])
@@ -46,13 +44,11 @@ while True:
 
 
 switcher = {
-    0: cleanlinesslist,
-    1: roomslist,
-    2: locationlist,
-    3: servicelist,
-    4: valuelist,
-    5: otherlist,
-    6: foodlist,
+    0: roomslist,
+    1: locationlist,
+    2: servicelist,
+    3: valuelist,
+    4: foodlist,
 }
 
 for i in range(0, len(aspects)):
@@ -76,51 +72,67 @@ for filename in fileList:
     index = temp2[0]
     print(index)
     with open(filename, 'r') as myfile:
-
         data = myfile.read().replace('\n', '')
         sentences = data.split('.')
-        score = [0, 0, 0, 0, 0, 0, 0]
+        score = [0, 0, 0, 0, 0]
         for sentence in sentences:
-
+            sentence = sentence.replace(","," ,")
+            sentence = sentence.replace(".", " .")
+            sentence = sentence.replace("-", " -")
+            sentence = sentence.replace(":", " :")
             print(sentence)
-            features,b = extra(sentence)
-            opinions = []/home/yash/Desktop/miniproject/finalreviews/review_
+            features,b,postag = extra(sentence,index)
+            opinions = []
             for i in b:
                 if i[0] in pos_op:
-                    opinions.append((i[0],1,i[1]))
-                if i in neg_op:
-                    opinions.append((i[0],-1,i[1]))
+                    opinions.append((i[0],1*(int)(i[2]),i[1]))
+                if i[0] in neg_op:
+                    opinions.append((i[0],-1*(int)(i[2]),i[1]))
             if len(features) > 0 and len(opinions) > 0:
                 print(features)
                 print(opinions)
+                mark = []
+                for x in opinions:
+                    mark.append(0)
                 print("\n")
 
                 for feature in features:
                     prvs = (-1,-1,-1)
+                    k = 0
                     for opinion in opinions:
-                        if opinion[2] < feature[2]:
+                        if opinion[2] < feature[2] and mark[k] == 0:
                             prvs = opinion
+                            i = k
+                        k += 1
 
+                    j = 0
                     next = (-1, -1, -1)
                     for opinion in opinions:
-                        if opinion[2] > feature[2]:
+                        if opinion[2] > feature[2] and mark[j] == 0:
                             next = opinion
                             break
+                        j += 1
 
+                    if prvs[2] == -1 and next[2] == -1:
+                        continue
                     if prvs[2] == -1:
                         score[feature[1]] += next[1]
+                        mark[j] = 1
                         print(feature[0] + str(feature[1]) + " " + next[0] +"\n")
                         continue
 
                     if next[2] == -1:
                         score[feature[1]] += prvs[1]
+                        mark[i] = 1
                         print(feature[0] + str(feature[1]) + " " + prvs[0] + "\n")
                         continue
 
                     if abs(feature[2] - next[2]) < abs(feature[2] - prvs[2]):
+                        mark[j] = 1
                         print(feature[0] + str(feature[1]) + " " + next[0] + "\n")
                         score[feature[1]] += next[1]
                     else:
+                        mark[i] = 1
                         print(feature[0] + " " + prvs[0] + "\n")
                         score[feature[1]] += prvs[1]
 

@@ -30,7 +30,7 @@ switcher = {
 }
 
 for i in range(0,len(aspects)):
-    filename = "/home/yash/Desktop/miniproject/all"+str(aspects[i])+".txt"
+    filename = "/home/yash/Desktop/miniproject/pruned/final"+str(aspects[i])
     with open(filename, 'r') as myfile:
         while True:
             data = myfile.readline()
@@ -66,9 +66,11 @@ for filename in fileList:
                             for i in range(0,6):
                                 if t[0] in switcher.get(i):
                                     ft = True
-
-                if t[1][0] == 'J' or t[1][0] == 'R' :
-                    opinionwords.append(t[0])
+                m = re.match(pattern, t[0])
+                if m:
+                    if len(t[0]) > 2:
+                        if t[1][0] == 'J' or t[1][0] == 'R' :
+                            opinionwords.append(t[0])
 
             if ft == False:
                 opinionwords = []

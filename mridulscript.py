@@ -7,23 +7,19 @@ import sys
 
 
 pattern = re.compile("[A-Za-z0-9]+")
-aspects = ["CLEANLINESS", "ROOMS", "LOCATION", "SERVICE", "VALUE", "OTHER", "FOOD"]
+aspects = [ "ROOMS", "LOCATION", "SERVICE", "VALUE", "FOOD"]
 final_list = []
-cleanlinesslist = []
 roomslist = []
 locationlist = []
 servicelist = []
 valuelist = []
-otherlist = []
 foodlist = []
 switcher = {
-    0: cleanlinesslist,
-    1: roomslist,
-    2: locationlist,
-    3: servicelist,
-    4: valuelist,
-    5: otherlist,
-    6: foodlist,
+    0: roomslist,
+    1: locationlist,
+    2: servicelist,
+    3: valuelist,
+    4: foodlist,
 }
 
 for i in range(0, len(aspects)):
@@ -39,9 +35,10 @@ for i in range(0, len(aspects)):
             switcher.get(i).append(word)
 
 # print(foodlist)
-def extra(sentence):
+def extra(sentence,index):
     wordslist = word_tokenize(sentence.lower())
     tagged = nltk.pos_tag(wordslist)
+    print(tagged)
     nouns = []
     mark = []
     adjs = []
@@ -57,7 +54,7 @@ def extra(sentence):
                        if i+1 < len(tagged):
                            if tagged[i+1][1][0] == 'N':
                                phrase = tagged[i][0] + " " + tagged[i+1][0]
-                               for j in range(0,7):
+                               for j in range(0,5):
                                    if phrase in switcher.get(j):
                                        nouns.append((phrase,j,i))
                                        mark[i] = 0
@@ -70,7 +67,7 @@ def extra(sentence):
             if m:
                 if len(tagged[i][0]) > 2:
                     if tagged[i][1][0] == 'N':
-                        for j in range(0, 7):
+                        for j in range(0, 5):
                             if tagged[i][0] in switcher.get(j):
                                 nouns.append((tagged[i][0],j,i))
                                 break
@@ -80,8 +77,17 @@ def extra(sentence):
         if m:
             if len(tagged[i][0]) > 2:
                 if tagged[i][1][0] == 'J' or tagged[i][1][0] == 'R':
-                    adjs.append((tagged[i][0],i))
-    return (nouns,adjs)
+                    if i > 0 and tagged[i-1][0].lower() == 'not' or tagged[i-1][0].lower() == 'too' or (len(tagged[i-1][0]) >= 3 and tagged[i-1][0].lower()[len(tagged[i-1][0])-3:len(tagged[i-1][0])] == "n't"):
+                        adjs.append((tagged[i][0],i,-1))
+                    else:
+                        adjs.append((tagged[i][0],i,1))
+    if index == '2':
+        print("hello")
+    if index == '2':
+        print (nouns )
+    if index == '2':
+        print(adjs)
+    return (nouns,adjs,tagged)
 
 #
 # sene = "we went to the steak house (la cava) and it was great"
